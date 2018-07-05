@@ -1,0 +1,1402 @@
+"APE code","Barcode","Name","Product Type","Can be Sold","Can be Purchased","COST excl GST","AP Discount %","MARK UP%","Description","Invoicing Policy","Control Purchase Bills","Vendors/ID","Vendors/Price x 1 CTN","Routes/ID","Internal Category/ID","Purchase Unit of Measure/ID","Unit of Measure/ID","Attributes/Attribute/ID","Attributes/Value","SALE TOTAL P/S ex GST/DEL/Other","Length","Width (or OD)","Thickness (or ID)","Wall Thickness","Form","Color Code","Warranty","Customer Lead Time","Manufacturing Lead Time","Income Account","Expense Account","Price Difference Account","Vendors/Price 1 - 4 CTN","Vendors/Price 5+ CTN"
+1800001,"0491/4","Signholder With Base Adh Tape 1220Mm CTN Qty 25","Tape",1,1,8.45,,,,,,18,8.45,,,"Tape","Carton",,,15.21,,,,,,,,,,,,,6.5,5.65
+1800002,"0491/4","Signholder With Base Adh Tape 1220Mm CTN Qty 25","Tape",1,1,8.45,,,,,,18,8.45,,,"Tape","Carton",,,15.21,,,,,,,,,,,,,6.5,5.65
+1800003,"0507/8","Ticket Channel 2440l CTN Qty 25","Holder",1,1,12.7,,,,,,18,12.7,,,"Holder","Carton",,,22.86,,,,,,,,,,,,,9.8,8.5
+1800004,"0507/8","Ticket Channel 2440l CTN Qty 25","Holder",1,1,12.7,,,,,,18,12.7,,,"Holder","Carton",,,22.86,,,,,,,,,,,,,9.8,8.5
+1800005,"0846/2","Round Chrome 25  Tube 700 CTN Qty 10","Tube",1,1,6.2,,,,,,18,6.2,,,"Tube","Carton",,,11.16,,,,,,,,,,,,,5.3,4.6
+1800006,"0846/5","Round Chrome 25  Tube 1525 CTN Qty 10","Tube",1,1,12.8,,,,,,18,12.8,,,"Tube","Carton",,,23.04,,,,,,,,,,,,,10.9,9.5
+1800007,"0846/6","Round Chrome 25  Tube 1830 CTN Qty 10","Tube",1,1,15.4,,,,,,18,15.4,,,"Tube","Carton",,,27.72,,,,,,,,,,,,,13.2,11.4
+1800008,"0846/8","Round Chrome 25  Tube 2440 CTN Qty 10","Tube",1,1,20.5,,,,,,18,20.5,,,"Tube","Carton",,,36.9,,,,,,,,,,,,,17.5,15.2
+1800009,"1770/4","Reg Hook 100 CTN Qty 250","Hook",1,1,0.28,,,,,,18,0.28,,,"Hook","Carton",,,0.5,,,,,,,,,,,,,0.16,0.14
+1800010,"1770/6","Reg Hook 150 CTN Qty 250","Hook",1,1,0.34,,,,,,18,0.34,,,"Hook","Carton",,,0.61,,,,,,,,,,,,,0.2,0.17
+1800011,"1770/12","Reg Hook 300 CTN Qty 250","Hook",1,1,0.56,,,,,,18,0.56,,,"Hook","Carton",,,1.01,,,,,,,,,,,,,0.32,0.28
+1800012,231,"Watch Display - Glue To 12.7Mm Rod CTN Qty 100","Rod",1,1,2.3,,,,,,18,2.3,,,"Rod","Carton",,,4.14,,,,,,,,,,,,,1.8,1.6
+1800013,243,"Grooved Wall Mount Spectacle 80Mm CTN Qty 100","Wall Mount",1,1,3.2,,,,,,18,3.2,,,"Wall Mount","Carton",,,5.76,,,,,,,,,,,,,2.55,2.25
+1800014,246,"Grooved Wall Spec Clip CTN Qty 100","Clip",1,1,4,,,,,,18,4,,,"Clip","Carton",,,7.2,,,,,,,,,,,,,3.3,2.9
+1800015,247,"Grooved Wall Mount Spectacle 50Mm CTN Qty 100","Wall Mount",1,1,2.6,,,,,,18,2.6,,,"Wall Mount","Carton",,,4.68,,,,,,,,,,,,,2.15,1.9
+1800016,370,"Glass Dome 115 d X 200 High CTN Qty 5","Dome",1,1,30.4,,,,,,18,30.4,,,"Dome","Carton",,,54.72,,,,,,,,,,,,,25.3,22.5
+1800017,371,"Glass Dome 200 d X 300 High CTN Qty 5","Dome",1,1,72.5,,,,,,18,72.5,,,"Dome","Carton",,,130.5,,,,,,,,,,,,,63.45,56.4
+1800018,400,"Angle Info Holder Bus Card CTN Qty 100","Holder",1,1,2.5,,,,,,18,2.5,,,"Holder","Carton",,,4.5,,,,,,,,,,,,,1.98,1.75
+1800019,401,"Angle Info Holder  a6 CTN Qty 100","Holder",1,1,4.3,,,,,,18,4.3,,,"Holder","Carton",,,7.74,,,,,,,,,,,,,3.5,3.1
+1800020,402,"Angle Info Holder Dl CTN Qty 100","Holder",1,1,5.4,,,,,,18,5.4,,,"Holder","Carton",,,9.72,,,,,,,,,,,,,4.35,3.85
+1800021,403,"Angle Info Holder a5 CTN Qty 50","Holder",1,1,5.9,,,,,,18,5.9,,,"Holder","Carton",,,10.62,,,,,,,,,,,,,4.8,4.25
+1800022,404,"Angle Info Holder a4 CTN Qty 50","Holder",1,1,7.9,,,,,,18,7.9,,,"Holder","Carton",,,14.22,,,,,,,,,,,,,6.7,5.95
+1800023,405,"Angle Info Holder a3 CTN Qty 25","Holder",1,1,16.2,,,,,,18,16.2,,,"Holder","Carton",,,29.16,,,,,,,,,,,,,13.7,12.2
+1800024,411,"Vertical Info Holder a6 CTN Qty 100","Holder",1,1,4.6,,,,,,18,4.6,,,"Holder","Carton",,,8.28,,,,,,,,,,,,,3.7,3.3
+1800025,412,"Vertical Info Holder Dl CTN Qty 100","Holder",1,1,5.5,,,,,,18,5.5,,,"Holder","Carton",,,9.9,,,,,,,,,,,,,4.45,3.95
+1800026,413,"Vertical Info Holder a5 CTN Qty 50","Holder",1,1,6.1,,,,,,18,6.1,,,"Holder","Carton",,,10.98,,,,,,,,,,,,,4.95,4.4
+1800027,414,"Vertical Info Holder a4 CTN Qty 50","Holder",1,1,8.5,,,,,,18,8.5,,,"Holder","Carton",,,15.3,,,,,,,,,,,,,6.95,6.2
+1800028,415,"Vertical Info Holder a3 CTN Qty 25","Holder",1,1,18.4,,,,,,18,18.4,,,"Holder","Carton",,,33.12,,,,,,,,,,,,,15.6,13.9
+1800029,479,"Hinged Signholder CTN Qty 100","Signholder",1,1,2.55,,,,,,18,2.55,,,"Signholder","Carton",,,4.59,,,,,,,,,,,,,1.96,1.7
+1800030,485,"Chrome Base CTN Qty 10","Base",1,1,9.6,,,,,,18,9.6,,,"Base","Carton",,,17.28,,,,,,,,,,,,,8.4,6.8
+1800031,486,"Threaded Stem Adjustable CTN Qty 50","Stem",1,1,6.4,,,,,,18,6.4,,,"Stem","Carton",,,11.52,,,,,,,,,,,,,5.2,4.3
+1800032,487,"Signholder With Adh Tape 25Mm CTN Qty 200","Tape",1,1,0.45,,,,,,18,0.45,,,"Tape","Carton",,,0.81,,,,,,,,,,,,,0.35,0.3
+1800033,489,"Signholder With Adh Tape 75Mm CTN Qty 100","Tape",1,1,1.2,,,,,,18,1.2,,,"Tape","Carton",,,2.16,,,,,,,,,,,,,0.92,0.8
+1800034,490,"Signholder With Base Adh Tape 25Mm CTN Qty 200","Tape",1,1,0.38,,,,,,18,0.38,,,"Tape","Carton",,,0.68,,,,,,,,,,,,,0.29,0.25
+1800035,490,"Signholder With Base Adh Tape 25Mm CTN Qty 200","Tape",1,1,0.38,,,,,,18,0.38,,,"Tape","Carton",,,0.68,,,,,,,,,,,,,0.29,0.25
+1800036,491,"Signholder With Base Adh Tape 75Mm CTN Qty 100","Tape",1,1,0.82,,,,,,18,0.82,,,"Tape","Carton",,,1.48,,,,,,,,,,,,,0.63,0.55
+1800037,491,"Signholder With Base Adh Tape 75Mm CTN Qty 100","Tape",1,1,0.82,,,,,,18,0.82,,,"Tape","Carton",,,1.48,,,,,,,,,,,,,0.63,0.55
+1800038,492,"Signholder With Base Adh Tape 150Mm CTN Qty 100","Tape",1,1,2.25,,,,,,18,2.25,,,"Tape","Carton",,,4.05,,,,,,,,,,,,,1.75,1.5
+1800039,492,"Signholder With Base Adh Tape 150Mm CTN Qty 100","Tape",1,1,2.25,,,,,,18,2.25,,,"Tape","Carton",,,4.05,,,,,,,,,,,,,1.75,1.5
+1800040,496,"Signholder Wide Base With Adh Tape 25Mm CTN Qty 200","Tape",1,1,0.45,,,,,,18,0.45,,,"Tape","Carton",,,0.81,,,,,,,,,,,,,0.35,0.3
+1800041,496,"Signholder Wide Base With Adh Tape 25Mm CTN Qty 200","Tape",1,1,0.45,,,,,,18,0.45,,,"Tape","Carton",,,0.81,,,,,,,,,,,,,0.35,0.3
+1800042,497,"Signholder Wide Base With Adh Tape 75Mm CTN Qty 200","Tape",1,1,1.2,,,,,,18,1.2,,,"Tape","Carton",,,2.16,,,,,,,,,,,,,0.92,0.8
+1800043,497,"Signholder Wide Base With Adh Tape 75Mm CTN Qty 200","Tape",1,1,1.2,,,,,,18,1.2,,,"Tape","Carton",,,2.16,,,,,,,,,,,,,0.92,0.8
+1800044,498,"Signholder Wide Base With Adh Tape 15Mm CTN Qty 200","Tape",1,1,2.6,,,,,,18,2.6,,,"Tape","Carton",,,4.68,,,,,,,,,,,,,2.15,1.9
+1800045,498,"Signholder Wide Base With Adh Tape 15Mm CTN Qty 200","Tape",1,1,2.6,,,,,,18,2.6,,,"Tape","Carton",,,4.68,,,,,,,,,,,,,2.15,1.9
+1800046,505,"Menu Hldr Sloping - 60 x 38mm CTN Qty 100","Holder",1,1,0.35,,,,,,18,0.35,,,"Holder","Carton",,,0.63,,,,,,,,,,,,,0.3,0.25
+1800047,505,"Menu Hldr Sloping - 60 x 38mm CTN Qty 100","Holder",1,1,0.35,,,,,,18,0.35,,,"Holder","Carton",,,0.63,,,,,,,,,,,,,0.3,0.25
+1800048,506,"Menu Hldr Vertical - 60 x 38mm CTN Qty 100","Holder",1,1,0.35,,,,,,18,0.35,,,"Holder","Carton",,,0.63,,,,,,,,,,,,,0.3,0.25
+1800049,506,"Menu Hldr Vertical - 60 x 38mm CTN Qty 100","Holder",1,1,0.35,,,,,,18,0.35,,,"Holder","Carton",,,0.63,,,,,,,,,,,,,0.3,0.25
+1800050,508,"Acr Card Holder CTN Qty 200","Holder",1,1,1.85,,,,,,18,1.85,,,"Holder","Carton",,,3.33,,,,,,,,,,,,,1.65,1.45
+1800051,508,"Acr Card Holder CTN Qty 200","Holder",1,1,1.85,,,,,,18,1.85,,,"Holder","Carton",,,3.33,,,,,,,,,,,,,1.65,1.45
+1800052,509,"Small Ticket Holder CTN Qty 200","Holder",1,1,0.7,,,,,,18,0.7,,,"Holder","Carton",,,1.26,,,,,,,,,,,,,0.6,0.49
+1800053,509,"Small Ticket Holder CTN Qty 200","Holder",1,1,0.7,,,,,,18,0.7,,,"Holder","Carton",,,1.26,,,,,,,,,,,,,0.6,0.49
+1800054,510,"Sh t/Hold 20 CTN Qty 200","Holder",1,1,0.92,,,,,,18,0.92,,,"Holder","Carton",,,1.66,,,,,,,,,,,,,0.74,0.66
+1800055,510,"Sh t/Hold 20 CTN Qty 200","Holder",1,1,0.92,,,,,,18,0.92,,,"Holder","Carton",,,1.66,,,,,,,,,,,,,0.74,0.66
+1800056,511,"Sh 6 t Hold CTN Qty 200","Holder",1,1,0.92,,,,,,18,0.92,,,"Holder","Carton",,,1.66,,,,,,,,,,,,,0.74,0.66
+1800057,511,"Sh 6 t Hold CTN Qty 200","Holder",1,1,0.92,,,,,,18,0.92,,,"Holder","Carton",,,1.66,,,,,,,,,,,,,0.74,0.66
+1800058,512,"Basket Ticket Clip CTN Qty 200","Clip",1,1,0.98,,,,,,18,0.98,,,"Clip","Carton",,,1.76,,,,,,,,,,,,,0.79,0.7
+1800059,512,"Basket Ticket Clip CTN Qty 200","Clip",1,1,0.98,,,,,,18,0.98,,,"Clip","Carton",,,1.76,,,,,,,,,,,,,0.79,0.7
+1800060,513,"Vertical Card Holder 75Mm CTN Qty 200","Holder",1,1,1.4,,,,,,18,1.4,,,"Holder","Carton",,,2.52,,,,,,,,,,,,,1.05,0.9
+1800061,513,"Vertical Card Holder 75Mm CTN Qty 200","Holder",1,1,1.4,,,,,,18,1.4,,,"Holder","Carton",,,2.52,,,,,,,,,,,,,1.05,0.9
+1800062,514,"Vertical Card Holder 150Mm CTN Qty 200","Holder",1,1,2.25,,,,,,18,2.25,,,"Holder","Carton",,,4.05,,,,,,,,,,,,,1.7,1.5
+1800063,514,"Vertical Card Holder 150Mm CTN Qty 200","Holder",1,1,2.25,,,,,,18,2.25,,,"Holder","Carton",,,4.05,,,,,,,,,,,,,1.7,1.5
+1800064,518,"Acrylic Frame Signholder a5 Port CTN Qty 48","Frame",1,1,9.6,,,,,,18,9.6,,,"Frame","Caron",,,17.28,,,,,,,,,,,,,8.3,7.2
+1800065,518,"Acrylic Frame Signholder a5 Port CTN Qty 48","Frame",1,1,9.6,,,,,,18,9.6,,,"Frame","Caron",,,17.28,,,,,,,,,,,,,8.3,7.2
+1800066,519,"Acrylic Frame Signholder a4p Port CTN Qty 24","Frame",1,1,12.6,,,,,,18,12.6,,,"Frame","Caron",,,22.68,,,,,,,,,,,,,10.9,9.5
+1800067,519,"Acrylic Frame Signholder a4p Port CTN Qty 24","Frame",1,1,12.6,,,,,,18,12.6,,,"Frame","Caron",,,22.68,,,,,,,,,,,,,10.9,9.5
+1800068,520,"Threaded Stem 75Mm CTN Qty 100","Stem",1,1,0.8,,,,,,18,0.8,,,"Stem","Carton",,,1.44,,,,,,,,,,,,,0.7,0.6
+1800069,520,"Threaded Stem 75Mm CTN Qty 100","Stem",1,1,0.8,,,,,,18,0.8,,,"Stem","Carton",,,1.44,,,,,,,,,,,,,0.7,0.6
+1800070,521,"Threaded Stem 150Mm CTN Qty 100","Stem",1,1,1.05,,,,,,18,1.05,,,"Stem","Carton",,,1.89,,,,,,,,,,,,,0.92,0.8
+1800071,521,"Threaded Stem 150Mm CTN Qty 100","Stem",1,1,1.05,,,,,,18,1.05,,,"Stem","Carton",,,1.89,,,,,,,,,,,,,0.92,0.8
+1800072,523,"Threaded Stem 230Mm CTN Qty 100","Stem",1,1,1.35,,,,,,18,1.35,,,"Stem","Carton",,,2.43,,,,,,,,,,,,,1.15,1
+1800073,523,"Threaded Stem 230Mm CTN Qty 100","Stem",1,1,1.35,,,,,,18,1.35,,,"Stem","Carton",,,2.43,,,,,,,,,,,,,1.15,1
+1800074,525,"Magnetic Base 75Mm CTN Qty 100","Base",1,1,4.1,,,,,,18,4.1,,,"Base","Carton",,,7.38,,,,,,,,,,,,,3.6,3.1
+1800075,525,"Magnetic Base 75Mm CTN Qty 100","Base",1,1,4.1,,,,,,18,4.1,,,"Base","Carton",,,7.38,,,,,,,,,,,,,3.6,3.1
+1800076,526,"Corner Magnetic Base CTN Qty 100","Base",1,1,7.3,,,,,,18,7.3,,,"Base","Carton",,,13.14,,,,,,,,,,,,,6.3,5.5
+1800077,526,"Corner Magnetic Base CTN Qty 100","Base",1,1,7.3,,,,,,18,7.3,,,"Base","Carton",,,13.14,,,,,,,,,,,,,6.3,5.5
+1800078,545,"Chrome Frame s / Holder a4 Port CTN Qty 60","Holder",1,1,5.9,,,,,,18,5.9,,,"Holder","Carton",,,10.62,,,,,,,,,,,,,5.2,4.7
+1800079,546,"Chrome Frame s / Holder a4 Land CTN Qty 60","Holder",1,1,5.9,,,,,,18,5.9,,,"Holder","Carton",,,10.62,,,,,,,,,,,,,5.2,4.7
+1800080,547,"Chrome Frame s / Holder a5 Port CTN Qty 60","Holder",1,1,4.5,,,,,,18,4.5,,,"Holder","Carton",,,8.1,,,,,,,,,,,,,3.9,3.5
+1800081,548,"Chrome Frame s / Holder a5 Land CTN Qty 60","Holder",1,1,4.5,,,,,,18,4.5,,,"Holder","Carton",,,8.1,,,,,,,,,,,,,3.9,3.5
+1800082,549,"Chrome Frame s / Holder a3 Land CTN Qty 60","Holder",1,1,8.7,,,,,,18,8.7,,,"Holder","Carton",,,15.66,,,,,,,,,,,,,7.65,6.8
+1800083,550,"Std Duty Peg 50 CTN Qty 500","Peg",1,1,0.49,,,,,,18,0.49,,,"Peg","Carton",,,0.88,,,,,,,,,,,,,0.38,0.33
+1800084,551,"Std Duty Peg 100 CTN Qty 500","Peg",1,1,0.52,,,,,,18,0.52,,,"Peg","Carton",,,0.94,,,,,,,,,,,,,0.4,0.35
+1800085,552,"Std Duty Peg 150 CTN Qty 500","Peg",1,1,0.54,,,,,,18,0.54,,,"Peg","Carton",,,0.97,,,,,,,,,,,,,0.42,0.36
+1800086,553,"Std Duty Peg 200 CTN Qty 500","Peg",1,1,0.64,,,,,,18,0.64,,,"Peg","Carton",,,1.15,,,,,,,,,,,,,0.49,0.43
+1800087,560,"Hd Peg Hook 100 CTN Qty 250","Hook",1,1,0.62,,,,,,18,0.62,,,"Hook","Carton",,,1.12,,,,,,,,,,,,,0.47,0.41
+1800088,561,"Hd Peg Hook 150 CTN Qty 250","Hook",1,1,0.62,,,,,,18,0.62,,,"Hook","Carton",,,1.12,,,,,,,,,,,,,0.47,0.41
+1800089,562,"Hd Peg Hook 200 CTN Qty 250","Hook",1,1,0.91,,,,,,18,0.91,,,"Hook","Carton",,,1.64,,,,,,,,,,,,,0.7,0.61
+1800090,563,"Hd Peg Hook 250 CTN Qty 250","Hook",1,1,0.96,,,,,,18,0.96,,,"Hook","Carton",,,1.73,,,,,,,,,,,,,0.74,0.64
+1800091,564,"Hd Peg Hook 300 CTN Qty 250","Hook",1,1,1.06,,,,,,18,1.06,,,"Hook","Carton",,,1.91,,,,,,,,,,,,,0.82,0.71
+1800092,571,"Swedge Cups Chrome CTN Qty 200","Suction Cup",1,1,1.15,,,,,,18,1.15,,,"Suction Cup","Carton",,,2.07,,,,,,,,,,,,,1,0.85
+1800093,572,"Swedge Cups Polycarbonate CTN Qty 200","Suction Cup",1,1,0.4,,,,,,18,0.4,,,"Suction Cup","Carton",,,0.72,,,,,,,,,,,,,0.32,0.25
+1800094,573,"Swedge Stem 75Mm CTN Qty 100","Stem",1,1,0.9,,,,,,18,0.9,,,"Stem","Carton",,,1.62,,,,,,,,,,,,,0.75,0.65
+1800095,574,"Swedge Stem 150Mm CTN Qty 100","Stem",1,1,1.2,,,,,,18,1.2,,,"Stem","Carton",,,2.16,,,,,,,,,,,,,1.05,0.9
+1800096,575,"Loop Type Hook - 100mm CTN Qty 250","Hook",1,1,0.49,,,,,,18,0.49,,,"Hook","Carton",,,0.88,,,,,,,,,,,,,0.39,0.35
+1800097,576,"Loop Type Hook - 150mm CTN Qty 250","Hook",1,1,0.55,,,,,,18,0.55,,,"Hook","Carton",,,0.99,,,,,,,,,,,,,0.44,0.4
+1800098,577,"Loop Type Hook - 200mm CTN Qty 250","Hook",1,1,0.85,,,,,,18,0.85,,,"Hook","Carton",,,1.53,,,,,,,,,,,,,0.72,0.6
+1800099,600,"45mm Suction Cup - Plain CTN Qty 500","Suction Cup",1,1,0.35,,,,,,18,0.35,,,"Suction Cup","Carton",,,0.63,,,,,,,,,,,,,0.15,0.1
+1800100,601,"45mm Suction Cup - Metal Hook CTN Qty 500","Hook",1,1,0.5,,,,,,18,0.5,,,"Hook","Carton",,,0.9,,,,,,,,,,,,,0.25,0.15
+1800101,603,"20mm Suction Cup - Plain CTN Qty 1000","Suction Cup",1,1,0.2,,,,,,18,0.2,,,"Suction Cup","Carton",,,0.36,,,,,,,,,,,,,0.1,0.06
+1800102,604,"20mm Suction Cup - Metal Hook CTN Qty 1000","Hook",1,1,0.4,,,,,,18,0.4,,,"Hook","Carton",,,0.72,,,,,,,,,,,,,0.14,0.1
+1800103,605,"65mm Suction Cup - Plain CTN Qty 250","Suction Cup",1,1,0.6,,,,,,18,0.6,,,"Suction Cup","Carton",,,1.08,,,,,,,,,,,,,0.4,0.35
+1800104,630,"Plastic Scan Hook 50Mm CTN Qty 100","Hook",1,1,0.98,,,,,,18,0.98,,,"Hook","Carton",,,1.76,,,,,,,,,,,,,0.85,0.74
+1800105,631,"Plastic Scan Hook 100Mm CTN Qty 100","Hook",1,1,1.1,,,,,,18,1.1,,,"Hook","Carton",,,1.98,,,,,,,,,,,,,0.94,0.82
+1800106,635,"Acetal Scan Hook 100Mm CTN Qty 100","Hook",1,1,0.95,,,,,,18,0.95,,,"Hook","Carton",,,1.71,,,,,,,,,,,,,0.83,0.72
+1800107,636,"Acetal Scan Hook 150Mm CTN Qty 100","Hook",1,1,1.1,,,,,,18,1.1,,,"Hook","Carton",,,1.98,,,,,,,,,,,,,0.94,0.82
+1800108,637,"Acetal Scan Hook 200Mm CTN Qty 100","Hook",1,1,1.3,,,,,,18,1.3,,,"Hook","Carton",,,2.34,,,,,,,,,,,,,1.1,0.96
+1800109,660,"Al Post/ Screw 4.5 CTN Qty 200","Screw",1,1,0.55,,,,,,18,0.55,,,"Screw","Carton",,,0.99,,,,,,,,,,,,,0.36,0.33
+1800110,661,"Al Post/ Screw 6.0 CTN Qty 200","Screw",1,1,0.55,,,,,,18,0.55,,,"Screw","Carton",,,0.99,,,,,,,,,,,,,0.36,0.33
+1800111,662,"Al Post/ Screw 10 CTN Qty 200","Screw",1,1,0.55,,,,,,18,0.55,,,"Screw","Carton",,,0.99,,,,,,,,,,,,,0.36,0.33
+1800112,663,"Al Post/ Screw 12 CTN Qty 200","Screw",1,1,0.75,,,,,,18,0.75,,,"Screw","Carton",,,1.35,,,,,,,,,,,,,0.55,0.45
+1800113,670,"Chrome 2 Way Connector CTN Qty 200","Connector",1,1,1.6,,,,,,18,1.6,,,"Connector","Carton",,,2.88,,,,,,,,,,,,,1.23,1.07
+1800114,671,"Chrome 3 Way Connector CTN Qty 200","Connector",1,1,1.85,,,,,,18,1.85,,,"Connector","Carton",,,3.33,,,,,,,,,,,,,1.43,1.24
+1800115,672,"Chrome 4 Way Connector CTN Qty 200","Connector",1,1,2.63,,,,,,18,2.63,,,"Connector","Carton",,,4.73,,,,,,,,,,,,,2.02,1.76
+1800116,673,"Chr 2 Way 120 Deg CTN Qty 200","Connector",1,1,1.88,,,,,,18,1.88,,,"Connector","Carton",,,3.38,,,,,,,,,,,,,1.45,1.26
+1800117,674,"Chr 3 Way 120 Deg CTN Qty 200","Connector",1,1,2.43,,,,,,18,2.43,,,"Connector","Carton",,,4.37,,,,,,,,,,,,,1.87,1.63
+1800118,675,"Chrome Hinge CTN Qty 100","Hinge",1,1,4.51,,,,,,18,4.51,,,"Hinge","Carton",,,8.12,,,,,,,,,,,,,3.47,3.02
+1800119,676,"Hasp w/o Pin CTN Qty 200","Connector",1,1,2.35,,,,,,18,2.35,,,"Connector","Carton",,,4.23,,,,,,,,,,,,,1.81,1.57
+1800120,677,"3 Way Adjustable Chrome CTN Qty 100","Connector",1,1,3.8,,,,,,18,3.8,,,"Connector","Carton",,,6.84,,,,,,,,,,,,,3.4,2.95
+1800121,678,"4 Way Adjustable Chrome CTN Qty 100","Connector",1,1,4.95,,,,,,18,4.95,,,"Connector","Carton",,,8.91,,,,,,,,,,,,,4.4,3.89
+1800122,695,"End Clip & Screw (1/4 x 16mm) CTN Qty 100","Connector",1,1,2.47,,,,,,18,2.47,,,"Connector","Carton",,,4.45,,,,,,,,,,,,,1.9,1.65
+1800123,696,"Cnt Clip & 2 x Screws (1/4 x 16mm) CTN Qty 100","Screw",1,1,3.58,,,,,,18,3.58,,,"Screw","Carton",,,6.44,,,,,,,,,,,,,2.75,2.39
+1800124,750,"Auto Insert Hook Sing 50 CTN Qty 2000","Hook",1,1,0.3,,,,,,18,0.3,,,"Hook","Carton",,,0.54,,,,,,,,,,,,,0.25,0.22
+1800125,751,"Auto Insert Hook Sing 100 CTN Qty 2000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.29,0.26
+1800126,752,"Auto Insert Hook Sing 150 CTN Qty 1500","Hook",1,1,0.42,,,,,,18,0.42,,,"Hook","Carton",,,0.76,,,,,,,,,,,,,0.35,0.31
+1800127,753,"Auto Insert Hook Sing 200 CTN Qty 1000","Hook",1,1,0.49,,,,,,18,0.49,,,"Hook","Carton",,,0.88,,,,,,,,,,,,,0.41,0.36
+1800128,754,"Auto Insert Hook Sing 250 CTN Qty 600","Hook",1,1,0.55,,,,,,18,0.55,,,"Hook","Carton",,,0.99,,,,,,,,,,,,,0.46,0.41
+1800129,755,"Auto Insert Hook Doub 50 CTN Qty 2000","Hook",1,1,0.38,,,,,,18,0.38,,,"Hook","Carton",,,0.68,,,,,,,,,,,,,0.32,0.28
+1800130,756,"Auto Insert Hook Sing 100 CTN Qty 1500","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.39,0.35
+1800131,757,"Auto Insert Hook Sing 150 CTN Qty 800","Hook",1,1,0.55,,,,,,18,0.55,,,"Hook","Carton",,,0.99,,,,,,,,,,,,,0.46,0.41
+1800132,758,"Auto Insert Hook Sing 200 CTN Qty 600","Hook",1,1,0.65,,,,,,18,0.65,,,"Hook","Carton",,,1.17,,,,,,,,,,,,,0.54,0.48
+1800133,772,"Plastic Pegboard Hook - Sing 150 CTN Qty 1500","Hook",1,1,0.42,,,,,,18,0.42,,,"Hook","Carton",,,0.76,,,,,,,,,,,,,0.35,0.31
+1800134,773,"Plastic Pegboard Hook - Sing 200 CTN Qty 1000","Hook",1,1,0.49,,,,,,18,0.49,,,"Hook","Carton",,,0.88,,,,,,,,,,,,,0.41,0.36
+1800135,777,"Plastic Pegboard Hook - Doub 100 CTN Qty 800","Hook",1,1,0.55,,,,,,18,0.55,,,"Hook","Carton",,,0.99,,,,,,,,,,,,,0.46,0.41
+1800136,778,"Plastic Pegboard Hook - Doub 150 CTN Qty 600","Hook",1,1,0.65,,,,,,18,0.65,,,"Hook","Carton",,,1.17,,,,,,,,,,,,,0.54,0.48
+1800137,785,"Plastic Plankwall Hook - Sing 50 CTN Qty 500","Hook",1,1,0.28,,,,,,18,0.28,,,"Hook","Carton",,,0.5,,,,,,,,,,,,,0.23,0.2
+1800138,786,"Plastic Plankwall Hook - Sing 100 CTN Qty 2500","Hook",1,1,0.31,,,,,,18,0.31,,,"Hook","Carton",,,0.56,,,,,,,,,,,,,0.26,0.23
+1800139,787,"Plastic Plankwall Hook - Sing 150 CTN Qty 1500","Hook",1,1,0.38,,,,,,18,0.38,,,"Hook","Carton",,,0.68,,,,,,,,,,,,,0.32,0.28
+1800140,788,"Plastic Plankwall Hook - Sing 200 CTN Qty 1000","Hook",1,1,0.43,,,,,,18,0.43,,,"Hook","Carton",,,0.77,,,,,,,,,,,,,0.36,0.32
+1800141,790,"Plastic Plankwall Hook - Doub 50 CTN Qty 1000","Hook",1,1,0.38,,,,,,18,0.38,,,"Hook","Carton",,,0.68,,,,,,,,,,,,,0.32,0.28
+1800142,791,"Plastic Plankwall Hook - Doub 100 CTN Qty 1000","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.39,0.35
+1800143,792,"Plastic Plankwall Hook - Doub 150 CTN Qty 1000","Hook",1,1,0.55,,,,,,18,0.55,,,"Hook","Carton",,,0.99,,,,,,,,,,,,,0.46,0.41
+1800144,793,"Plastic Plankwall Hook - Doub 200 CTN Qty 1000","Hook",1,1,0.61,,,,,,18,0.61,,,"Hook","Carton",,,1.1,,,,,,,,,,,,,0.51,0.45
+1800145,795,"Double Sided Paper Tape CTN Qty 100","Tape",1,1,19.9,,,,,,18,19.9,,,"Tape","Carton",,,35.82,,,,,,,,,,,,,16.8,14.5
+1800146,820,"Chrome Scan Hook 100 CTN Qty 200","Hook",1,1,1.5,,,,,,18,1.5,,,"Hook","Carton",,,2.7,,,,,,,,,,,,,1.28,1.1
+1800147,821,"Chrome Scan Hook 150 CTN Qty 200","Hook",1,1,1.7,,,,,,18,1.7,,,"Hook","Carton",,,3.06,,,,,,,,,,,,,1.45,1.25
+1800148,822,"Chrome Scan Hook 200 CTN Qty 200","Hook",1,1,1.9,,,,,,18,1.9,,,"Hook","Carton",,,3.42,,,,,,,,,,,,,1.6,1.4
+1800149,823,"Chrome Scan Hook 250 CTN Qty 200","Hook",1,1,2.25,,,,,,18,2.25,,,"Hook","Carton",,,4.05,,,,,,,,,,,,,1.9,1.65
+1800150,824,"Chrome Scan Hook 300 CTN Qty 200","Hook",1,1,2.45,,,,,,18,2.45,,,"Hook","Carton",,,4.41,,,,,,,,,,,,,2.1,1.8
+1800151,825,"Label Holder 50 X 26 CTN Qty 250","Holder",1,1,0.5,,,,,,18,0.5,,,"Holder","Carton",,,0.9,,,,,,,,,,,,,0.42,0.36
+1800152,826,"Label Holder 80 X 26 CTN Qty 250","Holder",1,1,0.58,,,,,,18,0.58,,,"Holder","Carton",,,1.04,,,,,,,,,,,,,0.48,0.42
+1800153,830,"Doub Wire Peghook 100 CTN Qty 100","Peghook",1,1,1.5,,,,,,18,1.5,,,"Peghook","Carton",,,2.7,,,,,,,,,,,,,1.28,1.1
+1800154,831,"Doub Wire Peghook 150 CTN Qty 100","Peghook",1,1,1.6,,,,,,18,1.6,,,"Peghook","Carton",,,2.88,,,,,,,,,,,,,1.38,1.2
+1800155,832,"Doub Wire Peghook 200 CTN Qty 100","Peghook",1,1,1.8,,,,,,18,1.8,,,"Peghook","Carton",,,3.24,,,,,,,,,,,,,1.55,1.35
+1800156,833,"Doub Wire Peghook 250 CTN Qty 100","Peghook",1,1,2.05,,,,,,18,2.05,,,"Peghook","Carton",,,3.69,,,,,,,,,,,,,1.75,1.5
+1800157,834,"Doub Wire Peghook 300 CTN Qty 100","Peghook",1,1,2.25,,,,,,18,2.25,,,"Peghook","Carton",,,4.05,,,,,,,,,,,,,1.9,1.65
+1800158,863,"Spring Clamp CTN Qty 50","Clamp",1,1,2.25,,,,,,18,2.25,,,"Clamp","Carton",,,4.05,,,,,,,,,,,,,1.9,1.65
+1800159,1470,"2 Way Conn-25dia CTN Qty 20","Connector",1,1,5.5,,,,,,18,5.5,,,"Connector","Carton",,,9.9,,,,,,,,,,,,,4,3.5
+1800160,1471,"3 Way Conn-25 dia CTN Qty 20","Connector",1,1,7.5,,,,,,18,7.5,,,"Connector","Carton",,,13.5,,,,,,,,,,,,,5.5,4.9
+1800161,1472,"3 Way Cntr-25 dia CTN Qty 20","Connector",1,1,7.5,,,,,,18,7.5,,,"Connector","Carton",,,13.5,,,,,,,,,,,,,5.5,4.9
+1800162,1473,"4 Way Cntr-25 dia. CTN Qty 20","Connector",1,1,10,,,,,,18,10,,,"Connector","Carton",,,18,,,,,,,,,,,,,8.5,7.8
+1800163,1474,"5 Way Cntr-25 dia CTN Qty 20","Connector",1,1,12.5,,,,,,18,12.5,,,"Connector","Carton",,,22.5,,,,,,,,,,,,,10.95,9.5
+1800164,1475,"Shelf Support-25 dia CTN Qty 20","Clamp",1,1,3.5,,,,,,18,3.5,,,"Clamp","Carton",,,6.3,,,,,,,,,,,,,3,2.5
+1800165,1476,"5mm Panel Clamp-25 dia CTN Qty 50","Clamp",1,1,4.5,,,,,,18,4.5,,,"Clamp","Carton",,,8.1,,,,,,,,,,,,,3.5,3
+1800166,1477,"10mm Panel Clamp-25 dia CTN Qty 50","Shelf",1,1,4.5,,,,,,18,4.5,,,"Shelf","Carton",,,8.1,,,,,,,,,,,,,3.5,3
+1800167,1478,"20mm Panel Clamp-25 dia CTN Qty 50","Clamp",1,1,4.5,,,,,,18,4.5,,,"Clamp","Carton",,,8.1,,,,,,,,,,,,,3.5,3
+1800168,1484,"Standard Shelf - 4 Shelf Unit CTN Qty 5","Shelf",1,1,92.8,,,,,,18,92.8,,,"Shelf","Carton",,,167.04,,,,,,,,,,,,,80.7,75.1
+1800169,1485,"Standard Shelf - 5 Shelf Unit CTN Qty 5","Shelf",1,1,108,,,,,,18,108,,,"Shelf","Carton",,,194.4,,,,,,,,,,,,,93.8,87.2
+1800170,1494,"Maxi- Shelf - 4 Shelf Unit CTN Qty 3","Shelf",1,1,283.5,,,,,,18,283.5,,,"Shelf","Carton",,,510.3,,,,,,,,,,,,,246.5,229
+1800171,1495,"Maxi- Shelf - 5 Shelf Unit CTN Qty 3","Shelf",1,1,339.25,,,,,,18,339.25,,,"Shelf","Carton",,,610.65,,,,,,,,,,,,,295,274
+1800172,1501,"Bc93 Taymar CTN Qty 250","Taynar",1,1,1.57,,,,,,18,1.57,,,"Taynar","Carton",,,2.83,,,,,,,,,,,,,1.31,1.19
+1800173,1502,"4bc93 Taymar CTN Qty 72","Taynar",1,1,4.16,,,,,,18,4.16,,,"Taynar","Carton",,,7.49,,,,,,,,,,,,,3.47,3.15
+1800174,1503,"Wbc93 Taymar CTN Qty 250","Taynar",1,1,2.09,,,,,,18,2.09,,,"Taynar","Carton",,,3.76,,,,,,,,,,,,,1.74,1.58
+1800175,1504,"Vbc56 Taymar CTN Qty 285","Taynar",1,1,1.58,,,,,,18,1.58,,,"Taynar","Carton",,,2.84,,,,,,,,,,,,,1.32,1.2
+1800176,1505,"c104 Taymar CTN Qty 200","Taynar",1,1,3.7,,,,,,18,3.7,,,"Taynar","Carton",,,6.66,,,,,,,,,,,,,3.08,2.8
+1800177,1506,"2c112 Taymar CTN Qty 72","Taynar",1,1,10.26,,,,,,18,10.26,,,"Taynar","Carton",,,18.47,,,,,,,,,,,,,8.55,7.77
+1800178,1507,"4c 104 Taymar CTN Qty 40","Taynar",1,1,13.71,,,,,,18,13.71,,,"Taynar","Carton",,,24.68,,,,,,,,,,,,,11.43,10.39
+1800179,1508,"w104 Taymar CTN Qty 200","Taynar",1,1,4.62,,,,,,18,4.62,,,"Taynar","Carton",,,8.32,,,,,,,,,,,,,3.85,3.5
+1800180,1509,"4w104 Taymar CTN Qty 45","Taynar",1,1,16.57,,,,,,18,16.57,,,"Taynar","Carton",,,29.83,,,,,,,,,,,,,13.81,12.55
+1800181,1510,"Cl230 Taymar CTN Qty 130","Taynar",1,1,6.28,,,,,,18,6.28,,,"Taynar","Carton",,,11.3,,,,,,,,,,,,,5.24,4.76
+1800182,1511,"Wl230 Taymar CTN Qty 130","Taynar",1,1,6.14,,,,,,18,6.14,,,"Taynar","Carton",,,11.05,,,,,,,,,,,,,5.12,4.65
+1800183,1512,"8 Comp b/c Card CTN Qty 36","Taynar",1,1,10.72,,,,,,18,10.72,,,"Taynar","Carton",,,19.3,,,,,,,,,,,,,8.93,8.12
+1800184,1513,"Fp110 Flat Pack Stand CTN Qty 100","Taynar",1,1,3.79,,,,,,18,3.79,,,"Taynar","Carton",,,6.82,,,,,,,,,,,,,3.16,2.87
+1800185,1515,"c160 Taymar CTN Qty 108","Taynar",1,1,6.6,,,,,,18,6.6,,,"Taynar","Carton",,,11.88,,,,,,,,,,,,,5.5,5
+1800186,1516,"4c160 Taymar CTN Qty 30","Taynar",1,1,19.77,,,,,,18,19.77,,,"Taynar","Carton",,,35.59,,,,,,,,,,,,,16.48,14.98
+1800187,1517,"w160 Taymar CTN Qty 108","Taynar",1,1,6.65,,,,,,18,6.65,,,"Taynar","Carton",,,11.97,,,,,,,,,,,,,5.54,5.04
+1800188,1518,"2c110 Taymar CTN Qty 32","Taynar",1,1,10.9,,,,,,18,10.9,,,"Taynar","Carton",,,19.62,,,,,,,,,,,,,9.09,8.26
+1800189,1520,"c230 Taymar CTN Qty 72","Taynar",1,1,10.02,,,,,,18,10.02,,,"Taynar","Carton",,,18.04,,,,,,,,,,,,,8.35,7.59
+1800190,1521,"3c230 Taymar CTN Qty 12","Taynar",1,1,29.75,,,,,,18,29.75,,,"Taynar","Carton",,,53.55,,,,,,,,,,,,,24.79,22.54
+1800191,1522,"w230 Taymar CTN Qty 44","Taynar",1,1,8.87,,,,,,18,8.87,,,"Taynar","Carton",,,15.97,,,,,,,,,,,,,7.39,6.72
+1800192,1523,"3w230 Taymar CTN Qty 12","Taynar",1,1,38.15,,,,,,18,38.15,,,"Taynar","Carton",,,68.67,,,,,,,,,,,,,31.79,28.9
+1800193,1524,"4c230 Taymar CTN Qty 8","Taynar",1,1,32.8,,,,,,18,32.8,,,"Taynar","Carton",,,59.04,,,,,,,,,,,,,27.34,24.85
+1800194,1527,"3c104 Taymar CTN Qty 32","Taynar",1,1,17.74,,,,,,18,17.74,,,"Taynar","Carton",,,31.93,,,,,,,,,,,,,14.78,13.44
+1800195,1528,"Taymar Ws16-16 a4 CTN Qty 5","Taynar",1,1,192,,,,,,18,192,,,"Taynar","Carton",,,345.6,,,,,,,,,,,,,184.8,168
+1800196,1530,"Abi Taymar CTN Qty 100","Taynar",1,1,1.07,,,,,,18,1.07,,,"Taynar","Carton",,,1.93,,,,,,,,,,,,,0.89,0.81
+1800197,1531,"Clw Taymar CTN Qty 100","Taynar",1,1,0.38,,,,,,18,0.38,,,"Taynar","Carton",,,0.68,,,,,,,,,,,,,0.32,0.29
+1800198,1533,"Cdi Taymar CTN Qty 100","Taynar",1,1,2.05,,,,,,18,2.05,,,"Taynar","Carton",,,3.69,,,,,,,,,,,,,1.71,1.55
+1800199,1535,"Alum. Wall Strip - 940mm - Al95 CTN Qty 40","Strip",1,1,24.76,,,,,,18,24.76,,,"Strip","Carton",,,44.57,,,,,,,,,,,,,20.64,18.76
+1800200,1537,"3 Comp Adj Al - 3pas CTN Qty 60","Strip",1,1,8.69,,,,,,18,8.69,,,"Strip","Carton",,,15.64,,,,,,,,,,,,,7.24,6.58
+1800201,1539,"3 Comp Adj Wall - 3pfb CTN Qty 60","Wall",1,1,8.69,,,,,,18,8.69,,,"Wall","Carton",,,15.64,,,,,,,,,,,,,7.24,6.58
+1800202,1540,"6ca230 Taymar CTN Qty 3","Taynar",1,1,76.3,,,,,,18,76.3,,,"Taynar","Carton",,,137.34,,,,,,,,,,,,,63.58,57.8
+1800203,1541,"12ca104 Taymar CTN Qty 4","Taynar",1,1,68.38,,,,,,18,68.38,,,"Taynar","Carton",,,123.08,,,,,,,,,,,,,56.98,51.8
+1800204,1542,"6ca160 Taymar CTN Qty 4","Taynar",1,1,68.38,,,,,,18,68.38,,,"Taynar","Carton",,,123.08,,,,,,,,,,,,,56.98,51.8
+1800205,1543,"Ct460 Taymar CTN Qty 6","Taynar",1,1,43.8,,,,,,18,43.8,,,"Taynar","Carton",,,78.84,,,,,,,,,,,,,36.5,33.18
+1800206,1544,"Chrome Pole - 1600 - Reduced End CTN Qty 6","Pole",1,1,20.13,,,,,,18,20.13,,,"Pole","Carton",,,36.23,,,,,,,,,,,,,16.78,15.25
+1800207,1545,"12f230 Taymar CTN Qty 2","Taynar",1,1,261.3,,,,,,18,261.3,,,"Taynar","Carton",,,470.34,,,,,,,,,,,,,217.8,198
+1800208,1546,"12c230 Taymar CTN Qty 2","Taynar",1,1,203.5,,,,,,18,203.5,,,"Taynar","Carton",,,366.3,,,,,,,,,,,,,169.6,154.2
+1800209,1548,"Star Base - 500mm dia. CTN Qty 10","Base",1,1,28.27,,,,,,18,28.27,,,"Base","Carton",,,50.89,,,,,,,,,,,,,23.56,21.42
+1800210,1549,"Chrome Pole - 1600 CTN Qty 6","Pole",1,1,13.93,,,,,,18,13.93,,,"Pole","Carton",,,25.07,,,,,,,,,,,,,11.61,10.56
+1800211,1551,"350mm Chrome Base CTN Qty 5","Base",1,1,31.02,,,,,,18,31.02,,,"Base","Carton",,,55.84,,,,,,,,,,,,,25.85,23.5
+1800212,1552,"450mm Chrome Base CTN Qty 5","Base",1,1,38.28,,,,,,18,38.28,,,"Base","Carton",,,68.9,,,,,,,,,,,,,31.9,29
+1800213,1553,"Star Base - 600mm dia. CTN Qty 10","Base",1,1,34.19,,,,,,18,34.19,,,"Base","Carton",,,61.54,,,,,,,,,,,,,28.49,25.9
+1800214,1556,"Chr Pole w/Thrd CTN Qty 6","Holder",1,1,23.1,,,,,,18,23.1,,,"Holder","Carton",,,41.58,,,,,,,,,,,,,19.25,17.5
+1800215,1570,"Carousel Dl Pocket 4 Comp CTN Qty 36","Pocket",1,1,13.9,,,,,,18,13.9,,,"Pocket","Carton",,,25.02,,,,,,,,,,,,,11.6,10.5
+1800216,1574,"Carousel a4 Pocket 2 Comp CTN Qty 24","Pocket",1,1,18.8,,,,,,18,18.8,,,"Pocket","Carton",,,33.84,,,,,,,,,,,,,15.65,14.2
+1800217,1575,"Carousel a5 Pocket 2 Comp CTN Qty 36","Pocket",1,1,10.3,,,,,,18,10.3,,,"Pocket","Carton",,,18.54,,,,,,,,,,,,,8.6,7.8
+1800218,1576,"6 Compartment a4 Revolving CTN Qty 3","Holder",1,1,105,,,,,,18,105,,,"Holder","Carton",,,189,,,,,,,,,,,,,87.5,79.5
+1800219,1578,"6 Compartment a5 Revolving CTN Qty 4","Holder",1,1,85.7,,,,,,18,85.7,,,"Holder","Carton",,,154.26,,,,,,,,,,,,,71.4,64.9
+1800220,1583,"4 Sided Pole Sleeves a4 Height CTN Qty 50","Pole",1,1,9.75,,,,,,18,9.75,,,"Pole","Carton",,,17.55,,,,,,,,,,,,,8.15,7.4
+1800221,1584,"3 Sided Pole Sleeves a4 Height CTN Qty 64","Pole",1,1,8.2,,,,,,18,8.2,,,"Pole","Carton",,,14.76,,,,,,,,,,,,,6.8,6.2
+1800222,1588,"a4 Landscape Single Counter CTN Qty 24","Holder",1,1,16.1,,,,,,18,16.1,,,"Holder","Carton",,,28.98,,,,,,,,,,,,,13.4,12.2
+1800223,1589,"a4 Landscape Single Wall Mount CTN Qty 36","Holder",1,1,15.45,,,,,,18,15.45,,,"Holder","Carton",,,27.81,,,,,,,,,,,,,12.9,11.7
+1800224,1590,"3c330 - 4 Comp a4 Land CTN Qty 8","Holder",1,1,69.02,,,,,,18,69.02,,,"Holder","Carton",,,124.24,,,,,,,,,,,,,57.52,52.29
+1800225,1591,"Cd2 - Small Divider CTN Qty 100","Divider",1,1,1.83,,,,,,18,1.83,,,"Divider","Carton",,,3.29,,,,,,,,,,,,,1.52,1.39
+1800226,1593,"4 Sided Pole Sleeves a5/ Dl Height CTN Qty 100","Pole",1,1,5.7,,,,,,18,5.7,,,"Pole","Carton",,,10.26,,,,,,,,,,,,,4.75,4.3
+1800227,1594,"3 Sided Pole Sleeves a5 / Dl Height CTN Qty 128","Pole",1,1,4.55,,,,,,18,4.55,,,"Pole","Carton",,,8.19,,,,,,,,,,,,,3.8,3.45
+1800228,1595,"2c160 - 2 Comp a5 - Counter CTN Qty 24","Counter",1,1,17.74,,,,,,18,17.74,,,"Counter","Carton",,,31.93,,,,,,,,,,,,,14.78,13.44
+1800229,1596,"2w160 - 2 Comp a5 - Wall CTN Qty 24","Wall",1,1,17.74,,,,,,18,17.74,,,"Wall","Carton",,,31.93,,,,,,,,,,,,,14.78,13.44
+1800230,1597,"3c110h - 3 Comp Dl - Counter CTN Qty 24","Counter",1,1,15.56,,,,,,18,15.56,,,"Counter","Carton",,,28.01,,,,,,,,,,,,,12.97,11.79
+1800231,1599,"3w110h - 3 Comp Dl - Wall CTN Qty 36","Wall",1,1,15.78,,,,,,18,15.78,,,"Wall","Carton",,,28.4,,,,,,,,,,,,,13.15,11.96
+1800232,1654,"Economy b Holder Dl CTN Qty 80","Holder",1,1,3.4,,,,,,18,3.4,,,"Holder","Carton",,,6.12,,,,,,,,,,,,,2.88,2.55
+1800233,1655,"Economy b Holder a5 CTN Qty 60","Holder",1,1,4.2,,,,,,18,4.2,,,"Holder","Carton",,,7.56,,,,,,,,,,,,,3.54,3.15
+1800234,1656,"Economy b Holder a4 CTN Qty 60","Holder",1,1,7.7,,,,,,18,7.7,,,"Holder","Carton",,,13.86,,,,,,,,,,,,,6.7,5.95
+1800235,1657,"Economy Plankwall Clip CTN Qty 250","Clip",1,1,0.95,,,,,,18,0.95,,,"Clip","Carton",,,1.71,,,,,,,,,,,,,0.8,0.7
+1800236,1658,"Back Support CTN Qty 100","Support",1,1,0.72,,,,,,18,0.72,,,"Support","Carton",,,1.3,,,,,,,,,,,,,0.62,0.55
+1800237,1659,"Back Support CTN Qty 100","Support",1,1,0.72,,,,,,18,0.72,,,"Support","Carton",,,1.3,,,,,,,,,,,,,0.62,0.55
+1800238,1689,"Frame Topper Clip CTN Qty 100","Frame",1,1,2.45,,,,,,18,2.45,,,"Frame","Carton",,,4.41,,,,,,,,,,,,,2.12,1.88
+1800239,1732,"Alu Frm Wall Cl CTN Qty 50","Frame",1,1,1.69,,,,,,18,1.69,,,"Frame","Carton",,,3.04,,,,,,,,,,,,,1.3,1.13
+1800240,1733,"Alu Frm s/Wall Cl CTN Qty 50","Frame",1,1,1.91,,,,,,18,1.91,,,"Frame","Carton",,,3.44,,,,,,,,,,,,,1.47,1.28
+1800241,1735,"Alu Frm Corners CTN Qty 200","Frame",1,1,0.89,,,,,,18,0.89,,,"Frame","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800242,1736,"Alu Frm Peg CTN Qty 200","Frame",1,1,0.41,,,,,,18,0.41,,,"Frame","Carton",,,0.74,,,,,,,,,,,,,0.32,0.28
+1800243,1738,"Alu Frm Pvc Spline/m CTN Qty 100","Frame",1,1,2.77,,,,,,18,2.77,,,"Frame","Carton",,,4.99,,,,,,,,,,,,,2.13,1.85
+1800244,1744,"Suction Cup Attachment CTN Qty 50","Suction Cup",1,1,2.7,,,,,,18,2.7,,,"Suction Cup","Carton",,,4.86,,,,,,,,,,,,,2.2,1.95
+1800245,1750,"Fish Clip CTN Qty 1000","Clip",1,1,0.18,,,,,,18,0.18,,,"Clip","Carton",,,0.32,,,,,,,,,,,,,0.14,0.12
+1800246,1751,"Wire Clip CTN Qty 100","Clip",1,1,0.6,,,,,,18,0.6,,,"Clip","Carton",,,1.08,,,,,,,,,,,,,0.5,0.43
+1800247,1752,"Stacker Bar CTN Qty 100","Bar",1,1,5.6,,,,,,18,5.6,,,"Bar","Carton",,,10.08,,,,,,,,,,,,,4.7,4.15
+1800248,1753,"Grid Clip CTN Qty 1000","Clip",1,1,0.24,,,,,,18,0.24,,,"Clip","Carton",,,0.43,,,,,,,,,,,,,0.18,0.16
+1800249,1755,"Adhesive Ceiling Button CTN Qty 1000","Button",1,1,0.21,,,,,,18,0.21,,,"Button","Carton",,,0.38,,,,,,,,,,,,,0.16,0.14
+1800250,1759,"Ali - Inf Metal Clip CTN Qty 100","Clip",1,1,0.77,,,,,,18,0.77,,,"Clip","Carton",,,1.39,,,,,,,,,,,,,0.6,0.52
+1800251,1767,"'Ceil Track 1220-p/c ''Surf Mist'' CTN Qty 12'","Track",1,1,11.06,,,,,,18,11.06,,,"Track","Carton",,,19.91,,,,,,,,,,,,,8.51,7.4
+1800252,1768,"'Ceil Track 2440-p/c ''Surf Mist'' CTN Qty 12'","Track",1,1,22.13,,,,,,18,22.13,,,"Track","Carton",,,39.83,,,,,,,,,,,,,17.02,14.8
+1800253,1771,"Med s Hook CTN Qty 500","Hook",1,1,0.3,,,,,,18,0.3,,,"Hook","Carton",,,0.54,,,,,,,,,,,,,0.17,0.15
+1800254,1772,"Lge s Hook CTN Qty 500","Hook",1,1,1.4,,,,,,18,1.4,,,"Hook","Carton",,,2.52,,,,,,,,,,,,,0.81,0.7
+1800255,1773,"s Hook-45mm CTN Qty 500","Hook",1,1,0.7,,,,,,18,0.7,,,"Hook","Carton",,,1.26,,,,,,,,,,,,,0.4,0.35
+1800256,1774,"Jet Wire 0.4kg To 1.5mtr CTN Qty 500","Wire",1,1,0.25,,,,,,18,0.25,,,"Wire","Carton",,,0.45,,,,,,,,,,,,,0.14,0.12
+1800257,1777,"Plasti-Slide Clip CTN Qty 200","Clip",1,1,0.55,,,,,,18,0.55,,,"Clip","Carton",,,0.99,,,,,,,,,,,,,0.43,0.37
+1800258,1778,"Plastec Ali-Inf Clip CTN Qty 200","Clip",1,1,0.55,,,,,,18,0.55,,,"Clip","Carton",,,0.99,,,,,,,,,,,,,0.43,0.37
+1800259,1779,"Alu End Cap CTN Qty 200","Cap",1,1,0.22,,,,,,18,0.22,,,"Cap","Carton",,,0.4,,,,,,,,,,,,,0.17,0.15
+1800260,1784,"Banner Strip Hook CTN Qty 200","Hook",1,1,0.3,,,,,,18,0.3,,,"Hook","Carton",,,0.54,,,,,,,,,,,,,0.17,0.15
+1800261,1785,"Banner Strip - 1mtr CTN Qty 100","Strip",1,1,6.08,,,,,,18,6.08,,,"Strip","Carton",,,10.94,,,,,,,,,,,,,4.68,4.07
+1800262,1793,"Plastic Foot CTN Qty 25","Accessories",1,1,4.3,,,,,,18,4.3,,,"Accessories","Carton",,,7.74,,,,,,,,,,,,,3.65,3.25
+1800263,1796,"Back l/Box Fr-Mf-5.0- Mill CTN Qty 10","Accessories",1,1,20.48,,,,,,18,20.48,,,"Accessories","Carton",,,36.86,,,,,,,,,,,,,15.76,13.7
+1800264,1799,"Spring Clip CTN Qty 100","Clip",1,1,1.02,,,,,,18,1.02,,,"Clip","Carton",,,1.84,,,,,,,,,,,,,0.78,0.68
+1800265,1800,"1.5 Cable Kit-3.6m CTN Qty 25","Kit",1,1,24.5,,,,,,18,24.5,,,"Kit","Carton",,,44.1,,,,,,,,,,,,,19.9,16.5
+1800266,1801,"Wall To Floor Poster Kit CTN Qty 10","Kit",1,1,36.8,,,,,,18,36.8,,,"Kit","Carton",,,66.24,,,,,,,,,,,,,31.25,27.9
+1800267,1802,"Wall To Wall Poster Kit CTN Qty 10","Kit",1,1,48.3,,,,,,18,48.3,,,"Kit","Carton",,,86.94,,,,,,,,,,,,,40.95,36.58
+1800268,1803,"Hanging Kit 3mm CTN Qty 50","Kit",1,1,22.5,,,,,,18,22.5,,,"Kit","Carton",,,40.5,,,,,,,,,,,,,17.5,14.95
+1800269,1805,"Wall To Floor Shelf Kit CTN Qty 10","Kit",1,1,59.4,,,,,,18,59.4,,,"Kit","Carton",,,106.92,,,,,,,,,,,,,51.2,45.7
+1800270,1806,"Wall To Wall Shelf Kit CTN Qty 10","Kit",1,1,78,,,,,,18,78,,,"Kit","Carton",,,140.4,,,,,,,,,,,,,66.2,59.1
+1800271,1807,"Hanging Kit 7mm CTN Qty 50","Kit",1,1,22.5,,,,,,18,22.5,,,"Kit","Carton",,,40.5,,,,,,,,,,,,,17.5,14.95
+1800272,1809,"Hanging Kit 10mm CTN Qty 50","Kit",1,1,22.5,,,,,,18,22.5,,,"Kit","Carton",,,40.5,,,,,,,,,,,,,17.5,14.95
+1800273,1810,"Allen Key-3mm CTN Qty 100","Accessories",1,1,1,,,,,,18,1,,,"Accessories","Carton",,,1.8,,,,,,,,,,,,,0.6,0.5
+1800274,1811,"Thr Hole Shelf Sup CTN Qty 100","Shelf",1,1,3.65,,,,,,18,3.65,,,"Shelf","Carton",,,6.57,,,,,,,,,,,,,2.95,2.65
+1800275,1812,"Cable Fastener CTN Qty 100","Fastener",1,1,3.65,,,,,,18,3.65,,,"Fastener","Carton",,,6.57,,,,,,,,,,,,,2.95,2.65
+1800276,1813,"Sing Cable Ftg 3 CTN Qty 100","Cable",1,1,6,,,,,,18,6,,,"Cable","Carton",,,10.8,,,,,,,,,,,,,4.95,3.95
+1800277,1816,"Allen Key-2mm CTN Qty 100","Accessories",1,1,1,,,,,,18,1,,,"Accessories","Carton",,,1.8,,,,,,,,,,,,,0.6,0.5
+1800278,1817,"Sing Cable Ftg 7 CTN Qty 100","Cable",1,1,6,,,,,,18,6,,,"Cable","Carton",,,10.8,,,,,,,,,,,,,4.95,3.95
+1800279,1818,"Allen Key-4mm CTN Qty 100","Accessories",1,1,1,,,,,,18,1,,,"Accessories","Carton",,,1.8,,,,,,,,,,,,,0.6,0.5
+1800280,1819,"Sing Cable Ftg10 CTN Qty 100","Cable",1,1,6,,,,,,18,6,,,"Cable","Carton",,,10.8,,,,,,,,,,,,,4.95,3.95
+1800281,1823,"Dbl Cable Ftg 3 CTN Qty 100","Cable",1,1,8,,,,,,18,8,,,"Cable","Carton",,,14.4,,,,,,,,,,,,,6.75,5.95
+1800282,1826,"Thrd Plate & Screw CTN Qty 200","Screw",1,1,0.75,,,,,,18,0.75,,,"Screw","Carton",,,1.35,,,,,,,,,,,,,0.58,0.5
+1800283,1827,"Dbl Cable Ftg 7 CTN Qty 100","Cable",1,1,8,,,,,,18,8,,,"Cable","Carton",,,14.4,,,,,,,,,,,,,6.75,5.95
+1800284,1829,"Dbl Cable Ftg 10 CTN Qty 100","Cable",1,1,8,,,,,,18,8,,,"Cable","Carton",,,14.4,,,,,,,,,,,,,6.75,5.95
+1800285,1831,"Edge Grip 10mm(1863 + 1815ftg) CTN Qty 100","Accessories",1,1,8.3,,,,,,18,8.3,,,"Accessories","Carton",,,14.94,,,,,,,,,,,,,5.9,4.9
+1800286,1832,"Edge Grip-Short [1863 + 4] CTN Qty 100","Accessories",1,1,6.9,,,,,,18,6.9,,,"Accessories","Carton",,,12.42,,,,,,,,,,,,,5.25,4.45
+1800287,1833,"Pnl Sup 3mm CTN Qty 100","Accessories",1,1,3.5,,,,,,18,3.5,,,"Accessories","Carton",,,6.3,,,,,,,,,,,,,2.65,2.2
+1800288,1835,"Edge Grip Pnl [1857 + 72] CTN Qty 100","Accessories",1,1,8.8,,,,,,18,8.8,,,"Accessories","Carton",,,15.84,,,,,,,,,,,,,6.95,6.15
+1800289,1837,"Pnl Sup 7mm CTN Qty 100","Accessories",1,1,3.5,,,,,,18,3.5,,,"Accessories","Carton",,,6.3,,,,,,,,,,,,,2.65,2.2
+1800290,1839,"Pnl Supp 10mm CTN Qty 100","Accessories",1,1,3.5,,,,,,18,3.5,,,"Accessories","Carton",,,6.3,,,,,,,,,,,,,2.65,2.2
+1800291,1841,"3Mm Through Hole Shelf Support CTN Qty 25","Shelf",1,1,5.8,,,,,,18,5.8,,,"Shelf","Carton",,,10.44,,,,,,,,,,,,,4.95,4.3
+1800292,1842,"3Mm Cable Fastener CTN Qty 25","Fastener",1,1,5.8,,,,,,18,5.8,,,"Fastener","Carton",,,10.44,,,,,,,,,,,,,4.95,4.3
+1800293,1843,"3Mm Single Fitting - 3Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800294,1844,"3Mm Double Fitting - 3Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.25,8.9
+1800295,1846,"3Mm Single Fitting- 7Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800296,1847,"3Mm Double Fitting - 7Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.25,8.9
+1800297,1848,"3Mm Single Fitting- 10Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800298,1849,"3Mm Double Fitting - 10Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.25,8.9
+1800299,1850,"Cable Gripper 1.5Mm Cable CTN Qty 50","Cable",1,1,2.2,,,,,,18,2.2,,,"Cable","Carton",,,3.96,,,,,,,,,,,,,1.85,1.6
+1800300,1851,"Rod Gripper CTN Qty 50","Rod",1,1,2.2,,,,,,18,2.2,,,"Rod","Carton",,,3.96,,,,,,,,,,,,,1.85,1.6
+1800301,1852,"Cable Gripper 3Mm Cable CTN Qty 50","Cable",1,1,2.45,,,,,,18,2.45,,,"Cable","Carton",,,4.41,,,,,,,,,,,,,2.1,1.8
+1800302,1853,"Top Mount 20Mm Long CTN Qty 50","Accessories",1,1,2.85,,,,,,18,2.85,,,"Accessories","Carton",,,5.13,,,,,,,,,,,,,2.45,2.1
+1800303,1854,"Top Mount 30Mm Long CTN Qty 50","Accessories",1,1,5.2,,,,,,18,5.2,,,"Accessories","Carton",,,9.36,,,,,,,,,,,,,4.4,3.8
+1800304,1855,"Floor Fixing CTN Qty 50","Accessories",1,1,3.25,,,,,,18,3.25,,,"Accessories","Carton",,,5.85,,,,,,,,,,,,,2.8,2.4
+1800305,1856,"Through Hole Screw Long CTN Qty 50","Screw",1,1,3.8,,,,,,18,3.8,,,"Screw","Carton",,,6.84,,,,,,,,,,,,,3.3,2.8
+1800306,1857,"Wall Spiggott CTN Qty 25","Accessories",1,1,3.9,,,,,,18,3.9,,,"Accessories","Carton",,,7.02,,,,,,,,,,,,,3.4,2.9
+1800307,1858,"Through Hole Barrel Short CTN Qty 50","Accessories",1,1,3.4,,,,,,18,3.4,,,"Accessories","Carton",,,6.12,,,,,,,,,,,,,2.9,2.5
+1800308,1859,"Through Hole Screw Short CTN Qty 50","Screw",1,1,2.85,,,,,,18,2.85,,,"Screw","Carton",,,5.13,,,,,,,,,,,,,2.45,2.1
+1800309,1860,"Tensioning Sleeve CTN Qty 50","Accessories",1,1,5.3,,,,,,18,5.3,,,"Accessories","Carton",,,9.54,,,,,,,,,,,,,4.5,3.9
+1800310,1861,"Through Hole Barrel Long CTN Qty 50","Accessories",1,1,5.3,,,,,,18,5.3,,,"Accessories","Carton",,,9.54,,,,,,,,,,,,,4.5,3.9
+1800311,1862,"Rod Grip CTN Qty 50","Rod",1,1,1.1,,,,,,18,1.1,,,"Rod","Carton",,,1.98,,,,,,,,,,,,,0.95,0.8
+1800312,1863,"Short Post (1832) CTN Qty 100","Accessories",1,1,2.45,,,,,,18,2.45,,,"Accessories","Carton",,,4.41,,,,,,,,,,,,,2.1,1.8
+1800313,1864,"Short Pnl Holder (1832) CTN Qty 100","Holder",1,1,5,,,,,,18,5,,,"Holder","Carton",,,9,,,,,,,,,,,,,3.9,3.4
+1800314,1865,"Wall Flange CTN Qty 50","Accessories",1,1,7.05,,,,,,18,7.05,,,"Accessories","Carton",,,12.69,,,,,,,,,,,,,6,5.2
+1800315,1870,"Wall Cable Spacer CTN Qty 25","Cable",1,1,5.8,,,,,,18,5.8,,,"Cable","Carton",,,10.44,,,,,,,,,,,,,4.95,4.3
+1800316,1871,"Extension Arm CTN Qty 10","Accessories",1,1,16.75,,,,,,18,16.75,,,"Accessories","Carton",,,30.15,,,,,,,,,,,,,14.3,12.4
+1800317,1873,"Stainless Steel Bale 3Mm CTN Qty 25","Accessories",1,1,8.9,,,,,,18,8.9,,,"Accessories","Carton",,,16.02,,,,,,,,,,,,,7.6,6.6
+1800318,1876,"Stainless Steel Bale 1.5Mm CTN Qty 50","Accessories",1,1,7.3,,,,,,18,7.3,,,"Accessories","Carton",,,13.14,,,,,,,,,,,,,6.2,5.4
+1800319,1877,"Spring CTN Qty 100","Accessories",1,1,0.65,,,,,,18,0.65,,,"Accessories","Carton",,,1.17,,,,,,,,,,,,,0.52,0.45
+1800320,1898,"Mini Fitting Single CTN Qty 200","Fitting",1,1,3,,,,,,18,3,,,"Fitting","Carton",,,5.4,,,,,,,,,,,,,2.4,2
+1800321,1899,"Mini Fitting Double CTN Qty 200","Fitting",1,1,3.5,,,,,,18,3.5,,,"Fitting","Carton",,,6.3,,,,,,,,,,,,,2.8,2.5
+1800322,1900,"Floor - Ceiling Rod Kit CTN Qty 10","Kit",1,1,16.9,,,,,,18,16.9,,,"Kit","Carton",,,30.42,,,,,,,,,,,,,14.4,12.5
+1800323,1910,"6Mm dia Chrome Rod CTN Qty 20","Rod",1,1,5.3,,,,,,18,5.3,,,"Rod","Carton",,,9.54,,,,,,,,,,,,,4.5,3.9
+1800324,1912,"6Mm Rod Fastener CTN Qty 50","Rod",1,1,5.7,,,,,,18,5.7,,,"Rod","Carton",,,10.26,,,,,,,,,,,,,4.85,4.2
+1800325,1913,"6Mm Rod Single Fitting 3Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800326,1917,"6Mm Rod Single Fitting 7Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800327,1919,"6Mm Rod Single Fitting 10Mm Panel CTN Qty 25","Fitting",1,1,8,,,,,,18,8,,,"Fitting","Carton",,,14.4,,,,,,,,,,,,,6.8,5.9
+1800328,1923,"6Mm Rod Double Fitting 3Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.2,8.8
+1800329,1927,"6Mm Rod Double Fitting 7Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.2,8.8
+1800330,1929,"6Mm Rod Double Fitting 10Mm Panel CTN Qty 25","Fitting",1,1,12,,,,,,18,12,,,"Fitting","Carton",,,21.6,,,,,,,,,,,,,10.2,8.8
+1800331,1950,"Hanging Kit 2 Piece Screw On CTN Qty 25","Kit",1,1,2.2,,,,,,18,2.2,,,"Kit","Carton",,,3.96,,,,,,,,,,,,,1.85,1.6
+1800332,1951,"Hanging Kit With Ball End CTN Qty 25","Kit",1,1,2.85,,,,,,18,2.85,,,"Kit","Carton",,,5.13,,,,,,,,,,,,,2.45,2.1
+1800333,1955,"Through Hole Panel Fitting CTN Qty 25","Fitting",1,1,6.4,,,,,,18,6.4,,,"Fitting","Carton",,,11.52,,,,,,,,,,,,,5.55,4.95
+1800334,1961,"Swivwl Mounting Bracket CTN Qty 25","Bracket",1,1,8.4,,,,,,18,8.4,,,"Bracket","Carton",,,15.12,,,,,,,,,,,,,7.2,6.2
+1800335,1965,"Panel Support Flat Back CTN Qty 25","Support",1,1,6.8,,,,,,18,6.8,,,"Support","Carton",,,12.24,,,,,,,,,,,,,5.95,5.3
+1800336,1966,"Panel Support Concave Back CTN Qty 25","Support",1,1,6.8,,,,,,18,6.8,,,"Support","Carton",,,12.24,,,,,,,,,,,,,5.95,5.3
+1800337,1967,"Through Hole Panel 30Mm From Wall CTN Qty 25","Panel",1,1,9,,,,,,18,9,,,"Panel","Carton",,,16.2,,,,,,,,,,,,,7.8,6.95
+1800338,1968,"Through Hole Panel 57Mm From Wall CTN Qty 25","Panel",1,1,10.7,,,,,,18,10.7,,,"Panel","Carton",,,19.26,,,,,,,,,,,,,9.3,8.3
+1800339,1969,"Through Hole Panel 95Mm From Wall CTN Qty 25","Panel",1,1,14.7,,,,,,18,14.7,,,"Panel","Carton",,,26.46,,,,,,,,,,,,,12.8,11.4
+1800340,1970,"Hanging Kit 900Mm Cable CTN Qty 25","Kit",1,1,14.2,,,,,,18,14.2,,,"Kit","Carton",,,25.56,,,,,,,,,,,,,12.1,10.5
+1800341,1971,"Additional Hook Fitting CTN Qty 25","Fitting",1,1,7,,,,,,18,7,,,"Fitting","Carton",,,12.6,,,,,,,,,,,,,6,5.2
+1800342,1972,"Hanging Kit 2000Mm Cable CTN Qty 25","Kit",1,1,14.2,,,,,,18,14.2,,,"Kit","Carton",,,25.56,,,,,,,,,,,,,12.1,10.5
+1800343,1973,"Desk Sign Support CTN Qty 25","Accessories",1,1,4.4,,,,,,18,4.4,,,"Accessories","Carton",,,7.92,,,,,,,,,,,,,3.8,3.4
+1800344,2202,"Parallel Joints Double CTN Qty 10","Accessories",1,1,4.29,,,,,,18,4.29,,,"Accessories","Carton",,,7.72,,,,,,,,,,,,,3.73,3.39
+1800345,2203,"End Joint CTN Qty 10","Accessories",1,1,4.29,,,,,,18,4.29,,,"Accessories","Carton",,,7.72,,,,,,,,,,,,,3.73,3.39
+1800346,2205,"Cutting Tool CTN Qty 2","Accessories",1,1,51.42,,,,,,18,51.42,,,"Accessories","Carton",,,92.56,,,,,,,,,,,,,,
+1800347,2207,"Parallel Joints Double CTN Qty 10","Accessories",1,1,5.43,,,,,,18,5.43,,,"Accessories","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1800348,2208,"Flat Tube End Cap CTN Qty 100","Tube",1,1,0.51,,,,,,18,0.51,,,"Tube","Carton",,,0.92,,,,,,,,,,,,,0.44,0.4
+1800349,2209,"Sliding t  Joint CTN Qty 10","Accessories",1,1,4.43,,,,,,18,4.43,,,"Accessories","Carton",,,7.97,,,,,,,,,,,,,3.85,3.5
+1800350,2210,"Special Allen Key CTN Qty 10","Accessories",1,1,7.72,,,,,,18,7.72,,,"Accessories","Carton",,,13.9,,,,,,,,,,,,,6.71,6.1
+1800351,2212,"Threaded End Cap CTN Qty 100","Accessories",1,1,1.72,,,,,,18,1.72,,,"Accessories","Carton",,,3.1,,,,,,,,,,,,,1.5,1.36
+1800352,2213,"Spherical Tube End Cap CTN Qty 50","Tube",1,1,2.57,,,,,,18,2.57,,,"Tube","Carton",,,4.63,,,,,,,,,,,,,2.23,2.03
+1800353,2214,"Threaded Leveller CTN Qty 100","Accessories",1,1,1.57,,,,,,18,1.57,,,"Accessories","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1800354,2215,"Wall Flange CTN Qty 50","Accessories",1,1,2.43,,,,,,18,2.43,,,"Accessories","Carton",,,4.37,,,,,,,,,,,,,2.11,1.92
+1800355,2221,"Curved Tube 90deg-370 x 370mm CTN Qty 10","Tube",1,1,10.01,,,,,,18,10.01,,,"Tube","Carton",,,18.02,,,,,,,,,,,,,8.7,7.91
+1800356,2222,"Curved Tube 180 Deg-540mm CTN Qty 10","Tube",1,1,16.86,,,,,,18,16.86,,,"Tube","Carton",,,30.35,,,,,,,,,,,,,14.66,13.33
+1800357,2223,"Curved Tube 180 Deg-940mm CTN Qty 10","Tube",1,1,32.59,,,,,,18,32.59,,,"Tube","Carton",,,58.66,,,,,,,,,,,,,28.34,25.76
+1800358,2224,"u Bent Tube 540x300 CTN Qty 10","Tube",1,1,13.86,,,,,,18,13.86,,,"Tube","Carton",,,24.95,,,,,,,,,,,,,12.06,10.96
+1800359,2225,"u Bent Tube 940x300 CTN Qty 10","Tube",1,1,17.87,,,,,,18,17.87,,,"Tube","Carton",,,32.17,,,,,,,,,,,,,15.54,14.13
+1800360,2226,"Bent Tube 90 Deg-200 x200mm CTN Qty 10","Tube",1,1,6.44,,,,,,18,6.44,,,"Tube","Carton",,,11.59,,,,,,,,,,,,,5.6,5.09
+1800361,2227,"Projecting u Bends CTN Qty 10","Accessories",1,1,19.87,,,,,,18,19.87,,,"Accessories","Carton",,,35.77,,,,,,,,,,,,,17.28,15.71
+1800362,2228,"Projecting u Bends CTN Qty 10","Accessories",1,1,25.02,,,,,,18,25.02,,,"Accessories","Carton",,,45.04,,,,,,,,,,,,,21.76,19.78
+1800363,2230,"Parallel Joints Triple CTN Qty 10","Accessories",1,1,13.3,,,,,,18,13.3,,,"Accessories","Carton",,,23.94,,,,,,,,,,,,,11.56,10.51
+1800364,2232,"Shelf Support CTN Qty 25","Shelf",1,1,1.21,,,,,,18,1.21,,,"Shelf","Carton",,,2.18,,,,,,,,,,,,,1.06,0.96
+1800365,2233,"Panel Support CTN Qty 25","Panel",1,1,1.21,,,,,,18,1.21,,,"Panel","Carton",,,2.18,,,,,,,,,,,,,1.06,0.96
+1800366,2236,"Panel Support Chrome CTN Qty 25","Panel",1,1,2.72,,,,,,18,2.72,,,"Panel","Carton",,,4.9,,,,,,,,,,,,,2.37,2.15
+1800367,2238,"Panel Support Chrome CTN Qty 25","Panel",1,1,1.57,,,,,,18,1.57,,,"Panel","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1800368,2240,"Glass Shelf Support CTN Qty 25","Shelf",1,1,0.72,,,,,,18,0.72,,,"Shelf","Carton",,,1.3,,,,,,,,,,,,,0.63,0.57
+1800369,2241,"Rounded Tube End Cap CTN Qty 100","Tube",1,1,0.86,,,,,,18,0.86,,,"Tube","Carton",,,1.55,,,,,,,,,,,,,0.75,0.68
+1800370,2242,"Single Panelconn CTN Qty 10","Panel",1,1,3.86,,,,,,18,3.86,,,"Panel","Carton",,,6.95,,,,,,,,,,,,,3.36,3.05
+1800371,2243,"Double Panel Conn but See 2255 CTN Qty 10","Panel",1,1,5.86,,,,,,18,5.86,,,"Panel","Carton",,,10.55,,,,,,,,,,,,,5.09,4.63
+1800372,2249,"Single Panel Conn CTN Qty 10","Panel",1,1,4,,,,,,18,4,,,"Panel","Carton",,,7.2,,,,,,,,,,,,,3.48,3.16
+1800373,2250,"Shelf Support CTN Qty 10","Shelf",1,1,10.73,,,,,,18,10.73,,,"Shelf","Carton",,,19.31,,,,,,,,,,,,,9.33,8.48
+1800374,2255,"Double Panel Conn CTN Qty 10","Panel",1,1,5.86,,,,,,18,5.86,,,"Panel","Carton",,,10.55,,,,,,,,,,,,,5.09,4.63
+1800375,2256,"Rotating Joints Triple CTN Qty 10","Accessories",1,1,14.16,,,,,,18,14.16,,,"Accessories","Carton",,,25.49,,,,,,,,,,,,,12.31,11.19
+1800376,2257,"Rotating Joints Double CTN Qty 10","Accessories",1,1,9.44,,,,,,18,9.44,,,"Accessories","Carton",,,16.99,,,,,,,,,,,,,8.21,7.46
+1800377,2259,"Expanding Socket CTN Qty 10","Accessories",1,1,3.86,,,,,,18,3.86,,,"Accessories","Carton",,,6.95,,,,,,,,,,,,,3.36,3.05
+1800378,2260,"Front Sh Supp Horizont CTN Qty 10","Accessories",1,1,14.16,,,,,,18,14.16,,,"Accessories","Carton",,,25.49,,,,,,,,,,,,,12.31,11.19
+1800379,2261,"Front Sh Supp 30deg Down CTN Qty 10","Accessories",1,1,14.16,,,,,,18,14.16,,,"Accessories","Carton",,,25.49,,,,,,,,,,,,,12.31,11.19
+1800380,2262,"Front Sh Supp 60deg Down CTN Qty 10","Accessories",1,1,14.16,,,,,,18,14.16,,,"Accessories","Carton",,,25.49,,,,,,,,,,,,,12.31,11.19
+1800381,2263,"Clampon Sh Support CTN Qty 10","Clamp",1,1,12.57,,,,,,18,12.57,,,"Clamp","Carton",,,22.63,,,,,,,,,,,,,10.93,9.94
+1800382,2264,"Clampon Sh Support Doub CTN Qty 10","Clamp",1,1,19.58,,,,,,18,19.58,,,"Clamp","Carton",,,35.24,,,,,,,,,,,,,17.03,15.48
+1800383,2270,"135 Deg. Bent Tube-200 x 200mm CTN Qty 10","Tube",1,1,7.01,,,,,,18,7.01,,,"Tube","Carton",,,12.62,,,,,,,,,,,,,6.09,5.54
+1800384,2271,"2 Bend Tube 90 Deg.-300 x 300mm CTN Qty 10","Tube",1,1,8.15,,,,,,18,8.15,,,"Tube","Carton",,,14.67,,,,,,,,,,,,,7.08,6.44
+1800385,2272,"3 Bend Tube 180 Deg.- 540x300 CTN Qty 10","Tube",1,1,14.16,,,,,,18,14.16,,,"Tube","Carton",,,25.49,,,,,,,,,,,,,12.31,11.19
+1800386,2273,"3 Bend Tube 180 Deg. - 940x300 CTN Qty 10","Tube",1,1,17.87,,,,,,18,17.87,,,"Tube","Carton",,,32.17,,,,,,,,,,,,,15.54,14.13
+1800387,2274,"4 Bend Tube 180deg- 540x300 CTN Qty 10","Tube",1,1,16.29,,,,,,18,16.29,,,"Tube","Carton",,,29.32,,,,,,,,,,,,,14.17,12.88
+1800388,2275,"4 Bend Tube 180deg- 940x300 CTN Qty 10","Tube",1,1,19.58,,,,,,18,19.58,,,"Tube","Carton",,,35.24,,,,,,,,,,,,,17.03,15.48
+1800389,2276,"Inclined Angle Tube-540 x 370mm CTN Qty 10","Tube",1,1,16.72,,,,,,18,16.72,,,"Tube","Carton",,,30.1,,,,,,,,,,,,,14.54,13.22
+1800390,2278,"Hinged Double Panel Conn CTN Qty 10","Panel",1,1,7.29,,,,,,18,7.29,,,"Panel","Carton",,,13.12,,,,,,,,,,,,,6.34,5.76
+1800391,2280,"Shelf Clamp Single CTN Qty 10","Clamp",1,1,7.29,,,,,,18,7.29,,,"Clamp","Carton",,,13.12,,,,,,,,,,,,,6.34,5.76
+1800392,2281,"Shelf Clamp Double CTN Qty 10","Bracket",1,1,9.3,,,,,,18,9.3,,,"Bracket","Carton",,,16.74,,,,,,,,,,,,,8.09,7.35
+1800393,2314,"Primo 25x25 Crom.Wall Tube - Pr CTN Qty 10","Tube",1,1,20.06,,,,,,18,20.06,,,"Tube","Carton",,,36.11,,,,,,,,,,,,,17.45,15.86
+1800394,2315,"Primo Wall Brkt - Set Of 4 CTN Qty 10","Accessories",1,1,18.51,,,,,,18,18.51,,,"Accessories","Carton",,,33.32,,,,,,,,,,,,,16.09,14.63
+1800395,2316,"'Primo ''l'' Foot w/ Leveller CTN Qty 10'","Accessories",1,1,26.65,,,,,,18,26.65,,,"Accessories","Carton",,,47.97,,,,,,,,,,,,,23.18,21.07
+1800396,2317,"'Primo ''t'' Foot w/ Leveller CTN Qty 10'","Accessories",1,1,28.99,,,,,,18,28.99,,,"Accessories","Carton",,,52.18,,,,,,,,,,,,,25.21,22.92
+1800397,2318,"'Primo ''Cross'' Foot w/ Leveller CTN Qty 10'","Accessories",1,1,31.32,,,,,,18,31.32,,,"Accessories","Carton",,,56.38,,,,,,,,,,,,,27.24,24.76
+1800398,2319,"'Primo ''l'' Foot For Caster CTN Qty 10'","Accessories",1,1,19.16,,,,,,18,19.16,,,"Accessories","Carton",,,34.49,,,,,,,,,,,,,16.67,15.15
+1800399,2320,"'Primo ''t'' Foot For Caster CTN Qty 10'","Accessories",1,1,21.51,,,,,,18,21.51,,,"Accessories","Carton",,,38.72,,,,,,,,,,,,,18.7,17
+1800400,2323,"Primo l.605 Hanging Bar - Crom. CTN Qty 10","Accessories",1,1,21.09,,,,,,18,21.09,,,"Accessories","Carton",,,37.96,,,,,,,,,,,,,18.34,16.67
+1800401,2325,"Primo l.250 d/s Faceout Crom CTN Qty 10","Accessories",1,1,31.63,,,,,,18,31.63,,,"Accessories","Carton",,,56.93,,,,,,,,,,,,,27.5,25
+1800402,2326,"Primo 905x328 Cent. Hang Bar CTN Qty 10","Accessories",1,1,53.75,,,,,,18,53.75,,,"Accessories","Carton",,,96.75,,,,,,,,,,,,,46.74,42.49
+1800403,2328,"Primo 905x653 Cent. Hang Bar CTN Qty 10","Accessories",1,1,66.35,,,,,,18,66.35,,,"Accessories","Carton",,,119.43,,,,,,,,,,,,,57.7,52.45
+1800404,2355,"'Primo l90x90 ''l'' Brkt CTN Qty 10'","Accessories",1,1,16.84,,,,,,18,16.84,,,"Accessories","Carton",,,30.31,,,,,,,,,,,,,14.64,13.31
+1800405,2356,"'Primo l155x90 ''t'' Brkt CTN Qty 10'","Accessories",1,1,19.16,,,,,,18,19.16,,,"Accessories","Carton",,,34.49,,,,,,,,,,,,,16.67,15.15
+1800406,2357,"Primo l155x155 Cross Brkt CTN Qty 10","Accessories",1,1,21.51,,,,,,18,21.51,,,"Accessories","Carton",,,38.72,,,,,,,,,,,,,18.7,17
+1800407,2362,"Primo 1193x630 Cent. Hang Bar CTN Qty 10","Accessories",1,1,57.34,,,,,,18,57.34,,,"Accessories","Carton",,,103.21,,,,,,,,,,,,,49.86,45.33
+1800408,2363,"Primo Set Of 4 Shelf Brkts CTN Qty 10","Bracket",1,1,35.07,,,,,,18,35.07,,,"Bracket","Carton",,,63.13,,,,,,,,,,,,,30.49,27.72
+1800409,2364,"Primo l.180 Shelf Brkt - Pair CTN Qty 10","Bracket",1,1,22.44,,,,,,18,22.44,,,"Bracket","Carton",,,40.39,,,,,,,,,,,,,19.51,17.74
+1800410,2372,"Primo System 25x25 Joining Fitting CTN Qty 10","Fitting",1,1,3.59,,,,,,18,3.59,,,"Fitting","Carton",,,6.46,,,,,,,,,,,,,3.12,2.84
+1800411,2401,"Uno System - 2 Way Clamp CTN Qty 10","Clamp",1,1,3.85,,,,,,18,3.85,,,"Clamp","Carton",,,6.93,,,,,,,,,,,,,3.34,3.04
+1800412,2403,"Uno System - 4 Way Straight Clamp CTN Qty 10","Clamp",1,1,6.22,,,,,,18,6.22,,,"Clamp","Carton",,,11.2,,,,,,,,,,,,,5.41,4.92
+1800413,2404,"Uno System - 4 Way Corner Clamp CTN Qty 10","Clamp",1,1,6.41,,,,,,18,6.41,,,"Clamp","Carton",,,11.54,,,,,,,,,,,,,5.58,5.07
+1800414,2405,"Uno System - Parallel Triple Clamp CTN Qty 10","Clamp",1,1,6.34,,,,,,18,6.34,,,"Clamp","Carton",,,11.41,,,,,,,,,,,,,5.51,5.01
+1800415,2407,"'Uno System - 5 Way ''t'' Clamp CTN Qty 10'","Clamp",1,1,8.06,,,,,,18,8.06,,,"Clamp","Carton",,,14.51,,,,,,,,,,,,,7.01,6.37
+1800416,2415,"Uno System - 4 Way Hinged Corner CTN Qty 10","Accessories",1,1,8.18,,,,,,18,8.18,,,"Accessories","Carton",,,14.72,,,,,,,,,,,,,7.12,6.47
+1800417,2416,"Uno System - Parallel Panel Clamp CTN Qty 10","Clamp",1,1,3.85,,,,,,18,3.85,,,"Clamp","Carton",,,6.93,,,,,,,,,,,,,3.34,3.04
+1800418,2418,"Uno System Screw Cover Cap CTN Qty 100","Screw",1,1,0.49,,,,,,18,0.49,,,"Screw","Carton",,,0.88,,,,,,,,,,,,,0.43,0.39
+1800419,2425,"Uno System - Sing. Shlf. Supp. - Round CTN Qty 10","Support",1,1,4.29,,,,,,18,4.29,,,"Support","Carton",,,7.72,,,,,,,,,,,,,3.73,3.39
+1800420,2426,"Uno System - 3 Way Heavy Clamp CTN Qty 10","Clamp",1,1,5.4,,,,,,18,5.4,,,"Clamp","Carton",,,9.72,,,,,,,,,,,,,4.7,4.27
+1800421,2427,"Uno System - 4 Way Hinged Hd. Clamp CTN Qty 10","Clamp",1,1,9.53,,,,,,18,9.53,,,"Clamp","Carton",,,17.15,,,,,,,,,,,,,8.28,7.53
+1800422,2428,"'Uno System - 5 Way Hd. ''t'' Clamp CTN Qty 10'","Clamp",1,1,11.9,,,,,,18,11.9,,,"Clamp","Carton",,,21.42,,,,,,,,,,,,,10.35,9.41
+1800423,2429,"Uno System - 6 Way Hd. Clamp CTN Qty 10","Clamp",1,1,14.57,,,,,,18,14.57,,,"Clamp","Carton",,,26.23,,,,,,,,,,,,,12.67,11.52
+1800424,2430,"Uno System - Sing. Shlf. Supp. - Square CTN Qty 10","Support",1,1,5.65,,,,,,18,5.65,,,"Support","Carton",,,10.17,,,,,,,,,,,,,4.92,4.47
+1800425,2431,"Uno System - Dbl. Shlf. Supp. - Square CTN Qty 10","Support",1,1,6.69,,,,,,18,6.69,,,"Support","Carton",,,12.04,,,,,,,,,,,,,5.82,5.29
+1800426,2511,"Tritix Cube Joint CTN Qty 6","Accessories",1,1,115.7,,,,,,18,115.7,,,"Accessories","Carton",,,208.26,,,,,,,,,,,,,100.61,91.46
+1800427,2512,"Tritix Socket Spiggot CTN Qty 10","Accessories",1,1,1.28,,,,,,18,1.28,,,"Accessories","Carton",,,2.3,,,,,,,,,,,,,1.11,1.01
+1800428,2513,"Tritix Joiner - Use 2259 CTN Qty 10","Accessories",1,1,3.86,,,,,,18,3.86,,,"Accessories","Carton",,,6.95,,,,,,,,,,,,,3.36,3.05
+1800429,4472,"Signage Extrusion CTN Qty 20","Accessories",1,1,7.77,,,,,,18,7.77,,,"Accessories","Carton",,,13.99,,,,,,,,,,,,,5.98,5.2
+1800430,5034,"Boot Clip CTN Qty 100","Clip",1,1,1.53,,,,,,18,1.53,,,"Clip","Carton",,,2.75,,,,,,,,,,,,,1.18,1.02
+1800431,5037,"Pls.Clamp s/Hldr CTN Qty 100","Clamp",1,1,1.85,,,,,,18,1.85,,,"Clamp","Carton",,,3.33,,,,,,,,,,,,,1.42,1.24
+1800432,5056,"Castor w/Thrd - 5/16 CTN Qty 200","Accessories",1,1,1.85,,,,,,18,1.85,,,"Accessories","Carton",,,3.33,,,,,,,,,,,,,1.42,1.24
+1800433,5057,"Castor w/Thread - 3/8 CTN Qty 200","Accessories",1,1,2.1,,,,,,18,2.1,,,"Accessories","Carton",,,3.78,,,,,,,,,,,,,1.61,1.4
+1800434,5058,"Castor w/Thrd-Brk - 5/16 CTN Qty 200","Accessories",1,1,3.08,,,,,,18,3.08,,,"Accessories","Carton",,,5.54,,,,,,,,,,,,,2.37,2.06
+1800435,5059,"Castor w/Thread Brk - 3/8 CTN Qty 200","Accessories",1,1,3.45,,,,,,18,3.45,,,"Accessories","Carton",,,6.21,,,,,,,,,,,,,2.66,2.31
+1800436,5560,"Castors-75mm Plain CTN Qty 50","Accessories",1,1,4.81,,,,,,18,4.81,,,"Accessories","Carton",,,8.66,,,,,,,,,,,,,3.7,3.22
+1800437,7002,"Small Hinge CTN Qty 200","Hinge",1,1,0.9,,,,,,18,0.9,,,"Hinge","Carton",,,1.62,,,,,,,,,,,,,0.64,0.58
+1800438,7004,"300mm Spring Hinge CTN Qty 100","Hinge",1,1,4.8,,,,,,18,4.8,,,"Hinge","Carton",,,8.64,,,,,,,,,,,,,3.8,3.35
+1800439,7005,"Acryl Hinge w/Spring CTN Qty 200","Hinge",1,1,1.75,,,,,,18,1.75,,,"Hinge","Carton",,,3.15,,,,,,,,,,,,,1.2,1.05
+1800440,7006,"150mm Spring Hinge CTN Qty 100","Hinge",1,1,3.45,,,,,,18,3.45,,,"Hinge","Carton",,,6.21,,,,,,,,,,,,,2.65,2.3
+1800441,7007,"150mm Piano Hinge CTN Qty 100","Hinge",1,1,2.55,,,,,,18,2.55,,,"Hinge","Carton",,,4.59,,,,,,,,,,,,,1.95,1.7
+1800442,7010,"300mm Piano Hinge CTN Qty 100","Hinge",1,1,4.35,,,,,,18,4.35,,,"Hinge","Carton",,,7.83,,,,,,,,,,,,,3.25,2.8
+1800443,7012,"Flex-Lite-1220mm CTN Qty 25","Accessories",1,1,19.45,,,,,,18,19.45,,,"Accessories","Carton",,,35.01,,,,,,,,,,,,,14.95,13
+1800444,7020,"p/Wall Snap-On Clip - 4-6mm Thk CTN Qty 200","Clip",1,1,1.1,,,,,,18,1.1,,,"Clip","Carton",,,1.98,,,,,,,,,,,,,0.9,0.8
+1800445,7021,"Acryl Knob CTN Qty 100","Accessories",1,1,1.2,,,,,,18,1.2,,,"Accessories","Carton",,,2.16,,,,,,,,,,,,,0.9,0.75
+1800446,7022,"Acryl Pul Small CTN Qty 100","Accessories",1,1,1.55,,,,,,18,1.55,,,"Accessories","Carton",,,2.79,,,,,,,,,,,,,1.2,1.05
+1800447,7023,"Acryl Pul Med CTN Qty 100","Accessories",1,1,1.85,,,,,,18,1.85,,,"Accessories","Carton",,,3.33,,,,,,,,,,,,,1.4,1.22
+1800448,7024,"Acryl Pul Large CTN Qty 100","Accessories",1,1,2.05,,,,,,18,2.05,,,"Accessories","Carton",,,3.69,,,,,,,,,,,,,1.6,1.35
+1800449,7025,"Peg Board Attach CTN Qty 200","Board",1,1,0.65,,,,,,18,0.65,,,"Board","Carton",,,1.17,,,,,,,,,,,,,0.48,0.4
+1800450,7026,"Plank Wall Attach CTN Qty 200","Accessories",1,1,0.38,,,,,,18,0.38,,,"Accessories","Carton",,,0.68,,,,,,,,,,,,,0.29,0.25
+1800451,7027,"Handle Bar-600 CTN Qty 40","Accessories",1,1,5.6,,,,,,18,5.6,,,"Accessories","Carton",,,10.08,,,,,,,,,,,,,4.25,3.75
+1800452,7028,"Mini Cam Lock CTN Qty 50","Accessories",1,1,4.5,,,,,,18,4.5,,,"Accessories","Carton",,,8.1,,,,,,,,,,,,,3.5,3.05
+1800453,7029,"Mini Padlock CTN Qty 50","Accessories",1,1,2.25,,,,,,18,2.25,,,"Accessories","Carton",,,4.05,,,,,,,,,,,,,1.7,1.5
+1800454,7030,"Hasp CTN Qty 100","Accessories",1,1,2.5,,,,,,18,2.5,,,"Accessories","Carton",,,4.5,,,,,,,,,,,,,1.9,1.65
+1800455,7031,"Sup Hng 2-Ac CTN Qty 30","Accessories",1,1,15,,,,,,18,15,,,"Accessories","Carton",,,27,,,,,,,,,,,,,12.5,10
+1800456,7032,"Door Catch CTN Qty 100","Accessories",1,1,0.95,,,,,,18,0.95,,,"Accessories","Carton",,,1.71,,,,,,,,,,,,,0.7,0.6
+1800457,7033,"Small Magnetic Catch CTN Qty 100","Accessories",1,1,1.75,,,,,,18,1.75,,,"Accessories","Carton",,,3.15,,,,,,,,,,,,,1.35,1.15
+1800458,7034,"Large Magnetic Catch CTN Qty 100","Accessories",1,1,2.5,,,,,,18,2.5,,,"Accessories","Carton",,,4.5,,,,,,,,,,,,,1.9,1.65
+1800459,7036,"Sup Hng 3-Ac CTN Qty 65","Accessories",1,1,23.2,,,,,,18,23.2,,,"Accessories","Carton",,,41.76,,,,,,,,,,,,,20,16
+1800460,7040,"Keyhole Small CTN Qty 200","Accessories",1,1,0.59,,,,,,18,0.59,,,"Accessories","Carton",,,1.06,,,,,,,,,,,,,0.46,0.4
+1800461,7041,"Keyhole Large CTN Qty 200","Accessories",1,1,0.72,,,,,,18,0.72,,,"Accessories","Carton",,,1.3,,,,,,,,,,,,,0.58,0.5
+1800462,7042,"Wall Hanger CTN Qty 200","Accessories",1,1,0.9,,,,,,18,0.9,,,"Accessories","Carton",,,1.62,,,,,,,,,,,,,0.69,0.6
+1800463,7043,"Open Keyhole CTN Qty 200","Accessories",1,1,0.57,,,,,,18,0.57,,,"Accessories","Carton",,,1.03,,,,,,,,,,,,,0.44,0.38
+1800464,7044,"Mini-Hasp/ Pr CTN Qty 200","Accessories",1,1,1.87,,,,,,18,1.87,,,"Accessories","Carton",,,3.37,,,,,,,,,,,,,1.44,1.25
+1800465,7045,"Sup h Hinge 4.5mm CTN Qty 50","Accessories",1,1,24.5,,,,,,18,24.5,,,"Accessories","Carton",,,44.1,,,,,,,,,,,,,18.5,16.1
+1800466,7046,"Sup h Hinge 6mm CTN Qty 50","Accessories",1,1,26.27,,,,,,18,26.27,,,"Accessories","Carton",,,47.29,,,,,,,,,,,,,20.21,17.57
+1800467,7047,"Reinforce 80 CTN Qty 1000","Accessories",1,1,0.22,,,,,,18,0.22,,,"Accessories","Carton",,,0.4,,,,,,,,,,,,,0.17,0.15
+1800468,7048,"Reinforce 45 CTN Qty 1000","Accessories",1,1,0.2,,,,,,18,0.2,,,"Accessories","Carton",,,0.36,,,,,,,,,,,,,0.15,0.13
+1800469,7049,"Reinforce 45 Sing CTN Qty 1000","Accessories",1,1,0.2,,,,,,18,0.2,,,"Accessories","Carton",,,0.36,,,,,,,,,,,,,0.15,0.13
+1800470,7051,"Brillianize 4l CTN Qty 12","Accessories",1,1,24.67,,,,,,18,24.67,,,"Accessories","Carton",,,44.41,,,,,,,,,,,,,18.98,16.5
+1800471,7052,"Brillianize 250ml CTN Qty 24","Accessories",1,1,4.93,,,,,,18,4.93,,,"Accessories","Carton",,,8.87,,,,,,,,,,,,,3.8,3.3
+1800472,7053,"Gloves Mens-Per Doz CTN Qty 6","Accessories",1,1,19.61,,,,,,18,19.61,,,"Accessories","Carton",,,35.3,,,,,,,,,,,,,15.09,13.12
+1800473,7054,"Gloves Ladies-Per d0z CTN Qty 6","Accessories",1,1,19.61,,,,,,18,19.61,,,"Accessories","Carton",,,35.3,,,,,,,,,,,,,15.09,13.12
+1800474,7055,"Flannel Cloth CTN Qty 25","Accessories",1,1,4.2,,,,,,18,4.2,,,"Accessories","Carton",,,7.56,,,,,,,,,,,,,3.25,2.8
+1800475,7056,"Magnetic Button CTN Qty 100","Accessories",1,1,2.3,,,,,,18,2.3,,,"Accessories","Carton",,,4.14,,,,,,,,,,,,,1.85,1.6
+1800476,7059,"Split Micro Cloth - Lt. Blue CTN Qty 25","Accessories",1,1,3.95,,,,,,18,3.95,,,"Accessories","Carton",,,7.11,,,,,,,,,,,,,3.04,2.64
+1800477,7060,"Bumpon Small CTN Qty 54","Accessories",1,1,0.1,,,,,,18,0.1,,,"Accessories","Carton",,,0.18,,,,,,,,,,,,,0.06,0.05
+1800478,7061,"Bumpon Large CTN Qty 50","Accessories",1,1,0.18,,,,,,18,0.18,,,"Accessories","Carton",,,0.32,,,,,,,,,,,,,0.1,0.09
+1800479,7062,"Bumpon Flat CTN Qty 50","Accessories",1,1,0.18,,,,,,18,0.18,,,"Accessories","Carton",,,0.32,,,,,,,,,,,,,0.1,0.09
+1800480,7064,"Micro Gloss 55Ml CTN Qty 25","Accessories",1,1,9.6,,,,,,18,9.6,,,"Accessories","Carton",,,17.28,,,,,,,,,,,,,7.5,6.5
+1800481,7065,"Micro Gloss 225Ml CTN Qty 12","Accessories",1,1,21.5,,,,,,18,21.5,,,"Accessories","Carton",,,38.7,,,,,,,,,,,,,16.5,14.4
+1800482,7066,"Micro Gloss 4.5L CTN Qty 4","Accessories",1,1,239,,,,,,18,239,,,"Accessories","Carton",,,430.2,,,,,,,,,,,,,184.3,160.3
+1800483,7067,"Polish Mate Cloth CTN Qty 25","Accessories",1,1,1.26,,,,,,18,1.26,,,"Accessories","Carton",,,2.27,,,,,,,,,,,,,0.97,0.84
+1800484,7070,"20ga Needle Ea CTN Qty 20","Accessories",1,1,0.89,,,,,,18,0.89,,,"Accessories","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800485,7071,"23ga Needle Ea CTN Qty 20","Accessories",1,1,0.89,,,,,,18,0.89,,,"Accessories","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800486,7072,"25ga Needle Ea CTN Qty 20","Accessories",1,1,0.89,,,,,,18,0.89,,,"Accessories","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800487,7073,"16ga Needle Ea CTN Qty 20","Accessories",1,1,0.89,,,,,,18,0.89,,,"Accessories","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800488,7074,"Micro Gloss 5  55Ml CTN Qty 25","Accessories",1,1,9.6,,,,,,18,9.6,,,"Accessories","Carton",,,17.28,,,,,,,,,,,,,7.5,6.5
+1800489,7075,"Micro Gloss 5  225Ml CTN Qty 12","Accessories",1,1,21.5,,,,,,18,21.5,,,"Accessories","Carton",,,38.7,,,,,,,,,,,,,16.5,14.4
+1800490,7076,"Micro Gloss 5  4.5 L CTN Qty 4","Accessories",1,1,239,,,,,,18,239,,,"Accessories","Carton",,,430.2,,,,,,,,,,,,,184.3,160.3
+1800491,7077,"27 Ga Needle Ea CTN Qty 20","Accessories",1,1,0.89,,,,,,18,0.89,,,"Accessories","Carton",,,1.6,,,,,,,,,,,,,0.68,0.59
+1800492,7080,"Funnel CTN Qty 20","Accessories",1,1,2.71,,,,,,18,2.71,,,"Accessories","Carton",,,4.88,,,,,,,,,,,,,2.09,1.82
+1800493,7081,"Witch Hat Applicator CTN Qty 10","Accessories",1,1,1.23,,,,,,18,1.23,,,"Accessories","Carton",,,2.21,,,,,,,,,,,,,0.95,0.83
+1800494,7083,"Micro Finish 55 Ml CTN Qty 25","Accessories",1,1,4.8,,,,,,18,4.8,,,"Accessories","Carton",,,8.64,,,,,,,,,,,,,3.75,3.25
+1800495,7084,"55ml Bottle w/Lid CTN Qty 10","Accessories",1,1,4.44,,,,,,18,4.44,,,"Accessories","Carton",,,7.99,,,,,,,,,,,,,3.42,2.97
+1800496,7085,"Micro Finish 225 Ml CTN Qty 12","Accessories",1,1,18.5,,,,,,18,18.5,,,"Accessories","Carton",,,33.3,,,,,,,,,,,,,14.25,12.4
+1800497,7086,"Micro Finish 4.5 Litre CTN Qty 4","Accessories",1,1,91.2,,,,,,18,91.2,,,"Accessories","Carton",,,164.16,,,,,,,,,,,,,70.2,61
+1800498,7087,"Anti Static Cream 55Ml CTN Qty 25","Accessories",1,1,7.4,,,,,,18,7.4,,,"Accessories","Carton",,,13.32,,,,,,,,,,,,,5.7,4.95
+1800499,7088,"Anti Static Cream 225Ml CTN Qty 12","Accessories",1,1,20.6,,,,,,18,20.6,,,"Accessories","Carton",,,37.08,,,,,,,,,,,,,15.85,13.8
+1800500,7089,"Anti Static Cream 4.5 Litre CTN Qty 4","Accessories",1,1,198.5,,,,,,18,198.5,,,"Accessories","Carton",,,357.3,,,,,,,,,,,,,152.75,132.7
+1800501,7094,"30 Ml Syringe CTN Qty 10","Accessories",1,1,4.44,,,,,,18,4.44,,,"Accessories","Carton",,,7.99,,,,,,,,,,,,,3.42,2.97
+1800502,7101,"25X3 Round Hook CTN Qty 1000","Hook",1,1,0.16,,,,,,18,0.16,,,"Hook","Carton",,,0.29,,,,,,,,,,,,,0.1,0.08
+1800503,7102,"38X3 Round Hook CTN Qty 1000","Hook",1,1,0.2,,,,,,18,0.2,,,"Hook","Carton",,,0.36,,,,,,,,,,,,,0.13,0.1
+1800504,7103,"50X3 Round Hook CTN Qty 1000","Hook",1,1,0.23,,,,,,18,0.23,,,"Hook","Carton",,,0.41,,,,,,,,,,,,,0.16,0.12
+1800505,7104,"38X6 Flat Hook CTN Qty 1000","Hook",1,1,0.2,,,,,,18,0.2,,,"Hook","Carton",,,0.36,,,,,,,,,,,,,0.13,0.1
+1800506,7105,"50X6 Flat Hook CTN Qty 1000","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.31,0.24
+1800507,7106,"63X10 Flat Hook CTN Qty 1000","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.31,0.24
+1800508,7107,"76 X 10 Flat Hook CTN Qty 1000","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.31,0.24
+1800509,7108,"50 X 10 Flat Hook CTN Qty 1000","Hook",1,1,0.47,,,,,,18,0.47,,,"Hook","Carton",,,0.85,,,,,,,,,,,,,0.31,0.24
+1800510,7109,"38 j Bar Hook CTN Qty 1000","Hook",1,1,0.51,,,,,,18,0.51,,,"Hook","Carton",,,0.92,,,,,,,,,,,,,0.34,0.26
+1800511,7111,"Ribbed Hook 10 X 25 CTN Qty 1000","Hook",1,1,0.2,,,,,,18,0.2,,,"Hook","Carton",,,0.36,,,,,,,,,,,,,0.13,0.1
+1800512,7113,"Ribbed Hook 10 X 50 CTN Qty 1000","Hook",1,1,0.27,,,,,,18,0.27,,,"Hook","Carton",,,0.49,,,,,,,,,,,,,0.18,0.14
+1800513,7114,"Ribbed Hook 10 X 76 CTN Qty 1000","Hook",1,1,0.39,,,,,,18,0.39,,,"Hook","Carton",,,0.7,,,,,,,,,,,,,0.26,0.2
+1800514,7116,"Hook Hldr-3x25 CTN Qty 1000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.23,0.18
+1800515,7117,"'Hook Hldr-3x3850 CTN Qty 1000'","Hook",1,1,,0.35,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.23,0.18
+1800516,7118,"Hook Hldr-6w CTN Qty 1000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.23,0.18
+1800517,7119,"Hook Hldr-10w CTN Qty 1000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.23,0.18
+1800518,7130,"Bus Car Attach CTN Qty 100","Accessories",1,1,1.11,,,,,,18,1.11,,,"Accessories","Carton",,,2,,,,,,,,,,,,,0.85,0.74
+1800519,7131,"Dl Attach CTN Qty 25","Accessories",1,1,2.84,,,,,,18,2.84,,,"Accessories","Carton",,,5.11,,,,,,,,,,,,,2.18,1.9
+1800520,7133,"Special Size Attach CTN Qty 100","Accessories",1,1,1.4,,,,,,18,1.4,,,"Accessories","Carton",,,2.52,,,,,,,,,,,,,1.08,0.95
+1800521,7134,"a4 Attach CTN Qty 25","Accessories",1,1,13.69,,,,,,18,13.69,,,"Accessories","Carton",,,24.64,,,,,,,,,,,,,10.53,9.16
+1800522,7135,"Divider CTN Qty 100","Accessories",1,1,1.38,,,,,,18,1.38,,,"Accessories","Carton",,,2.48,,,,,,,,,,,,,1.06,0.92
+1800523,7136,"Jay Bar Hd 38Mm CTN Qty 1000","Accessories",1,1,0.51,,,,,,18,0.51,,,"Accessories","Carton",,,0.92,,,,,,,,,,,,,0.34,0.26
+1800524,7137,"Jay Bar Hd 50Mm CTN Qty 1000","Accessories",1,1,0.55,,,,,,18,0.55,,,"Accessories","Carton",,,0.99,,,,,,,,,,,,,0.4,0.28
+1800525,7138,"Jay Bar Hd 75Mm CTN Qty 1000","Accessories",1,1,0.7,,,,,,18,0.7,,,"Accessories","Carton",,,1.26,,,,,,,,,,,,,0.47,0.36
+1800526,7139,"Jay Bar Hd 100Mm CTN Qty 1000","Accessories",1,1,0.78,,,,,,18,0.78,,,"Accessories","Carton",,,1.4,,,,,,,,,,,,,0.52,0.4
+1800527,7145,"Sq Display Base - 150mm CTN Qty 25","Base",1,1,7.4,,,,,,18,7.4,,,"Base","Carton",,,13.32,,,,,,,,,,,,,5.69,4.95
+1800528,7150,"Camlock 11 CTN Qty 50","Accessories",1,1,6.66,,,,,,18,6.66,,,"Accessories","Carton",,,11.99,,,,,,,,,,,,,5.12,4.46
+1800529,7151,"Camlock16 CTN Qty 50","Accessories",1,1,6.66,,,,,,18,6.66,,,"Accessories","Carton",,,11.99,,,,,,,,,,,,,5.12,4.46
+1800530,7152,"Ca Lock 22 CTN Qty 50","Accessories",1,1,7.4,,,,,,18,7.4,,,"Accessories","Carton",,,13.32,,,,,,,,,,,,,5.69,4.95
+1800531,7155,"Acrylic Restoral Kit CTN Qty 2","Kit",1,1,51.8,,,,,,18,51.8,,,"Kit","Carton",,,93.24,,,,,,,,,,,,,39.9,34.65
+1800532,7156,"Acrylic Restoral Kit CTN Qty 2","Kit",1,1,105,,,,,,18,105,,,"Kit","Carton",,,189,,,,,,,,,,,,,80.7,70.2
+1800533,7157,"Acrylic Restoral Kit CTN Qty 2","Kit",1,1,167.7,,,,,,18,167.7,,,"Kit","Carton",,,301.86,,,,,,,,,,,,,129,113.3
+1800534,7160,"Cam Lever 25 CTN Qty 50","Accessories",1,1,0.84,,,,,,18,0.84,,,"Accessories","Carton",,,1.51,,,,,,,,,,,,,0.65,0.56
+1800535,7161,"Camlever 32 CTN Qty 50","Accessories",1,1,0.84,,,,,,18,0.84,,,"Accessories","Carton",,,1.51,,,,,,,,,,,,,0.65,0.56
+1800536,7162,"Camlever Offset CTN Qty 50","Accessories",1,1,0.84,,,,,,18,0.84,,,"Accessories","Carton",,,1.51,,,,,,,,,,,,,0.65,0.56
+1800537,7200,"140 t Table CTN Qty 100","Accessories",1,1,3.21,,,,,,18,3.21,,,"Accessories","Carton",,,5.78,,,,,,,,,,,,,2.47,2.15
+1800538,7201,"215 t Table CTN Qty 50","Accessories",1,1,7.18,,,,,,18,7.18,,,"Accessories","Carton",,,12.92,,,,,,,,,,,,,5.52,4.8
+1800539,7202,"305 t Table CTN Qty 25","Accessories",1,1,11.21,,,,,,18,11.21,,,"Accessories","Carton",,,20.18,,,,,,,,,,,,,8.63,7.5
+1800540,7203,"Heavy Duty Bearing Unit CTN Qty 10","Accessories",1,1,25,,,,,,18,25,,,"Accessories","Carton",,,45,,,,,,,,,,,,,19.9,17.4
+1800541,7205,"320mm dia-Turn Table CTN Qty 18","Accessories",1,1,8.65,,,,,,18,8.65,,,"Accessories","Carton",,,15.57,,,,,,,,,,,,,6.65,5.8
+1800542,7206,"405mm dia-Turn Table CTN Qty 12","Accessories",1,1,13.57,,,,,,18,13.57,,,"Accessories","Carton",,,24.43,,,,,,,,,,,,,10.44,9.08
+1800543,7210,"110 t Table CTN Qty 100","Accessories",1,1,2.47,,,,,,18,2.47,,,"Accessories","Carton",,,4.45,,,,,,,,,,,,,1.9,1.65
+1800544,7215,"Acri-Bond 105 - 500 Ml CTN Qty 6","Accessories",1,1,25,,,,,,18,25,,,"Accessories","Carton",,,45,,,,,,,,,,,,,21.8,20.3
+1800545,7216,"Acri-Bond 105 - 4 Litre CTN Qty 2","Accessories",1,1,137.2,,,,,,18,137.2,,,"Accessories","Carton",,,246.96,,,,,,,,,,,,,124.4,115.9
+1800546,7220,"Acri-Bond 110 500Ml CTN Qty 6","Accessories",1,1,33.6,,,,,,18,33.6,,,"Accessories","Carton",,,60.48,,,,,,,,,,,,,28.7,26.8
+1800547,7221,"Acri-Bond 110 100Ml Tube CTN Qty 10","Tube",1,1,15,,,,,,18,15,,,"Tube","Carton",,,27,,,,,,,,,,,,,12.8,11.9
+1800548,7222,"Acri-Bond 110 4 Litre CTN Qty 2","Accessories",1,1,171.6,,,,,,18,171.6,,,"Accessories","Carton",,,308.88,,,,,,,,,,,,,155.5,144.8
+1800549,7225,"Acri-Bond - 120 500 Ml CTN Qty 6","Accessories",1,1,39.8,,,,,,18,39.8,,,"Accessories","Carton",,,71.64,,,,,,,,,,,,,35.3,32.9
+1800550,7226,"Acri-Bond - 120 4 Litre CTN Qty 2","Accessories",1,1,211.1,,,,,,18,211.1,,,"Accessories","Carton",,,379.98,,,,,,,,,,,,,191.4,178.2
+1800551,7230,"Acri-Bond 125 500 Ml CTN Qty 6","Accessories",1,1,36.3,,,,,,18,36.3,,,"Accessories","Carton",,,65.34,,,,,,,,,,,,,31.1,29
+1800552,7231,"Acri-Bond 125 4 Litre CTN Qty 2","Accessories",1,1,179.6,,,,,,18,179.6,,,"Accessories","Carton",,,323.28,,,,,,,,,,,,,163.8,151.6
+1800553,7241,"Acri-Bond Cleaner 4.0 Litre CTN Qty 2","Accessories",1,1,79.2,,,,,,18,79.2,,,"Accessories","Carton",,,142.56,,,,,,,,,,,,,71.8,66.9
+1800554,7242,"Acri-Bond Maskrem  1.0 Litre CTN Qty 6","Accessories",1,1,28.4,,,,,,18,28.4,,,"Accessories","Carton",,,51.12,,,,,,,,,,,,,24,22.3
+1800555,7255,"Drill Set 7Pce 1/8"" - 1/2"" CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,128.72,119
+1800556,7256,"Drill Set 29Pce 1/16"" - 1/2"" CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,511,470
+1800557,7257,"Drill Set 37Pce 1/16"" - 1"" CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,686,630
+1800558,7258,"Drill Set 8Pce 9/16"" - 1"" CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,0,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,1195,1099
+1800559,7265,"Plas Ctr CTN Qty 10","Accessories",1,1,11.54,,,,,,18,11.54,,,"Accessories","Carton",,,20.77,,,,,,,,,,,,,8.88,7.72
+1800560,7268,"h/d Plas Cutter CTN Qty 10","Accessories",1,1,23.75,,,,,,18,23.75,,,"Accessories","Carton",,,42.75,,,,,,,,,,,,,18.27,15.89
+1800561,7269,"Edge Scraper CTN Qty 10","Accessories",1,1,25.7,,,,,,18,25.7,,,"Accessories","Carton",,,46.26,,,,,,,,,,,,,19.77,17.19
+1800562,7270,"Buff Comp Large CTN Qty 10","Accessories",1,1,19.73,,,,,,18,19.73,,,"Accessories","Carton",,,35.51,,,,,,,,,,,,,15.18,13.2
+1800563,7271,"Buff Compound Basic Red CTN Qty 10","Accessories",1,1,12.58,,,,,,18,12.58,,,"Accessories","Carton",,,22.64,,,,,,,,,,,,,9.68,8.42
+1800564,7272,"Buff Compound Final Blue CTN Qty 10","Accessories",1,1,28.52,,,,,,18,28.52,,,"Accessories","Carton",,,51.34,,,,,,,,,,,,,21.94,19.07
+1800565,7275,"Ceramic Scraper - Small CTN Qty 3","Accessories",1,1,66.5,,,,,,18,66.5,,,"Accessories","Carton",,,119.7,,,,,,,,,,,,,63.6,59.5
+1800566,7276,"Ceramic Scraper - Large CTN Qty 3","Accessories",1,1,66.5,,,,,,18,66.5,,,"Accessories","Carton",,,119.7,,,,,,,,,,,,,63.6,59.5
+1800567,7321,"Peg b/ Plate 40w X 50h CTN Qty 100","Accessories",1,1,2.1,,,,,,18,2.1,,,"Accessories","Carton",,,3.78,,,,,,,,,,,,,1.61,1.4
+1800568,7325,"Prong w/Pin-50mm CTN Qty 100","Accessories",1,1,0.84,,,,,,18,0.84,,,"Accessories","Carton",,,1.51,,,,,,,,,,,,,0.65,0.56
+1800569,7326,"Prong w/Pin-100mm CTN Qty 100","Accessories",1,1,0.84,,,,,,18,0.84,,,"Accessories","Carton",,,1.51,,,,,,,,,,,,,0.65,0.56
+1800570,7327,"Pin Fitting Plastic Hook 150Mm CTN Qty 100","Fitting",1,1,1,,,,,,18,1,,,"Fitting","Carton",,,1.8,,,,,,,,,,,,,0.77,0.68
+1800571,7328,"Rod Collar CTN Qty 100","Rod",1,1,2.71,,,,,,18,2.71,,,"Rod","Carton",,,4.88,,,,,,,,,,,,,2.09,1.82
+1800572,7329,"Pin Spec Disp Short CTN Qty 100","Accessories",1,1,1.23,,,,,,18,1.23,,,"Accessories","Carton",,,2.21,,,,,,,,,,,,,0.95,0.83
+1800573,7330,"Curved Spec Rod Cl CTN Qty 100","Rod",1,1,2.47,,,,,,18,2.47,,,"Rod","Carton",,,4.45,,,,,,,,,,,,,1.9,1.65
+1800574,7331,"Spec. Clip Rod CTN Qty 100","Rod",1,1,2.47,,,,,,18,2.47,,,"Rod","Carton",,,4.45,,,,,,,,,,,,,1.9,1.65
+1800575,7332,"Rod Mount CTN Qty 100","Rod",1,1,2.1,,,,,,18,2.1,,,"Rod","Carton",,,3.78,,,,,,,,,,,,,1.61,1.4
+1800576,7333,"Glue On Nose Bridge CTN Qty 200","Accessories",1,1,0.62,,,,,,18,0.62,,,"Accessories","Carton",,,1.12,,,,,,,,,,,,,0.47,0.41
+1800577,7334,"Spec Clip-Glue CTN Qty 200","Clip",1,1,2,,,,,,18,2,,,"Clip","Carton",,,3.6,,,,,,,,,,,,,1.54,1.34
+1800578,7335,"Spec Clip-Glue - Angled CTN Qty 200","Clip",1,1,2,,,,,,18,2,,,"Clip","Carton",,,3.6,,,,,,,,,,,,,1.54,1.34
+1800579,7336,"Long Spec Clip w/Pin CTN Qty 200","Clip",1,1,2,,,,,,18,2,,,"Clip","Carton",,,3.6,,,,,,,,,,,,,1.54,1.34
+1800580,7337,"Ring Grip CTN Qty 200","Accessories",1,1,0.81,,,,,,18,0.81,,,"Accessories","Carton",,,1.46,,,,,,,,,,,,,0.63,0.54
+1800581,7338,"Watch Clip CTN Qty 200","Clip",1,1,1.33,,,,,,18,1.33,,,"Clip","Carton",,,2.39,,,,,,,,,,,,,1.02,0.89
+1800582,7339,"Watch Disp Glue To Backing CTN Qty 200","Accessories",1,1,1.33,,,,,,18,1.33,,,"Accessories","Carton",,,2.39,,,,,,,,,,,,,1.02,0.89
+1800583,7340,"Watch Clip Peg CTN Qty 200","Clip",1,1,1.33,,,,,,18,1.33,,,"Clip","Carton",,,2.39,,,,,,,,,,,,,1.02,0.89
+1800584,7350,"Thrd Ac Rod - 1 End - 100mm CTN Qty 25","Rod",1,1,3.45,,,,,,18,3.45,,,"Rod","Carton",,,6.21,,,,,,,,,,,,,2.66,2.31
+1800585,7351,"Thrd Ac Rod - 1 End - 152mm CTN Qty 25","Rod",1,1,4.19,,,,,,18,4.19,,,"Rod","Carton",,,7.54,,,,,,,,,,,,,3.23,2.81
+1800586,7352,"Thrd Ac Rod - 1 End - 203mm CTN Qty 25","Rod",1,1,5.18,,,,,,18,5.18,,,"Rod","Carton",,,9.32,,,,,,,,,,,,,3.98,3.47
+1800587,7353,"Thrd Ac Rod - 1 End - 254mm CTN Qty 25","Rod",1,1,6.41,,,,,,18,6.41,,,"Rod","Carton",,,11.54,,,,,,,,,,,,,4.93,4.29
+1800588,7354,"Thrd Ac Rod - 1 End - 305mm CTN Qty 25","Rod",1,1,7.77,,,,,,18,7.77,,,"Rod","Carton",,,13.99,,,,,,,,,,,,,5.98,5.2
+1800589,7360,"Thrd Ac Rod - 2 End - 100mm CTN Qty 25","Rod",1,1,5.33,,,,,,18,5.33,,,"Rod","Carton",,,9.59,,,,,,,,,,,,,4.1,3.56
+1800590,7361,"Thrd Ac Rod - 2 End - 152mm CTN Qty 25","Rod",1,1,6.07,,,,,,18,6.07,,,"Rod","Carton",,,10.93,,,,,,,,,,,,,4.67,4.06
+1800591,7362,"Thrd Ac Rod - 2 End - 203mm CTN Qty 25","Rod",1,1,6.78,,,,,,18,6.78,,,"Rod","Carton",,,12.2,,,,,,,,,,,,,5.22,4.54
+1800592,7363,"Thrd Ac Rod - 2 End - 254mm CTN Qty 25","Rod",1,1,8.26,,,,,,18,8.26,,,"Rod","Carton",,,14.87,,,,,,,,,,,,,6.36,5.53
+1800593,7364,"Thrd Ac Rod - 2 End - 305mm CTN Qty 25","Rod",1,1,9.87,,,,,,18,9.87,,,"Rod","Carton",,,17.77,,,,,,,,,,,,,7.59,6.6
+1800594,7380,"Mini-Hasp/ Pr CTN Qty 20","Accessories",1,1,2,,,,,,18,2,,,"Accessories","Carton",,,3.6,,,,,,,,,,,,,1.7,1.5
+1800595,7400,"Clear Acrylic Tube 2000Mm l 8Mm/ 5Mm CTN Qty 100","Tube",1,1,3.8,,,,,,18,3.8,,,"Tube","Carton",,,6.84,,,,,,,,,,,,,2.95,2.6
+1800596,7401,"Clear Acrylic Tube 2000Mm l 8Mm/ 4Mm CTN Qty 100","Tube",1,1,4.6,,,,,,18,4.6,,,"Tube","Carton",,,8.28,,,,,,,,,,,,,3.6,3.15
+1800597,7402,"Clear Acrylic Tube 2000Mm l 10Mm / 7Mm CTN Qty 100","Tube",1,1,5.35,,,,,,18,5.35,,,"Tube","Carton",,,9.63,,,,,,,,,,,,,4.2,3.7
+1800598,7403,"Clear Acrylic Tube 2000Mm l 10Mm/ 6Mm CTN Qty 100","Tube",1,1,6.1,,,,,,18,6.1,,,"Tube","Carton",,,10.98,,,,,,,,,,,,,4.75,4.2
+1800599,7404,"Clear Acrylic Tube 2000Mm l 12Mm / 9Mm CTN Qty 100","Tube",1,1,6.1,,,,,,18,6.1,,,"Tube","Carton",,,10.98,,,,,,,,,,,,,4.75,4.2
+1800600,7405,"Clear Acrylic Tube 2000Mm l 12Mm / 8Mm CTN Qty 100","Tube",1,1,7.6,,,,,,18,7.6,,,"Tube","Carton",,,13.68,,,,,,,,,,,,,5.95,5.25
+1800601,7406,"Clear Acrylic Tube 2000Mm l 14Mm / 10Mm CTN Qty 100","Tube",1,1,8.3,,,,,,18,8.3,,,"Tube","Carton",,,14.94,,,,,,,,,,,,,6.5,5.75
+1800602,7407,"Clear Acrylic Tube 2000Mm l 15Mm / 12Mm CTN Qty 100","Tube",1,1,6.9,,,,,,18,6.9,,,"Tube","Carton",,,12.42,,,,,,,,,,,,,5.4,4.75
+1800603,7408,"Clear Acrylic Tube 2000Mm l 15Mm / 11Mm CTN Qty 50","Tube",1,1,9.15,,,,,,18,9.15,,,"Tube","Carton",,,16.47,,,,,,,,,,,,,7.1,6.3
+1800604,7409,"Clear Acrylic Tube 2000Mm l 16Mm / 12Mm CTN Qty 50","Tube",1,1,9.85,,,,,,18,9.85,,,"Tube","Carton",,,17.73,,,,,,,,,,,,,7.7,6.8
+1800605,7410,"Clear Acrylic Tube 2000Mm l 18Mm / 14Mnm CTN Qty 50","Tube",1,1,10.6,,,,,,18,10.6,,,"Tube","Carton",,,19.08,,,,,,,,,,,,,8.3,7.35
+1800606,7411,"Clear Acrylic Tube 2000Mm l 20Mm / 17Mm CTN Qty 50","Tube",1,1,11,,,,,,18,11,,,"Tube","Carton",,,19.8,,,,,,,,,,,,,8.6,7.6
+1800607,7412,"Clear Acrylic Tube 2000Mm l 20Mm / 16Mm CTN Qty 50","Tube",1,1,11.45,,,,,,18,11.45,,,"Tube","Carton",,,20.61,,,,,,,,,,,,,8.95,7.9
+1800608,7413,"Clear Acrylic Tube 2000Mm l 22Mm / 18Mm CTN Qty 40","Tube",1,1,12.45,,,,,,18,12.45,,,"Tube","Carton",,,22.41,,,,,,,,,,,,,10.05,8.9
+1800609,7414,"Clear Acrylic Tube 2000Mm l 22Mm / 16Mm CTN Qty 40","Tube",1,1,17.65,,,,,,18,17.65,,,"Tube","Carton",,,31.77,,,,,,,,,,,,,14.25,12.6
+1800610,7415,"Fab. Man CTN Qty 5","Accessories",1,1,10.8,,,,,,18,10.8,,,"Accessories","Carton",,,19.44,,,,,,,,,,,,,8.31,7.23
+1800611,7416,"Clear Acrylic Tube 2000Mm l 25Mm / 21Mm CTN Qty 40","Tube",1,1,14.7,,,,,,18,14.7,,,"Tube","Carton",,,26.46,,,,,,,,,,,,,11.9,10.5
+1800612,7417,"Clear Acrylic Tube 2000Mm l 30Mm / 26Mm CTN Qty 30","Tube",1,1,17.65,,,,,,18,17.65,,,"Tube","Carton",,,31.77,,,,,,,,,,,,,14.2,12.6
+1800613,7418,"Clear Acrylic Tube 2000Mm l 30Mm / 24Mm CTN Qty 30","Tube",1,1,25,,,,,,18,25,,,"Tube","Carton",,,45,,,,,,,,,,,,,20.2,17.85
+1800614,7419,"Clear Acrylic Tube 2000Mm l 35Mnm / 31Mm CTN Qty 30","Tube",1,1,20.6,,,,,,18,20.6,,,"Tube","Carton",,,37.08,,,,,,,,,,,,,16.6,14.7
+1800615,7420,"Clear Acrylic Tube 2000Mm l 40Mm / 34Mm CTN Qty 30","Tube",1,1,34.6,,,,,,18,34.6,,,"Tube","Carton",,,62.28,,,,,,,,,,,,,27.9,24.7
+1800616,7421,"Clear Acrylic Tube 2000Mm l 40Mm / 30Mm CTN Qty 30","Tube",1,1,54.4,,,,,,18,54.4,,,"Tube","Carton",,,97.92,,,,,,,,,,,,,43.9,38.85
+1800617,7422,"Clear Acrylic Tube 2000Mm l 45Mm / 41Mm CTN Qty 25","Tube",1,1,26.45,,,,,,18,26.45,,,"Tube","Carton",,,47.61,,,,,,,,,,,,,21.4,18.9
+1800618,7423,"Clear Acrylic Tube 2000Mm l 50Mm / 46Mm CTN Qty 25","Tube",1,1,29.4,,,,,,18,29.4,,,"Tube","Carton",,,52.92,,,,,,,,,,,,,23.8,21
+1800619,7424,"Clear Acrylic Tube 2000Mm l 50Mm / 44Mm CTN Qty 25","Tube",1,1,44.1,,,,,,18,44.1,,,"Tube","Carton",,,79.38,,,,,,,,,,,,,35.6,31.5
+1800620,7425,"Clear Acrylic Tube 2000Mm l 50Mm / 40Mm CTN Qty 25","Tube",1,1,27.8,,,,,,18,27.8,,,"Tube","Carton",,,50.04,,,,,,,,,,,,,22.5,19.9
+1800621,7426,"Clear Acrylic Tube 2000Mm l 55Mm / 51Mm CTN Qty 20","Tube",1,1,33,,,,,,18,33,,,"Tube","Carton",,,59.4,,,,,,,,,,,,,26.7,23.6
+1800622,7427,"Clear Acrylic Tube 2000Mm l 55Mm / 45Mm CTN Qty 20","Tube",1,1,74.4,,,,,,18,74.4,,,"Tube","Carton",,,133.92,,,,,,,,,,,,,62.2,55.1
+1800623,7428,"Clear Acrylic Tube 2000Mm l 60Mm / 54Mm CTN Qty 20","Tube",1,1,51,,,,,,18,51,,,"Tube","Carton",,,91.8,,,,,,,,,,,,,42.7,37.8
+1800624,7429,"Clear Acrylic Tube 2000Mm l 60Mm / 50Mm CTN Qty 20","Tube",1,1,82.2,,,,,,18,82.2,,,"Tube","Carton",,,147.96,,,,,,,,,,,,,68.8,60.9
+1800625,7430,"Clear Acrylic Tube 2000Mm l 65Mm / 61Mm CTN Qty 20","Tube",1,1,37.5,,,,,,18,37.5,,,"Tube","Carton",,,67.5,,,,,,,,,,,,,31.4,27.8
+1800626,7431,"Clear Acrylic Tube 2000Mm l 70Mm / 64Mm CTN Qty 20","Tube",1,1,60.2,,,,,,18,60.2,,,"Tube","Carton",,,108.36,,,,,,,,,,,,,50.4,44.6
+1800627,7432,"Clear Acrylic Tube 2000Mm l 70Mm / 60Mm CTN Qty 15","Tube",1,1,97,,,,,,18,97,,,"Tube","Carton",,,174.6,,,,,,,,,,,,,81.25,71.9
+1800628,7433,"Clear Acrylic Tube 2000Mm l 75Mm/ 69Mm CTN Qty 20","Tube",1,1,64.8,,,,,,18,64.8,,,"Tube","Carton",,,116.64,,,,,,,,,,,,,54.3,48.1
+1800629,7434,"Clear Acrylic Tube 2000Mm l 80Mm / 74Mm CTN Qty 10","Tube",1,1,69.45,,,,,,18,69.45,,,"Tube","Carton",,,125.01,,,,,,,,,,,,,58.2,51.45
+1800630,7435,"Clear Acrylic Tube 2000Mm l 80Mm / 70Mm CTN Qty 10","Tube",1,1,111.9,,,,,,18,111.9,,,"Tube","Carton",,,201.42,,,,,,,,,,,,,93.7,82.95
+1800631,7436,"Clear Acrylic Tube 2000Mm l 85Mm / 81Mm CTN Qty 10","Tube",1,1,49.6,,,,,,18,49.6,,,"Tube","Carton",,,89.28,,,,,,,,,,,,,41.5,36.75
+1800632,7437,"Clear Acrylic Tube 2000Mm l 90Mm / 84Mm CTN Qty 10","Tube",1,1,78,,,,,,18,78,,,"Tube","Carton",,,140.4,,,,,,,,,,,,,65.3,57.75
+1800633,7438,"Clear Acrylic Tube 2000Mm l 90Mm /80Mm CTN Qty 10","Tube",1,1,122,,,,,,18,122,,,"Tube","Carton",,,219.6,,,,,,,,,,,,,106,93.9
+1800634,7439,"Clear Acrylic Tube 2000Mm l 100Mm / 94Mm CTN Qty 8","Tube",1,1,84,,,,,,18,84,,,"Tube","Carton",,,151.2,,,,,,,,,,,,,73,64.6
+1800635,7440,"Clear Acrylic Tube 2000Mm l 100Mm / 90Mm CTN Qty 8","Tube",1,1,136.5,,,,,,18,136.5,,,"Tube","Carton",,,245.7,,,,,,,,,,,,,118.65,105
+1800636,7441,"Clear Acrylic Tube 2000Mm l 100Mm / 80Mm CTN Qty 6","Tube",1,1,259.4,,,,,,18,259.4,,,"Tube","Carton",,,466.92,,,,,,,,,,,,,225.4,199.5
+1800637,7442,"Clear Acrylic Tube 2000Mm l 110Mm / 100Mm CTN Qty 6","Tube",1,1,151.4,,,,,,18,151.4,,,"Tube","Carton",,,272.52,,,,,,,,,,,,,131.6,116.5
+1800638,7443,"Clear Acrylic Tube 2000Mm l 120Mm / 110Mm CTN Qty 6","Tube",1,1,165.1,,,,,,18,165.1,,,"Tube","Carton",,,297.18,,,,,,,,,,,,,143.5,127
+1800639,7444,"Clear Acrylic Tube 2000Mm l 130Mm / 120Mm CTN Qty 6","Tube",1,1,179.4,,,,,,18,179.4,,,"Tube","Carton",,,322.92,,,,,,,,,,,,,155.9,138
+1800640,7445,"Clear Acrylic Tube 2000Mm l 132Mm / 122Mm CTN Qty 6","Tube",1,1,182.25,,,,,,18,182.25,,,"Tube","Carton",,,328.05,,,,,,,,,,,,,158.4,140.2
+1800641,7446,"Clear Acrylic Tube 2000Mm l 140Mm / 130Mm CTN Qty 6","Tube",1,1,191.1,,,,,,18,191.1,,,"Tube","Carton",,,343.98,,,,,,,,,,,,,166.1,147
+1800642,7447,"Clear Acrylic Tube 2000Mm l 150Mm / 140Mm CTN Qty 5","Tube",1,1,208.3,,,,,,18,208.3,,,"Tube","Carton",,,374.94,,,,,,,,,,,,,181,160.2
+1800643,7448,"Clear Acrylic Tube 2000Mm l 160Mm / 155Mm CTN Qty 4","Tube",1,1,122.85,,,,,,18,122.85,,,"Tube","Carton",,,221.13,,,,,,,,,,,,,106.8,94.5
+1800644,7449,"Clear Acrylic Tube 2000Mm l 180Mm / 170Mm CTN Qty 2","Tube",1,1,273,,,,,,18,273,,,"Tube","Carton",,,491.4,,,,,,,,,,,,,237.3,210
+1800645,7450,"Tufbuf Lambswool Pad 12Mm Nap - 125dia CTN Qty 10","Accessories",1,1,21.8,,,,,,18,21.8,,,"Accessories","Carton",,,39.24,,,,,,,,,,,,,19,16.9
+1800646,7451,"Tufbuf Lambswool Pad 12Mm Nap - 180dia CTN Qty 10","Accessories",1,1,33.3,,,,,,18,33.3,,,"Accessories","Carton",,,59.94,,,,,,,,,,,,,27.8,24.7
+1800647,7455,"Tufbuf Lambswool Pad 20Mm Nap - 125dia CTN Qty 10","Accessories",1,1,21.8,,,,,,18,21.8,,,"Accessories","Carton",,,39.24,,,,,,,,,,,,,19,16.9
+1800648,7456,"Tufbuf Lambswool Pad 20Mm Nap - 180dia CTN Qty 10","Accessories",1,1,33.3,,,,,,18,33.3,,,"Accessories","Carton",,,59.94,,,,,,,,,,,,,27.8,24.7
+1800649,7460,"Buffing Wheel 200 CTN Qty 5","Accessories",1,1,37.99,,,,,,18,37.99,,,"Accessories","Carton",,,68.38,,,,,,,,,,,,,29.22,25.41
+1800650,7461,"Buffing Wheel 250mm dia. - 60 Ply CTN Qty 5","Accessories",1,1,49.34,,,,,,18,49.34,,,"Accessories","Carton",,,88.81,,,,,,,,,,,,,37.95,33
+1800651,7465,"Conc Stich Buff Wh CTN Qty 5","Accessories",1,1,49.34,,,,,,18,49.34,,,"Accessories","Carton",,,88.81,,,,,,,,,,,,,37.95,33
+1800652,7470,"Clear Acrylic Tube 2000Mm l 200Mm 190Mm / CTN Qty 2","Tube",1,1,307.1,,,,,,18,307.1,,,"Tube","Carton",,,552.78,,,,,,,,,,,,,266.9,236.25
+1800653,7471,"Clear Acrylic Tube 2000Mm l 250Mm / 240 Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800654,7472,"Clear Acrylic Tube 2000Mm l 300Mm / 290Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800655,7473,"Clear Acrylic Tube 2000Mm l 350Mm / 340Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800656,7474,"Clear Acrylic Tube 2000Mm l 400Mm / 390Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800657,7475,"Clear Acrylic Tube 2000Mm l 450Mm / 440Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800658,7476,"Clear Acrylic Tube 2000Mm l 500Mm / 490Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800659,7477,"Clear Acrylic Tube 2000Mm l 550Mm / 540Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800660,7478,"Clear Acrylic Tube 2000Mm l 600Mm / 590Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800661,7479,"Clear Acrylic Tube 2000Mm l 610Mm / 600Mm CTN Qty 1","Tube",1,1,0,,,,,,18,0,,,"Tube","Carton",,,0,,,,,,,,,,,,,,
+1800662,7480,"Clear Acrylic Rod 2000Mm l 2Mm dia CTN Qty 1000","Rod",1,1,0.5,,,,,,18,0.5,,,"Rod","Carton",,,0.9,,,,,,,,,,,,,0.35,0.3
+1800663,7481,"Clear Acrylic Rod 2000Mm l 3Mm dia CTN Qty 500","Rod",1,1,0.7,,,,,,18,0.7,,,"Rod","Carton",,,1.26,,,,,,,,,,,,,0.55,0.48
+1800664,7482,"Clear Acrylic Rod 2000Mm l 5Mm dia CTN Qty 100","Rod",1,1,1.5,,,,,,18,1.5,,,"Rod","Carton",,,2.7,,,,,,,,,,,,,1.1,0.95
+1800665,7483,"Clear Acrylic Rod 2000Mm l 20Mm dia CTN Qty 20","Rod",1,1,18.6,,,,,,18,18.6,,,"Rod","Carton",,,33.48,,,,,,,,,,,,,14.95,13.3
+1800666,7484,"Clear Acrylic Rod 2000Mm l 30Mm dia CTN Qty 10","Rod",1,1,39,,,,,,18,39,,,"Rod","Carton",,,70.2,,,,,,,,,,,,,31.3,27.8
+1800667,7485,"Clear Acrylic Rod 2000Mm l 40Mm dia CTN Qty 6","Rod",1,1,68.6,,,,,,18,68.6,,,"Rod","Carton",,,123.48,,,,,,,,,,,,,55,49
+1800668,7486,"Clear Acrylic Rod 2000Mm l 50Mm dia CTN Qty 4","Rod",1,1,107.45,,,,,,18,107.45,,,"Rod","Carton",,,193.41,,,,,,,,,,,,,86.2,76.7
+1800669,7487,"Clear Acrylic Rod 2000Mm l 60Mm dia CTN Qty 4","Rod",1,1,166,,,,,,18,166,,,"Rod","Carton",,,298.8,,,,,,,,,,,,,133.8,119
+1800670,7488,"Clear Acrylic Rod 2000Mm l 70Mm dia CTN Qty 2","Rod",1,1,199,,,,,,18,199,,,"Rod","Carton",,,358.2,,,,,,,,,,,,,174,154.7
+1800671,7489,"Clear Acrylic Rod 2000Mm l 75Mm dia CTN Qty 2","Rod",1,1,228,,,,,,18,228,,,"Rod","Carton",,,410.4,,,,,,,,,,,,,199,177.5
+1800672,7490,"Clear Acrylic Rod 2000Mm l 80Mm dia CTN Qty 2","Rod",1,1,258,,,,,,18,258,,,"Rod","Carton",,,464.4,,,,,,,,,,,,,227.25,202
+1800673,7491,"Clear Acrylic Rod 2000Mm l 100Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,339.75,302
+1800674,7492,"Clear Acrylic Rod 2000Mm l 110Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,432,384
+1800675,7493,"Clear Acrylic Rod 2000Mm l 120Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,513,456
+1800676,7494,"Clear Acrylic Rod 2000Mm l 130Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,648,576
+1800677,7495,"Clear Acrylic Rod 2000Mm l 140Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,750,667
+1800678,7496,"Clear Acrylic Rod 2000Mm l 150Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,,,"Rod","Carton",,,0,,,,,,,,,,,,,860,765
+1800679,7497,"Clear Acrylic Rod 2000Mm l 200Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,0,,"Rod","Carton",,,0,,,,,,,,,,,,,1773,1576
+1800680,7498,"Clear Acrylic Rod 2000Mm l 250Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,0,,"Rod","Carton",,,0,,,,,,,,,,,,,3420,3168
+1800681,7499,"Clear Acrylic Rod 2000Mm l 300Mm dia CTN Qty 1","Rod",1,1,0,,,,,,18,0,0,,"Rod","Carton",,,0,,,,,,,,,,,,,5800,5490
+1800682,7503,"12.7/19 Tube CTN Qty 60","Tube",1,1,17.55,,,,,,18,17.55,,,"Tube","Carton",,,31.59,,,,,,,,,,,,,14.4,12.5
+1800683,7504,"9.5/16 Tube CTN Qty 60","Tube",1,1,14.2,,,,,,18,14.2,,,"Tube","Carton",,,25.56,,,,,,,,,,,,,11.6,10.1
+1800684,7505,"9.5x12.7 Tube CTN Qty 200","Tube",1,1,6.6,,,,,,18,6.6,,,"Tube","Carton",,,11.88,,,,,,,,,,,,,5.4,4.75
+1800685,7506,"12.7x16 Tube CTN Qty 130","Tube",1,1,8.8,,,,,,18,8.8,,,"Tube","Carton",,,15.84,,,,,,,,,,,,,7.2,6.3
+1800686,7507,"16x19 Tube CTN Qty 110","Tube",1,1,12.95,,,,,,18,12.95,,,"Tube","Carton",,,23.31,,,,,,,,,,,,,10.6,9.2
+1800687,7508,"15.9/22.2 Tube CTN Qty 56","Tube",1,1,26.4,,,,,,18,26.4,,,"Tube","Carton",,,47.52,,,,,,,,,,,,,21.65,18.85
+1800688,7509,"19/25.4 Tube CTN Qty 48","Tube",1,1,22.2,,,,,,18,22.2,,,"Tube","Carton",,,39.96,,,,,,,,,,,,,18.2,15.85
+1800689,7510,"25.4/31.7 Tube CTN Qty 37","Tube",1,1,32.5,,,,,,18,32.5,,,"Tube","Carton",,,58.5,,,,,,,,,,,,,26.6,23.2
+1800690,7515,"31.7/38.1 Tube CTN Qty 30","Tube",1,1,35,,,,,,18,35,,,"Tube","Carton",,,63,,,,,,,,,,,,,28.65,24.9
+1800691,7516,"38.1x44.5 Tube CTN Qty 24","Tube",1,1,52.6,,,,,,18,52.6,,,"Tube","Carton",,,94.68,,,,,,,,,,,,,43.1,37.5
+1800692,7517,"44.5/50.8 Tube CTN Qty 18","Tube",1,1,47.7,,,,,,18,47.7,,,"Tube","Carton",,,85.86,,,,,,,,,,,,,39.1,34
+1800693,7518,"51x57 Tube CTN Qty 14","Tube",1,1,60.65,,,,,,18,60.65,,,"Tube","Carton",,,109.17,,,,,,,,,,,,,49.7,43.2
+1800694,7519,"57x63 Tube CTN Qty 12","Tube",1,1,60.15,,,,,,18,60.15,,,"Tube","Carton",,,108.27,,,,,,,,,,,,,49.3,42.9
+1800695,7520,"69.8/76.1 Tube CTN Qty 8","Tube",1,1,72.9,,,,,,18,72.9,,,"Tube","Carton",,,131.22,,,,,,,,,,,,,59.7,51.9
+1800696,7521,"57x70 Tube CTN Qty 9","Tube",1,1,102.7,,,,,,18,102.7,,,"Tube","Carton",,,184.86,,,,,,,,,,,,,84.2,73.2
+1800697,7522,"82.5/88.9 Tube CTN Qty 6","Tube",1,1,85.35,,,,,,18,85.35,,,"Tube","Carton",,,153.63,,,,,,,,,,,,,69.95,60.9
+1800698,7525,"95.2/101.6 Tube CTN Qty 9","Tube",1,1,139.9,,,,,,18,139.9,,,"Tube","Carton",,,251.82,,,,,,,,,,,,,114.7,99.75
+1800699,7527,"1108/114 Tube CTN Qty 6","Tube",1,1,195.2,,,,,,18,195.2,,,"Tube","Carton",,,351.36,,,,,,,,,,,,,159.9,139.1
+1800700,7530,"120.6/127 Tube CTN Qty 5","Tube",1,1,210.5,,,,,,18,210.5,,,"Tube","Carton",,,378.9,,,,,,,,,,,,,172.6,151
+1800701,7535,"146/152.4 Tube CTN Qty 2","Tube",1,1,271.2,,,,,,18,271.2,,,"Tube","Carton",,,488.16,,,,,,,,,,,,,222.2,193.2
+1800702,7536,"6mm Rod CTN Qty 270","Rod",1,1,4.75,,,,,,18,4.75,,,"Rod","Carton",,,8.55,,,,,,,,,,,,,3.9,3.4
+1800703,7537,"8mm Rod CTN Qty 180","Rod",1,1,5.55,,,,,,18,5.55,,,"Rod","Carton",,,9.99,,,,,,,,,,,,,4.55,3.95
+1800704,7538,"10mm Rod CTN Qty 120","Rod",1,1,8,,,,,,18,8,,,"Rod","Carton",,,14.4,,,,,,,,,,,,,6.55,5.7
+1800705,7539,"12.7mm Rod CTN Qty 66","Rod",1,1,13.55,,,,,,18,13.55,,,"Rod","Carton",,,24.39,,,,,,,,,,,,,11.1,9.65
+1800706,7540,"16mm Rod - 1830mm CTN Qty 45","Rod",1,1,19.2,,,,,,18,19.2,,,"Rod","Carton",,,34.56,,,,,,,,,,,,,15.65,13.6
+1800707,7545,"25 Clear Rod CTN Qty 15","Rod",1,1,31.3,,,,,,18,31.3,,,"Rod","Carton",,,56.34,,,,,,,,,,,,,25.65,27.85
+1800708,7546,"38 Clear Rod CTN Qty 8","Rod",1,1,55.75,,,,,,18,55.75,,,"Rod","Carton",,,100.35,,,,,,,,,,,,,45.7,39.75
+1800709,7547,"50 Clear Rod CTN Qty 5","Rod",1,1,127.9,,,,,,18,127.9,,,"Rod","Carton",,,230.22,,,,,,,,,,,,,104.85,91.15
+1800710,7549,"25mm Flange CTN Qty 100","Accessories",1,1,3.8,,,,,,18,3.8,,,"Accessories","Carton",,,6.84,,,,,,,,,,,,,3.1,2.7
+1800711,7570,"3mm Square CTN Qty 400","Accessories",1,1,1.65,,,,,,18,1.65,,,"Accessories","Carton",,,2.97,,,,,,,,,,,,,1.35,1.1
+1800712,7571,"4.5mm Square CTN Qty 216","Accessories",1,1,3,,,,,,18,3,,,"Accessories","Carton",,,5.4,,,,,,,,,,,,,2.45,2.15
+1800713,7572,"6mm Square CTN Qty 96","Accessories",1,1,5.25,,,,,,18,5.25,,,"Accessories","Carton",,,9.45,,,,,,,,,,,,,4.3,3.75
+1800714,7573,"10mm Square CTN Qty 200","Accessories",1,1,10.05,,,,,,18,10.05,,,"Accessories","Carton",,,18.09,,,,,,,,,,,,,8.2,7.15
+1800715,7580,"6mm Triangle CTN Qty 65","Accessories",1,1,3.25,,,,,,18,3.25,,,"Accessories","Carton",,,5.85,,,,,,,,,,,,,2.7,2.35
+1800716,7581,"12.7mm Triangle CTN Qty 70","Accessories",1,1,13.45,,,,,,18,13.45,,,"Accessories","Carton",,,24.21,,,,,,,,,,,,,11,9.6
+1800717,7590,"25.4mm Square Tube CTN Qty 80","Tube",1,1,22.5,,,,,,18,22.5,,,"Tube","Carton",,,40.5,,,,,,,,,,,,,18.45,16
+1800718,7591,"51mm Square Tube CTN Qty 15","Tube",1,1,117.2,,,,,,18,117.2,,,"Tube","Carton",,,210.96,,,,,,,,,,,,,96,83.5
+1800719,7601,"j Bar CTN Qty 25","Accessories",1,1,7.9,,,,,,18,7.9,,,"Accessories","Carton",,,14.22,,,,,,,,,,,,,6.5,5.65
+1800720,7603,"Small j Bar - 2400 CTN Qty 25","Accessories",1,1,15.3,,,,,,18,15.3,,,"Accessories","Carton",,,27.54,,,,,,,,,,,,,12.5,10.9
+1800721,7604,"Large j Bar - 900 CTN Qty 80","Accessories",1,1,15.3,,,,,,18,15.3,,,"Accessories","Carton",,,27.54,,,,,,,,,,,,,12.5,10.9
+1800722,7605,"Step Strip CTN Qty 10","Strip",1,1,19.4,,,,,,18,19.4,,,"Strip","Carton",,,34.92,,,,,,,,,,,,,15.85,4.45
+1800723,7606,"Large Step Strip - 2400mm CTN Qty 10","Strip",1,1,23.3,,,,,,18,23.3,,,"Strip","Carton",,,41.94,,,,,,,,,,,,,19.1,16.6
+1800724,7607,"Dbl Step Strip - 2400mm CTN Qty 80","Strip",1,1,23.3,,,,,,18,23.3,,,"Strip","Carton",,,41.94,,,,,,,,,,,,,19.1,16.6
+1800725,7610,"w Bar CTN Qty 80","Accessories",1,1,13.55,,,,,,18,13.55,,,"Accessories","Carton",,,24.39,,,,,,,,,,,,,11.1,9.65
+1800726,7611,"'Dr ''w'' CTN Qty 80'","Accessories",1,1,24.1,,,,,,18,24.1,,,"Accessories","Carton",,,43.38,,,,,,,,,,,,,19.8,17.2
+1800727,7615,"z Bar CTN Qty 80","Accessories",1,1,12.9,,,,,,18,12.9,,,"Accessories","Carton",,,23.22,,,,,,,,,,,,,10.6,9.2
+1800728,7617,"'Dr ''z'' Bar CTN Qty 100'","Accessories",1,1,25,,,,,,18,25,,,"Accessories","Carton",,,45,,,,,,,,,,,,,20.5,17.8
+1800729,7620,"10x3 Flat CTN Qty 50","Accessories",1,1,4,,,,,,18,4,,,"Accessories","Carton",,,7.2,,,,,,,,,,,,,3.3,2.85
+1800730,7621,"16 x3 Flat CTN Qty 50","Accessories",1,1,7.6,,,,,,18,7.6,,,"Accessories","Carton",,,13.68,,,,,,,,,,,,,6.2,5.4
+1800731,7622,"19 x 4.7 Flat CTN Qty 50","Accessories",1,1,11.1,,,,,,18,11.1,,,"Accessories","Carton",,,19.98,,,,,,,,,,,,,9.1,7.9
+1800732,7625,"25 x 6 Flat CTN Qty 10","Accessories",1,1,19.4,,,,,,18,19.4,,,"Accessories","Carton",,,34.92,,,,,,,,,,,,,15.9,13.8
+1800733,7801,"u Chain - 6mm CTN Qty 20","Accessories",1,1,11.13,,,,,,18,11.13,,,"Accessories","Carton",,,20.03,,,,,,,,,,,,,8.9,7.74
+1800734,7803,"u Chain - 10mm CTN Qty 20","Accessories",1,1,10.74,,,,,,18,10.74,,,"Accessories","Carton",,,19.33,,,,,,,,,,,,,8.59,7.47
+1800735,7805,"'3mm ''j'' Chan-But CTN Qty 10'","Accessories",1,1,18.37,,,,,,18,18.37,,,"Accessories","Carton",,,33.07,,,,,,,,,,,,,14.7,12.78
+1800736,7807,"'6mm ''j'' Chan-But CTN Qty 10'","Accessories",1,1,21.22,,,,,,18,21.22,,,"Accessories","Carton",,,38.2,,,,,,,,,,,,,16.97,14.76
+1800737,7810,"'3mm ''h'' Chan-But CTN Qty 10'","Accessories",1,1,15.78,,,,,,18,15.78,,,"Accessories","Carton",,,28.4,,,,,,,,,,,,,12.63,10.98
+1800738,7812,"'6mm ''h'' Chan-But CTN Qty 10'","Accessories",1,1,15.78,,,,,,18,15.78,,,"Accessories","Carton",,,28.4,,,,,,,,,,,,,12.63,10.98
+1800739,7815,"But 12 x 12 Angle - 2400mm CTN Qty 10","Accessories",1,1,12.68,,,,,,18,12.68,,,"Accessories","Carton",,,22.82,,,,,,,,,,,,,10.14,8.82
+1800740,7817,"25x25 Angle-But CTN Qty 10","Accessories",1,1,23.81,,,,,,18,23.81,,,"Accessories","Carton",,,42.86,,,,,,,,,,,,,19.04,16.56
+1800741,7960,"Direct Connect CTN Qty 50","Diffuser",1,1,3.95,,,,,,18,3.95,,,"Diffuser","Carton",,,7.11,,,,,,,,,,,,,3.4,3.1
+1800742,7962,"Joining Cable 500Mm CTN Qty 50","Cable",1,1,4.35,,,,,,18,4.35,,,"Cable","Carton",,,7.83,,,,,,,,,,,,,3.75,3.4
+1800743,7964,"Joining Cable 250Mm CTN Qty 50","Cable",1,1,3.6,,,,,,18,3.6,,,"Cable","Carton",,,6.48,,,,,,,,,,,,,3.1,2.8
+1800744,7966,"Joining Cable 80Mm CTN Qty 50","Cable",1,1,4.25,,,,,,18,4.25,,,"Cable","Carton",,,7.65,,,,,,,,,,,,,3.7,3.35
+1800745,7968,"Mains Cable CTN Qty 50","Cable",1,1,5.6,,,,,,18,5.6,,,"Cable","Carton",,,10.08,,,,,,,,,,,,,4.85,4.4
+1800746,8852,"Mounting Track 4.0M Mill Finish CTN Qty 10","Track",1,1,18.6,,,,,,18,18.6,,,"Track","Carton",,,33.48,,,,,,,,,,,,,15.5,13.8
+1800747,11407,"u-Frame - a4p/a5l CTN Qty 100","Frame",1,1,4.28,,,,,,18,4.28,,,"Frame","Carton",,,7.7,,,,,,,,,,,,,3.72,3.38
+1800748,11445,"Frame w/Crossbar a4p + a5l CTN Qty 50","Frame",1,1,6.68,,,,,,18,6.68,,,"Frame","Carton",,,12.02,,,,,,,,,,,,,5.81,5.28
+1800749,13001,"210 x 99 Klick Barker CTN Qty 200","Accessories",1,1,2.61,,,,,,18,2.61,,,"Accessories","Carton",,,4.7,,,,,,,,,,,,,2.27,2.06
+1800750,13002,"210 x 74 Klick Barker CTN Qty 200","Accessories",1,1,2.13,,,,,,18,2.13,,,"Accessories","Carton",,,3.83,,,,,,,,,,,,,1.85,1.68
+1800751,13003,"210 X 59  Klick Barker CTN Qty 100","Accessories",1,1,2.2,,,,,,18,2.2,,,"Accessories","Carton",,,3.96,,,,,,,,,,,,,1.8,1.55
+1800752,13004,"148 X 70 Klick Barker CTN Qty 100","Accessories",1,1,2.5,,,,,,18,2.5,,,"Accessories","Carton",,,4.5,,,,,,,,,,,,,2.1,1.8
+1800753,13060,"a6 Klick Barker CTN Qty 200","Accessories",1,1,2.13,,,,,,18,2.13,,,"Accessories","Carton",,,3.83,,,,,,,,,,,,,1.85,1.68
+1800754,13070,"a7 Klick Barker CTN Qty 200","Accessories",1,1,1.82,,,,,,18,1.82,,,"Accessories","Carton",,,3.28,,,,,,,,,,,,,1.58,1.44
+1800755,13080,"a8 Klick Barker CTN Qty 100","Accessories",1,1,1.3,,,,,,18,1.3,,,"Accessories","Carton",,,2.34,,,,,,,,,,,,,1.05,0.9
+1800756,13191,"Basic Price Frame 110 X 85 CTN Qty 25","Frame",1,1,2,,,,,,18,2,,,"Frame","Carton",,,3.6,,,,,,,,,,,,,1.75,1.56
+1800757,13192,"Basic Price Frame CTN Qty 25","Frame",1,1,3.1,,,,,,18,3.1,,,"Frame","Carton",,,5.58,,,,,,,,,,,,,2.7,2.34
+1800758,13230,"Price Cassette W Clear Cover CTN Qty 25","Accessories",1,1,7.35,,,,,,18,7.35,,,"Accessories","Carton",,,13.23,,,,,,,,,,,,,6.4,5.7
+1800759,13249,"Price Cassette W Clear Cover CTN Qty 25","Accessories",1,1,4.85,,,,,,18,4.85,,,"Accessories","Carton",,,8.73,,,,,,,,,,,,,4.2,3.7
+1800760,13251,"Price Cassette W Clear Cover CTN Qty 10","Accessories",1,1,20.25,,,,,,18,20.25,,,"Accessories","Carton",,,36.45,,,,,,,,,,,,,17.6,15.4
+1800761,13321,"See 15321 CTN Qty 10","Accessories",1,1,55,,,,,,18,55,,,"Accessories","Carton",,,99,,,,,,,,,,,,,47.83,43.48
+1800762,13504,"Plastic Frameless 148 X 70 CTN Qty 100","Frame",1,1,5.2,,,,,,18,5.2,,,"Frame","Carton",,,9.36,,,,,,,,,,,,,4.3,3.75
+1800763,13560,"Plastic Frameless a6 Landscape CTN Qty 100","Frame",1,1,5.3,,,,,,18,5.3,,,"Frame","Carton",,,9.54,,,,,,,,,,,,,4.45,3.85
+1800764,13561,"Plastic Frameless a6 Portrait CTN Qty 100","Frame",1,1,5.3,,,,,,18,5.3,,,"Frame","Carton",,,9.54,,,,,,,,,,,,,4.45,3.85
+1800765,14130,"Frame With Price Display a3 CTN Qty 10","Frame",1,1,40.4,,,,,,18,40.4,,,"Frame","Carton",,,72.72,,,,,,,,,,,,,34.9,30.5
+1800766,14140,"Frame With Price Display a3 CTN Qty 10","Frame",1,1,27.8,,,,,,18,27.8,,,"Frame","Carton",,,50.04,,,,,,,,,,,,,23.8,20.9
+1800767,15310,"a1 Wood Frame CTN Qty 10","Frame",1,1,59.18,,,,,,18,59.18,,,"Frame","Carton",,,106.52,,,,,,,,,,,,,51.46,46.78
+1800768,15320,"a2 Wood Frame CTN Qty 10","Frame",1,1,44.88,,,,,,18,44.88,,,"Frame","Carton",,,80.78,,,,,,,,,,,,,39.03,35.48
+1800769,15321,"a2 Wood Frame w/Thread CTN Qty 10","Frame",1,1,55,,,,,,18,55,,,"Frame","Carton",,,99,,,,,,,,,,,,,47.83,43.48
+1800770,15330,"a3 Wood Frame CTN Qty 10","Frame",1,1,31.63,,,,,,18,31.63,,,"Frame","Carton",,,56.93,,,,,,,,,,,,,27.5,25
+1800771,15331,"a3 Wood Frame w/Thread CTN Qty 10","Frame",1,1,41.75,,,,,,18,41.75,,,"Frame","Carton",,,75.15,,,,,,,,,,,,,36.3,33
+1800772,15340,"a4 Wood Frame CTN Qty 20","Frame",1,1,26.82,,,,,,18,26.82,,,"Frame","Carton",,,48.28,,,,,,,,,,,,,23.32,21.2
+1800773,15341,"a4 Wood Frame w/Thread CTN Qty 20","Frame",1,1,37.05,,,,,,18,37.05,,,"Frame","Carton",,,66.69,,,,,,,,,,,,,32.22,29.29
+1800774,15350,"a5 Wood Frame CTN Qty 20","Frame",1,1,19,,,,,,18,19,,,"Frame","Carton",,,34.2,,,,,,,,,,,,,16.52,15.02
+1800775,15351,"a5 Wood Frame w/Thread CTN Qty 20","Frame",1,1,29.22,,,,,,18,29.22,,,"Frame","Carton",,,52.6,,,,,,,,,,,,,25.41,23.1
+1800776,15376,"Tall Adjustable Stem CTN Qty 5","Stem",1,1,49.9,,,,,,18,49.9,,,"Stem","Carton",,,89.82,,,,,,,,,,,,,43.5,39.7
+1800777,17001,"90 Deg. Data Strip Clip CTN Qty 200","Strip",1,1,0.65,,,,,,18,0.65,,,"Strip","Carton",,,1.17,,,,,,,,,,,,,0.56,0.51
+1800778,17070,"Large Swivel Clamp CTN Qty 50","Clamp",1,1,11.9,,,,,,18,11.9,,,"Clamp","Carton",,,21.42,,,,,,,,,,,,,9.9,8.7
+1800779,20022,"t-Piece - 160mm CTN Qty 200","Accessories",1,1,3.34,,,,,,18,3.34,,,"Accessories","Carton",,,6.01,,,,,,,,,,,,,2.9,2.64
+1800780,20060,"Clear Holder - 210mm CTN Qty 200","Holder",1,1,5.84,,,,,,18,5.84,,,"Holder","Carton",,,10.51,,,,,,,,,,,,,5.08,4.62
+1800781,20061,"Clear Holder - 150mm CTN Qty 200","Holder",1,1,4.59,,,,,,18,4.59,,,"Holder","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800782,20116,"Chrome Stem-160mm CTN Qty 20","Stem",1,1,5.01,,,,,,18,5.01,,,"Stem","Carton",,,9.02,,,,,,,,,,,,,4.36,3.96
+1800783,20131,"Chrome Stem-310mm CTN Qty 20","Stem",1,1,5.01,,,,,,18,5.01,,,"Stem","Carton",,,9.02,,,,,,,,,,,,,4.36,3.96
+1800784,20141,"Chrome Stem-410mm CTN Qty 20","Stem",1,1,6.48,,,,,,18,6.48,,,"Stem","Carton",,,11.66,,,,,,,,,,,,,5.63,5.12
+1800785,20143,"Adjustable Stem-200-360mm CTN Qty 20","Stem",1,1,6.62,,,,,,18,6.62,,,"Stem","Carton",,,11.92,,,,,,,,,,,,,5.75,5.23
+1800786,20144,"Adjustable Stem-320-620mm CTN Qty 20","Stem",1,1,7.03,,,,,,18,7.03,,,"Stem","Carton",,,12.65,,,,,,,,,,,,,6.12,5.56
+1800787,20145,"Adjustable Stem-450-900mm CTN Qty 20","Stem",1,1,16.91,,,,,,18,16.91,,,"Stem","Carton",,,30.44,,,,,,,,,,,,,14.71,13.37
+1800788,20146,"Adjustable Stem-600-1200mm CTN Qty 20","Stem",1,1,18.68,,,,,,18,18.68,,,"Stem","Carton",,,33.62,,,,,,,,,,,,,16.25,14.77
+1800789,20160,"Chrome Stem-600mm CTN Qty 20","Stem",1,1,10.54,,,,,,18,10.54,,,"Stem","Carton",,,18.97,,,,,,,,,,,,,9.16,8.33
+1800790,20162,"Adj. Stem For Base Ap20320 CTN Qty 20","Base",1,1,6.89,,,,,,18,6.89,,,"Base","Carton",,,12.4,,,,,,,,,,,,,6,5.45
+1800791,20172,"Clear Stem-50mm CTN Qty 100","Stem",1,1,1.35,,,,,,18,1.35,,,"Stem","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1800792,20173,"Clear Stem-75mm CTN Qty 100","Stem",1,1,1.57,,,,,,18,1.57,,,"Stem","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1800793,20174,"Clear Stem-110mm CTN Qty 100","Stem",1,1,1.88,,,,,,18,1.88,,,"Stem","Carton",,,3.38,,,,,,,,,,,,,1.64,1.49
+1800794,20176,"Adj. Stem For Base-1000-1700mm CTN Qty 10","Base",1,1,46.65,,,,,,18,46.65,,,"Base","Carton",,,83.97,,,,,,,,,,,,,40.57,36.88
+1800795,20191,"Wooden Base CTN Qty 10","Base",1,1,24.9,,,,,,18,24.9,,,"Base","Carton",,,44.82,,,,,,,,,,,,,20.8,18.7
+1800796,20200,"Tube Holder - 12mm dia. CTN Qty 50","Holder",1,1,1.88,,,,,,18,1.88,,,"Holder","Carton",,,3.38,,,,,,,,,,,,,1.64,1.49
+1800797,20271,"Hinge CTN Qty 20","Hinge",1,1,5.91,,,,,,18,5.91,,,"Hinge","Carton",,,10.64,,,,,,,,,,,,,5.14,4.67
+1800798,20320,"Shovel Metal Base - Black CTN Qty 100","Base",1,1,4.75,,,,,,18,4.75,,,"Base","Carton",,,8.55,,,,,,,,,,,,,4,3.5
+1800799,20330,"Round Base Base 160Mm CTN Qty 10","Base",1,1,20.5,,,,,,18,20.5,,,"Base","Carton",,,36.9,,,,,,,,,,,,,17.1,14.85
+1800800,20331,"Metal Base - 255mm dia CTN Qty 10","Base",1,1,38.82,,,,,,18,38.82,,,"Base","Carton",,,69.88,,,,,,,,,,,,,33.76,30.69
+1800801,20334,"Metal Base - 345mm dia CTN Qty 10","Base",1,1,57.71,,,,,,18,57.71,,,"Base","Carton",,,103.88,,,,,,,,,,,,,50.18,45.62
+1800802,20350,"Rectangular Base CTN Qty 20","Base",1,1,5.43,,,,,,18,5.43,,,"Base","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1800803,20351,"Rectangular Base w/ Metal CTN Qty 20","Base",1,1,10.85,,,,,,18,10.85,,,"Base","Carton",,,19.53,,,,,,,,,,,,,9.44,8.58
+1800804,20352,"Frame Base CTN Qty 20","Frame",1,1,4.28,,,,,,18,4.28,,,"Frame","Carton",,,7.7,,,,,,,,,,,,,3.72,3.38
+1800805,20370,"Magnet Base - 2 Magnet CTN Qty 20","Base",1,1,7.41,,,,,,18,7.41,,,"Base","Carton",,,13.34,,,,,,,,,,,,,6.45,5.86
+1800806,20372,"Magnet Base - 4 Magnet CTN Qty 20","Base",1,1,6.78,,,,,,18,6.78,,,"Base","Carton",,,12.2,,,,,,,,,,,,,5.9,5.36
+1800807,20375,"Mag. Base - 50mm dia. w/Tube Hldr. CTN Qty 20","Tube",1,1,14.19,,,,,,18,14.19,,,"Tube","Carton",,,25.54,,,,,,,,,,,,,12.34,11.22
+1800808,20377,"Square Magnetic Fastener CTN Qty 100","Fastener",1,1,5.5,,,,,,18,5.5,,,"Fastener","Carton",,,9.9,,,,,,,,,,,,,4.55,3.96
+1800809,20491,"Round Wooden Base CTN Qty 20","Base",1,1,25.57,,,,,,18,25.57,,,"Base","Carton",,,46.03,,,,,,,,,,,,,22.23,20.21
+1800810,20560,"All Rounder Clamp CTN Qty 25","Clamp",1,1,12.3,,,,,,18,12.3,,,"Clamp","Carton",,,22.14,,,,,,,,,,,,,10.25,8.91
+1800811,20570,"Universal Clamp-25mm CTN Qty 20","Clamp",1,1,11.27,,,,,,18,11.27,,,"Clamp","Carton",,,20.29,,,,,,,,,,,,,9.8,8.91
+1800812,21000,"Frame Connector CTN Qty 100","Frame",1,1,0.75,,,,,,18,0.75,,,"Frame","Carton",,,1.35,,,,,,,,,,,,,0.65,0.59
+1800813,21010,"Frame Connector -Swivel CTN Qty 100","Frame",1,1,1.05,,,,,,18,1.05,,,"Frame","Carton",,,1.89,,,,,,,,,,,,,0.91,0.83
+1800814,21020,"In-Line Frame Connector CTN Qty 100","Frame",1,1,1.25,,,,,,18,1.25,,,"Frame","Carton",,,2.25,,,,,,,,,,,,,1.09,0.99
+1800815,21040,"Square Hanger CTN Qty 100","Accessories",1,1,1.4,,,,,,18,1.4,,,"Accessories","Carton",,,2.52,,,,,,,,,,,,,1.15,0.99
+1800816,21110,"Shelf Holder CTN Qty 100","Holder",1,1,6.75,,,,,,18,6.75,,,"Holder","Carton",,,12.15,,,,,,,,,,,,,5.6,4.84
+1800817,21120,"Surface-Mount Rotating Clip CTN Qty 100","Clip",1,1,1.57,,,,,,18,1.57,,,"Clip","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1800818,21125,"Surface-Mount Rotating Clip-Adh. CTN Qty 100","Clip",1,1,2.09,,,,,,18,2.09,,,"Clip","Carton",,,3.76,,,,,,,,,,,,,1.82,1.65
+1800819,21130,"Wall Fastener With Hole CTN Qty 100","Fastener",1,1,0.7,,,,,,18,0.7,,,"Fastener","Carton",,,1.26,,,,,,,,,,,,,0.55,0.44
+1800820,21131,"Wall Fastener With Adh CTN Qty 100","Fastener",1,1,1.25,,,,,,18,1.25,,,"Fastener","Carton",,,2.25,,,,,,,,,,,,,1.02,0.88
+1800821,21219,"Magnetic Fastener CTN Qty 100","Fastener",1,1,4.6,,,,,,18,4.6,,,"Fastener","Carton",,,8.28,,,,,,,,,,,,,3.8,3.3
+1800822,21220,"Magnetic Clip-Swivel CTN Qty 100","Clip",1,1,3.76,,,,,,18,3.76,,,"Clip","Carton",,,6.77,,,,,,,,,,,,,3.27,2.97
+1800823,21230,"Magnet - Square -Parallel CTN Qty 100","Accessories",1,1,4.59,,,,,,18,4.59,,,"Accessories","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800824,21240,"Sq. Mag w/o Adapter CTN Qty 100","Accessories",1,1,3.97,,,,,,18,3.97,,,"Accessories","Carton",,,7.15,,,,,,,,,,,,,3.45,3.14
+1800825,21250,"Magnet - Square CTN Qty 100","Accessories",1,1,4.59,,,,,,18,4.59,,,"Accessories","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800826,21251,"Adapter - 90 Deg. CTN Qty 100","Accessories",1,1,0.63,,,,,,18,0.63,,,"Accessories","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800827,21260,"Magnetic Swivwl Fastener CTN Qty 100","Fastener",1,1,3.85,,,,,,18,3.85,,,"Fastener","Carton",,,6.93,,,,,,,,,,,,,3.2,2.75
+1800828,21300,"Suspension Ring CTN Qty 100","Accessories",1,1,0.63,,,,,,18,0.63,,,"Accessories","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800829,21310,"Parallel Suspension Ring CTN Qty 100","Accessories",1,1,0.62,,,,,,18,0.62,,,"Accessories","Carton",,,1.12,,,,,,,,,,,,,0.52,0.44
+1800830,21315,"Swivel Suspension Ring CTN Qty 100","Accessories",1,1,0.96,,,,,,18,0.96,,,"Accessories","Carton",,,1.73,,,,,,,,,,,,,0.84,0.76
+1800831,21330,"Swivel Hanging Hook CTN Qty 100","Hook",1,1,1.9,,,,,,18,1.9,,,"Hook","Carton",,,3.42,,,,,,,,,,,,,1.55,1.32
+1800832,21361,"Side Mount Suspension Ring CTN Qty 100","Accessories",1,1,0.8,,,,,,18,0.8,,,"Accessories","Carton",,,1.44,,,,,,,,,,,,,0.65,0.55
+1800833,21370,"Suspension Hook-Pair CTN Qty 100","Hook",1,1,1.1,,,,,,18,1.1,,,"Hook","Carton",,,1.98,,,,,,,,,,,,,0.96,0.87
+1800834,21400,"Hanging Hook CTN Qty 100","Hook",1,1,0.83,,,,,,18,0.83,,,"Hook","Carton",,,1.49,,,,,,,,,,,,,0.73,0.66
+1800835,21431,"Hanging Hook CTN Qty 100","Hook",1,1,1.9,,,,,,18,1.9,,,"Hook","Carton",,,3.42,,,,,,,,,,,,,1.55,1.32
+1800836,21610,"Tube Clip(Pair) – a3456 Frame CTN Qty 100
+","Tube",,1,,,,,,,2.4,2.76,2.76,,"Tube","Carton",,,4.97,,,,,,,,,,,,,2.4,2.18
+1800837,21715,"Cardboard Clamp-20mm CTN Qty 100","Clamp",1,1,4.17,,,,,,18,4.17,,,"Clamp","Carton",,,7.51,,,,,,,,,,,,,3.63,3.3
+1800838,21725,"Pegboard Shopper Stopper CTN Qty 100","Accessories",1,1,2.3,,,,,,18,2.3,,,"Accessories","Carton",,,4.14,,,,,,,,,,,,,1.9,1.65
+1800839,21750,"Vertical Base Support CTN Qty 100","Base",1,1,1.1,,,,,,18,1.1,,,"Base","Carton",,,1.98,,,,,,,,,,,,,0.96,0.87
+1800840,21760,"Sloping Base Support CTN Qty 100","Base",1,1,1.1,,,,,,18,1.1,,,"Base","Carton",,,1.98,,,,,,,,,,,,,0.96,0.87
+1800841,21880,"Swivel Clip CTN Qty 100","Clip",1,1,0.83,,,,,,18,0.83,,,"Clip","Carton",,,1.49,,,,,,,,,,,,,0.73,0.66
+1800842,22040,"Triangular Hanger CTN Qty 100","Accessories",1,1,1.4,,,,,,18,1.4,,,"Accessories","Carton",,,2.52,,,,,,,,,,,,,1.15,0.99
+1800843,22610,"'Tube Clip(Pair) - a12 Frame CTN Qty 20'","Tube",,1,1,,3.97,,,,18,3.97,,,"Tube","Carton",,,,7.15,,,,,,,,,,,,3.45,3.14
+1800844,23010,"Straight Connector CTN Qty 100","Accessories",1,1,0.7,,,,,,18,0.7,,,"Accessories","Carton",,,1.26,,,,,,,,,,,,,0.55,0.45
+1800845,23065,"Ice Stick CTN Qty 100","Accessories",1,1,2.3,,,,,,18,2.3,,,"Accessories","Carton",,,4.14,,,,,,,,,,,,,1.9,1.65
+1800846,23100,"Klick Coil Spring CTN Qty 100","Accessories",1,1,0.83,,,,,,18,0.83,,,"Accessories","Carton",,,1.49,,,,,,,,,,,,,0.73,0.66
+1800847,23130,"Klick Wall Clip - Screw CTN Qty 100","Screw",1,1,1.25,,,,,,18,1.25,,,"Screw","Carton",,,2.25,,,,,,,,,,,,,1.09,0.99
+1800848,23131,"Klick Wall Clip - Adhesive CTN Qty 100","Clip",1,1,1.51,,,,,,18,1.51,,,"Clip","Carton",,,2.72,,,,,,,,,,,,,1.31,1.19
+1800849,23140,"Hinged Adaptor CTN Qty 100","Hinge",1,1,2.8,,,,,,18,2.8,,,"Hinge","Carton",,,5.04,,,,,,,,,,,,,2.3,1.98
+1800850,23150,"Adhesive Plate CTN Qty 100","Accessories",1,1,1.1,,,,,,18,1.1,,,"Accessories","Carton",,,1.98,,,,,,,,,,,,,0.9,0.77
+1800851,23160,"Klick Shelf Clip CTN Qty 100","Clip",1,1,0.57,,,,,,18,0.57,,,"Clip","Carton",,,1.03,,,,,,,,,,,,,0.5,0.45
+1800852,23220,"Vertical Magnet CTN Qty 100","Accessories",1,1,4,,,,,,18,4,,,"Accessories","Carton",,,7.2,,,,,,,,,,,,,3.3,2.86
+1800853,23225,"Klick Magnetic Fastener CTN Qty 100","Fastener",1,1,3.97,,,,,,18,3.97,,,"Fastener","Carton",,,7.15,,,,,,,,,,,,,3.45,3.14
+1800854,23300,"Klick Hook Clip CTN Qty 100","Hook",1,1,0.46,,,,,,18,0.46,,,"Hook","Carton",,,0.83,,,,,,,,,,,,,0.4,0.36
+1800855,23310,"Klick Hook Clip CTN Qty 100","Hook",1,1,0.46,,,,,,18,0.46,,,"Hook","Carton",,,0.83,,,,,,,,,,,,,0.4,0.36
+1800856,23320,"Klick Vertical Glass Clip CTN Qty 100","Clip",1,1,0.46,,,,,,18,0.46,,,"Clip","Carton",,,0.83,,,,,,,,,,,,,0.4,0.36
+1800857,23330,"Klick Vert. Metal Clip CTN Qty 100","Clip",1,1,0.46,,,,,,18,0.46,,,"Clip","Carton",,,0.83,,,,,,,,,,,,,0.4,0.36
+1800858,23460,"Square Tube Clip CTN Qty 100","Tube",1,1,1.3,,,,,,18,1.3,,,"Tube","Carton",,,2.34,,,,,,,,,,,,,1.05,0.88
+1800859,23500,"Klick Tube Clip CTN Qty 100","Tube",1,1,0.75,,,,,,18,0.75,,,"Tube","Carton",,,1.35,,,,,,,,,,,,,0.65,0.59
+1800860,23510,"Oval Tube Clip CTN Qty 200","Tube",1,1,0.7,,,,,,18,0.7,,,"Tube","Carton",,,1.26,,,,,,,,,,,,,0.55,0.44
+1800861,23560,"Ticket Rail Clip CTN Qty 200","Clip",1,1,0.5,,,,,,18,0.5,,,"Clip","Carton",,,0.9,,,,,,,,,,,,,0.4,0.33
+1800862,23600,"Klick Tego Shelf Clip CTN Qty 100","Clip",1,1,1.21,,,,,,18,1.21,,,"Clip","Carton",,,2.18,,,,,,,,,,,,,1.06,0.96
+1800863,23610,"Klick Tego Shelf Clip CTN Qty 100","Clip",1,1,0.57,,,,,,18,0.57,,,"Clip","Carton",,,1.03,,,,,,,,,,,,,0.5,0.4
+1800864,23661,"Data Strip Clip CTN Qty 200","Strip",1,1,0.7,,,,,,18,0.7,,,"Strip","Carton",,,1.26,,,,,,,,,,,,,0.55,0.44
+1800865,23700,"Klick Suction Clip CTN Qty 100","Clip",1,1,3.02,,,,,,18,3.02,,,"Clip","Carton",,,5.44,,,,,,,,,,,,,2.63,2.39
+1800866,23710,"Cardboad Clamp CTN Qty 200","Clamp",1,1,0.6,,,,,,18,0.6,,,"Clamp","Carton",,,1.08,,,,,,,,,,,,,2.05,1.76
+1800867,23715,"Cardboad Clamp CTN Qty 200","Clamp",1,1,0.7,,,,,,18,0.7,,,"Clamp","Carton",,,1.26,,,,,,,,,,,,,0.55,0.44
+1800868,23750,"Support Cliop CTN Qty 200","Accessories",1,1,0.47,,,,,,18,0.47,,,"Accessories","Carton",,,0.85,,,,,,,,,,,,,0.38,0.33
+1800869,23780,"Klick Slatwall Clip CTN Qty 100","Clip",1,1,0.63,,,,,,18,0.63,,,"Clip","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800870,23810,"Tube Adaptor CTN Qty 200","Tube",1,1,0.8,,,,,,18,0.8,,,"Tube","Carton",,,1.44,,,,,,,,,,,,,0.8,0.66
+1800871,23820,"Klick Stick Pin CTN Qty 100","Accessories",1,1,2.3,,,,,,18,2.3,,,"Accessories","Carton",,,4.14,,,,,,,,,,,,,2,1.82
+1800872,23830,"Swivwl Pin Clip CTN Qty 200","Clip",1,1,0.98,,,,,,18,0.98,,,"Clip","Carton",,,1.76,,,,,,,,,,,,,0.8,0.68
+1800873,23900,"Plastic Base CTN Qty 100","Base",1,1,2.4,,,,,,18,2.4,,,"Base","Carton",,,4.32,,,,,,,,,,,,,2,1.7
+1800874,23905,"Klick Rods 50Mm Long CTN Qty 100","Rod",1,1,1.7,,,,,,18,1.7,,,"Rod","Carton",,,3.06,,,,,,,,,,,,,1.4,1.2
+1800875,23910,"Klick Rods 100Mm Long CTN Qty 100","Rod",1,1,1.75,,,,,,18,1.75,,,"Rod","Carton",,,3.15,,,,,,,,,,,,,1.45,1.24
+1800876,23920,"Klick Rods 200Mm Long CTN Qty 100","Rod",1,1,1.75,,,,,,18,1.75,,,"Rod","Carton",,,3.15,,,,,,,,,,,,,1.55,1.35
+1800877,23940,"Klick Connector CTN Qty 200","Accessories",1,1,0.8,,,,,,18,0.8,,,"Accessories","Carton",,,1.44,,,,,,,,,,,,,0.65,0.55
+1800878,23950,"Klick Tray Clip CTN Qty 200","Clip",1,1,0.85,,,,,,18,0.85,,,"Clip","Carton",,,1.53,,,,,,,,,,,,,0.7,0.6
+1800879,23960,"Klick Universal Clip CTN Qty 200","Clip",1,1,0.85,,,,,,18,0.85,,,"Clip","Carton",,,1.53,,,,,,,,,,,,,0.68,0.58
+1800880,24105,"Folded Number Strips 2 Sm + 4 Lge CTN Qty 200","Strip",1,1,0.85,,,,,,18,0.85,,,"Strip","Carton",,,1.53,,,,,,,,,,,,,0.68,0.58
+1800881,24126,"Folded Number Strips 2 Sm + 3 Lge CTN Qty 100","Strip",1,1,4.1,,,,,,18,4.1,,,"Strip","Carton",,,7.38,,,,,,,,,,,,,3.35,2.9
+1800882,24127,"Plain White Pvc Insert CTN Qty 100","Accessories",1,1,6.8,,,,,,18,6.8,,,"Accessories","Carton",,,12.24,,,,,,,,,,,,,5.6,4.85
+1800883,24140,"Plain White Pvc Insert CTN Qty 200","Accessories",1,1,0.66,,,,,,18,0.66,,,"Accessories","Carton",,,1.19,,,,,,,,,,,,,0.55,0.45
+1800884,24145,"Clear Pvc Sheet CTN Qty 200","Sheet",1,1,0.66,,,,,,18,0.66,,,"Sheet","Carton",,,1.19,,,,,,,,,,,,,0.55,0.45
+1800885,24280,"Chalk Board Marker-15mm CTN Qty 12","Board",1,1,17.75,,,,,,18,17.75,,,"Board","Carton",,,31.95,,,,,,,,,,,,,15.43,14.03
+1800886,24281,"Chalk Board Marker-5mm CTN Qty 12","Board",1,1,10.85,,,,,,18,10.85,,,"Board","Carton",,,19.53,,,,,,,,,,,,,9.44,8.58
+1800887,25180,"Wall Fastener CTN Qty 100","Fastener",1,1,1.8,,,,,,18,1.8,,,"Fastener","Carton",,,3.24,,,,,,,,,,,,,1.05,0.9
+1800888,25181,"Poster Rail Ceiling Fastener CTN Qty 20","Fastener",1,1,1.1,,,,,,18,1.1,,,"Fastener","Carton",,,1.98,,,,,,,,,,,,,0.96,0.87
+1800889,25521,"Tube Clip(Pair) - Wood Frame CTN Qty 20","Tube",1,1,4.28,,,,,,18,4.28,,,"Tube","Carton",,,7.7,,,,,,,,,,,,,3.72,3.38
+1800890,25610,"Poster Rail Connector CTN Qty 20","Accessories",1,1,3.76,,,,,,18,3.76,,,"Accessories","Carton",,,6.77,,,,,,,,,,,,,3.27,2.97
+1800891,25620,"Poster Rail Corner Connector CTN Qty 20","Accessories",1,1,3.76,,,,,,18,3.76,,,"Accessories","Carton",,,6.77,,,,,,,,,,,,,3.27,2.97
+1800892,25650,"Poster Rail Moulded Corner CTN Qty 20","Accessories",1,1,6.06,,,,,,18,6.06,,,"Accessories","Carton",,,10.91,,,,,,,,,,,,,5.27,4.79
+1800893,25670,"Poster Rail End Cap CTN Qty 20","Accessories",1,1,1.25,,,,,,18,1.25,,,"Accessories","Carton",,,2.25,,,,,,,,,,,,,1.09,0.99
+1800894,25730,"Poster Rail Hanging Ring CTN Qty 20","Accessories",1,1,0.63,,,,,,18,0.63,,,"Accessories","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800895,25740,"Poster Rail Frame Clip CTN Qty 20","Frame",1,1,0.63,,,,,,18,0.63,,,"Frame","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800896,25760,"Poster Rail Hanging Hook - Pair CTN Qty 20","Hook",1,1,1.1,,,,,,18,1.1,,,"Hook","Carton",,,1.98,,,,,,,,,,,,,0.96,0.87
+1800897,25770,"Poster Rail Long Hang Hook - Pair CTN Qty 20","Hook",1,1,4.59,,,,,,18,4.59,,,"Hook","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800898,25880,"Wooden Base-Large CTN Qty 10","Base",1,1,15.03,,,,,,18,15.03,,,"Base","Carton",,,27.05,,,,,,,,,,,,,13.07,11.88
+1800899,25882,"Wooden Base-Small CTN Qty 10","Base",1,1,11.79,,,,,,18,11.79,,,"Base","Carton",,,21.22,,,,,,,,,,,,,10.25,9.32
+1800900,26670,"Magnetic Banner Hanger 250Mm l CTN Qty 20","Accessories",1,1,13.6,,,,,,18,13.6,,,"Accessories","Carton",,,24.48,,,,,,,,,,,,,11.4,9.9
+1800901,26671,"Magnetic Banner Hanger 400Mm l CTN Qty 20","Accessories",1,1,16.4,,,,,,18,16.4,,,"Accessories","Carton",,,29.52,,,,,,,,,,,,,13.7,11.9
+1800902,26672,"Curved Banner Hanger CTN Qty 20","Accessories",1,1,19.2,,,,,,18,19.2,,,"Accessories","Carton",,,34.56,,,,,,,,,,,,,16,13.9
+1800903,26680,"Banner Hanger CTN Qty 20","Accessories",1,1,25.2,,,,,,18,25.2,,,"Accessories","Carton",,,45.36,,,,,,,,,,,,,21.05,18.3
+1800904,28003,"Klick Gripper CTN Qty 100","Accessories",1,1,0.83,,,,,,18,0.83,,,"Accessories","Carton",,,1.49,,,,,,,,,,,,,0.73,0.66
+1800905,28011,"Flex. Data Strip Clip CTN Qty 100","Strip",1,1,1.47,,,,,,18,1.47,,,"Strip","Carton",,,2.65,,,,,,,,,,,,,1.28,1.16
+1800906,28012,"Hinged Data Strip Clip - 25mm CTN Qty 100","Strip",1,1,0.83,,,,,,18,0.83,,,"Strip","Carton",,,1.49,,,,,,,,,,,,,0.73,0.66
+1800907,28013,"Hinged Data Strip Clip - 75mm CTN Qty 100","Strip",1,1,1.25,,,,,,18,1.25,,,"Strip","Carton",,,2.25,,,,,,,,,,,,,1.09,0.99
+1800908,28400,"Cardholder w/Clamp CTN Qty 100","Clamp",1,1,3.01,,,,,,18,3.01,,,"Clamp","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1800909,28402,"Cardholder w/Clamp-50mm CTN Qty 100","Clamp",1,1,3.34,,,,,,18,3.34,,,"Clamp","Carton",,,6.01,,,,,,,,,,,,,2.9,2.64
+1800910,28404,"Cardholder w/Clamp-100mm CTN Qty 100","Clamp",1,1,3.55,,,,,,18,3.55,,,"Clamp","Carton",,,6.39,,,,,,,,,,,,,3.09,2.81
+1800911,28405,"50mm Round Base CTN Qty 100","Base",1,1,1.05,,,,,,18,1.05,,,"Base","Carton",,,1.89,,,,,,,,,,,,,0.91,0.83
+1800912,28406,"80mm Round Base CTN Qty 100","Base",1,1,2.19,,,,,,18,2.19,,,"Base","Carton",,,3.94,,,,,,,,,,,,,1.9,1.73
+1800913,28407,"74 x 40mm Flat Base CTN Qty 100","Base",1,1,1.05,,,,,,18,1.05,,,"Base","Carton",,,1.89,,,,,,,,,,,,,0.91,0.83
+1800914,28408,"Small Magnet Base CTN Qty 50","Base",1,1,3.97,,,,,,18,3.97,,,"Base","Carton",,,7.15,,,,,,,,,,,,,3.45,3.14
+1800915,28409,"Large Magnet Base CTN Qty 20","Base",1,1,7.64,,,,,,18,7.64,,,"Base","Carton",,,13.75,,,,,,,,,,,,,6.64,6.04
+1800916,28410,"Self Adh. Connector + Adaptor CTN Qty 100","Accessories",1,1,0.87,,,,,,18,0.87,,,"Accessories","Carton",,,1.57,,,,,,,,,,,,,0.76,0.69
+1800917,28411,"50mm Suction Base CTN Qty 100","Base",1,1,0.57,,,,,,18,0.57,,,"Base","Carton",,,1.03,,,,,,,,,,,,,0.5,0.45
+1800918,28415,"Ice Stick Base CTN Qty 25","Base",1,1,4.17,,,,,,18,4.17,,,"Base","Carton",,,7.51,,,,,,,,,,,,,3.63,3.3
+1800919,28416,"Deli Pin Base CTN Qty 100","Base",1,1,0.63,,,,,,18,0.63,,,"Base","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800920,28417,"Bottle Top Base CTN Qty 25","Base",1,1,5.64,,,,,,18,5.64,,,"Base","Carton",,,10.15,,,,,,,,,,,,,4.91,4.46
+1800921,28420,"White Pp Connector CTN Qty 200","Accessories",1,1,0.15,,,,,,18,0.15,,,"Accessories","Carton",,,0.27,,,,,,,,,,,,,0.13,0.12
+1800922,28422,"Small Gripper CTN Qty 100","Accessories",1,1,1.15,,,,,,18,1.15,,,"Accessories","Carton",,,2.07,,,,,,,,,,,,,1,0.91
+1800923,28424,"Large Gripper CTN Qty 100","Pocket",1,1,3.24,,,,,,18,3.24,,,"Pocket","Carton",,,5.83,,,,,,,,,,,,,2.82,2.56
+1800924,28425,"50mm Stem CTN Qty 100","Stem",1,1,0.32,,,,,,18,0.32,,,"Stem","Carton",,,0.58,,,,,,,,,,,,,0.28,0.25
+1800925,28426,"100mm Stem CTN Qty 100","Stem",1,1,0.54,,,,,,18,0.54,,,"Stem","Carton",,,0.97,,,,,,,,,,,,,0.47,0.43
+1800926,28430,"Cardholder w/Rnd Base CTN Qty 100","Base",1,1,5.43,,,,,,18,5.43,,,"Base","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1800927,28432,"Cardholder w/Rnd Base+50mm Stem CTN Qty 100","Base",1,1,6.06,,,,,,18,6.06,,,"Base","Carton",,,10.91,,,,,,,,,,,,,5.27,4.79
+1800928,28434,"Cardhldr w/Rnd Base+100mm Stem CTN Qty 100","Base",1,1,6.26,,,,,,18,6.26,,,"Base","Carton",,,11.27,,,,,,,,,,,,,5.45,4.95
+1800929,28437,"27mm Sign Holder CTN Qty 100","Holder",1,1,0.63,,,,,,18,0.63,,,"Holder","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1800930,28438,"50mm Sign Holder CTN Qty 100","Holder",1,1,1.15,,,,,,18,1.15,,,"Holder","Carton",,,2.07,,,,,,,,,,,,,1,0.91
+1800931,28439,"80mm Clamp CTN Qty 100","Clamp",1,1,3.02,,,,,,18,3.02,,,"Clamp","Carton",,,5.44,,,,,,,,,,,,,2.63,2.39
+1800932,28460,"Cardholder w/Magnet CTN Qty 100","Holder",1,1,4.59,,,,,,18,4.59,,,"Holder","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800933,28462,"Cardholder w/Magnet-50mm CTN Qty 100","Holder",1,1,5.95,,,,,,18,5.95,,,"Holder","Carton",,,10.71,,,,,,,,,,,,,5.17,4.7
+1800934,29210,"a1 Poster Protector CTN Qty 50","Pocket",1,1,19.62,,,,,,18,19.62,,,"Pocket","Carton",,,35.32,,,,,,,,,,,,,17.06,15.51
+1800935,29220,"a2 Poster Protector CTN Qty 50","Pocket",1,1,12.11,,,,,,18,12.11,,,"Pocket","Carton",,,21.8,,,,,,,,,,,,,10.53,9.57
+1800936,29230,"A3 Poster Protector CTN Qty 100","Pocket",1,1,4.59,,,,,,18,4.59,,,"Pocket","Carton",,,8.26,,,,,,,,,,,,,3.99,3.63
+1800937,29240,"a4 Poster Protector CTN Qty 200","Pocket",1,1,3.01,,,,,,18,3.01,,,"Pocket","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1800938,29250,"a5 Poster Protector CTN Qty 200","Pocket",1,1,2.4,,,,,,18,2.4,,,"Pocket","Carton",,,4.32,,,,,,,,,,,,,2.09,1.9
+1800939,29260,"a6 Poster Protector CTN Qty 300","Pocket",1,1,1.88,,,,,,18,1.88,,,"Pocket","Carton",,,3.38,,,,,,,,,,,,,1.64,1.49
+1800940,29301,"Lightweight Info Holders a1 Port CTN Qty 30","Holder",1,1,23.6,,,,,,18,23.6,,,"Holder","Carton",,,42.48,,,,,,,,,,,,,20.5,18.6
+1800941,29302,"Lightweight Info Holders a2 Port CTN Qty 30","Holder",1,1,14.6,,,,,,18,14.6,,,"Holder","Carton",,,26.28,,,,,,,,,,,,,12.7,11.5
+1800942,29303,"Lightweight Info Holders a3 Port CTN Qty 50","Holder",1,1,5.6,,,,,,18,5.6,,,"Holder","Carton",,,10.08,,,,,,,,,,,,,4.9,4.5
+1800943,29304,"Lightweight Info Holders a4 Port CTN Qty 50","Holder",1,1,3.7,,,,,,18,3.7,,,"Holder","Carton",,,6.66,,,,,,,,,,,,,3.2,2.9
+1800944,29320,"a2 Plastic Pocket w/ Holes CTN Qty 50","Pocket",1,1,16.08,,,,,,18,16.08,,,"Pocket","Carton",,,28.94,,,,,,,,,,,,,13.98,12.71
+1800945,29330,"a3 Plastic Pocket w/ Holes CTN Qty 100","Pocket",1,1,10.02,,,,,,18,10.02,,,"Pocket","Carton",,,18.04,,,,,,,,,,,,,8.71,7.92
+1800946,29340,"a4 Plastic Pocket w/ Holes CTN Qty 200","Pocket",1,1,5.64,,,,,,18,5.64,,,"Pocket","Carton",,,10.15,,,,,,,,,,,,,4.91,4.46
+1800947,29350,"a5 Plastic Pocket w/ Holes CTN Qty 200","Pocket",1,1,3.97,,,,,,18,3.97,,,"Pocket","Carton",,,7.15,,,,,,,,,,,,,3.45,3.14
+1800948,29610,"Chalk Board Insert a1 CTN Qty 10","Board",1,1,36.1,,,,,,18,36.1,,,"Board","Carton",,,64.98,,,,,,,,,,,,,30.15,26.2
+1800949,29620,"a2 Chalk Board CTN Qty 20","Board",1,1,19.84,,,,,,18,19.84,,,"Board","Carton",,,35.71,,,,,,,,,,,,,17.25,15.68
+1800950,29630,"a3 Chalk Board CTN Qty 20","Board",1,1,9.6,,,,,,18,9.6,,,"Board","Carton",,,17.28,,,,,,,,,,,,,8.35,7.59
+1800951,29640,"a4 Chalk Board CTN Qty 20","Board",1,1,5.43,,,,,,18,5.43,,,"Board","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1800952,29650,"a5 Chalk Board CTN Qty 20","Board",1,1,3.02,,,,,,18,3.02,,,"Board","Carton",,,5.44,,,,,,,,,,,,,2.63,2.39
+1800953,29660,"a6 Chalkboard CTN Qty 20","Chalkboard",1,1,1.99,,,,,,18,1.99,,,"Chalkboard","Carton",,,3.58,,,,,,,,,,,,,1.73,1.57
+1800954,29670,"Chalk Board Insert a7 CTN Qty 100","Board",1,1,1.75,,,,,,18,1.75,,,"Board","Carton",,,3.15,,,,,,,,,,,,,1.45,1.25
+1800955,29680,"Chalk Board Insert a8 CTN Qty 100","Board",1,1,1.55,,,,,,18,1.55,,,"Board","Carton",,,2.79,,,,,,,,,,,,,1.3,1.1
+1800956,29683,"Chalk Board Insert 210 X 59 CTN Qty 100","Board",1,1,2.3,,,,,,18,2.3,,,"Board","Carton",,,4.14,,,,,,,,,,,,,1.9,1.65
+1800957,29684,"210 x 74 Chalkboard CTN Qty 20","Chalkboard",1,1,2.72,,,,,,18,2.72,,,"Chalkboard","Carton",,,4.9,,,,,,,,,,,,,2.37,2.15
+1800958,29688,"210 x 99 Chalkboard CTN Qty 20","Accessories",1,1,3.02,,,,,,18,3.02,,,"Accessories","Carton",,,5.44,,,,,,,,,,,,,2.63,2.39
+1800959,29691,"Chalk Board Insert 148 X70 CTN Qty 100","Board",1,1,2.05,,,,,,18,2.05,,,"Board","Carton",,,3.69,,,,,,,,,,,,,1.7,1.45
+1800960,33383,"Showcard Stand a3 CTN Qty 10","Stand",1,1,75,,,,,,18,75,,,"Stand","Carton",,,135,,,,,,,,,,,,,65,57.5
+1800961,33384,"a4 Wooden Showcard Stand CTN Qty 5","Stand",1,1,73.79,,,,,,18,73.79,,,"Stand","Carton",,,132.82,,,,,,,,,,,,,64.16,58.33
+1800962,33913,"Magnetic Show Stopper a5 Port CTN Qty 50","Accessories",1,1,7.8,,,,,,18,7.8,,,"Accessories","Carton",,,14.04,,,,,,,,,,,,,6.5,5.6
+1800963,33914,"Magnetic Show Stopper a5 Land CTN Qty 50","Accessories",1,1,7.3,,,,,,18,7.3,,,"Accessories","Carton",,,13.14,,,,,,,,,,,,,6.1,5.3
+1800964,33956,"a6 Swivel Frame + Magnet CTN Qty 50","Frame",1,1,9.29,,,,,,18,9.29,,,"Frame","Carton",,,16.72,,,,,,,,,,,,,8.07,7.34
+1800965,33966,"Magnetic Show Stopper a6 Port CTN Qty 50","Accessories",1,1,6.4,,,,,,18,6.4,,,"Accessories","Carton",,,11.52,,,,,,,,,,,,,5.3,4.6
+1800966,35434,"Dk Holder w/ Spring Clamp CTN Qty 20","Holder",1,1,22.34,,,,,,18,22.34,,,"Holder","Carton",,,40.21,,,,,,,,,,,,,19.43,17.66
+1800967,35435,"Spring Clamp CTN Qty 10","Clamp",1,1,19.2,,,,,,18,19.2,,,"Clamp","Carton",,,34.56,,,,,,,,,,,,,16.6,14.4
+1800968,35550,"'Wooden Box Clamp w/''t'' Pc CTN Qty 20'","Clamp",1,1,15.86,,,,,,18,15.86,,,"Clamp","Carton",,,28.55,,,,,,,,,,,,,13.79,12.54
+1800969,38410,"Gallows Stand Single Side CTN Qty 10","Stand",1,1,71.4,,,,,,18,71.4,,,"Stand","Carton",,,128.52,,,,,,,,,,,,,62,56.6
+1800970,38411,"Gallows Stand Double Side CTN Qty 10","Stand",1,1,78.8,,,,,,18,78.8,,,"Stand","Carton",,,141.84,,,,,,,,,,,,,68.2,62.4
+1800971,38420,"Gallows Stand Single Side CTN Qty 10","Stand",1,1,83.8,,,,,,18,83.8,,,"Stand","Carton",,,150.84,,,,,,,,,,,,,72.4,65.6
+1800972,38421,"Gallows Stand Double Side CTN Qty 10","Stand",1,1,89.9,,,,,,18,89.9,,,"Stand","Carton",,,161.82,,,,,,,,,,,,,78.1,70.2
+1800973,38631,"Gallows Stand Double Side CTN Qty 10","Stand",1,1,26,,,,,,18,26,,,"Stand","Carton",,,46.8,,,,,,,,,,,,,22.5,19.95
+1800974,38672,"Gallows Stand Double Side CTN Qty 10","Stand",1,1,54.3,,,,,,18,54.3,,,"Stand","Carton",,,97.74,,,,,,,,,,,,,46.1,41.8
+1800975,38731,"Gallows Stand Single Side CTN Qty 10","Stand",1,1,22.4,,,,,,18,22.4,,,"Stand","Carton",,,40.32,,,,,,,,,,,,,19.1,16.8
+1800976,38772,"Gallows Stand Single Side CTN Qty 10","Stand",1,1,46.3,,,,,,18,46.3,,,"Stand","Carton",,,83.34,,,,,,,,,,,,,40.3,35.9
+1800977,"2417/6","Uno System - 4-6mm Panel Sleeve CTN Qty 100","Panel",1,1,0.65,,,,,,18,0.65,,,"Panel","Carton",,,1.17,,,,,,,,,,,,,0.56,0.51
+1800978,"2417/12","Uno System - 10-12mm Panel Sleeve CTN Qty 100","Panel",1,1,0.65,,,,,,18,0.65,,,"Panel","Carton",,,1.17,,,,,,,,,,,,,0.56,0.51
+1800979,"5050/5","25 Square t 1525 CTN Qty 10","Accessories",1,1,12.43,,,,,,18,12.43,,,"Accessories","Carton",,,22.37,,,,,,,,,,,,,9.56,8.32
+1800980,"5050/6","25 Square t 1830 CTN Qty 10","Accessories",1,1,15,,,,,,18,15,,,"Accessories","Carton",,,27,,,,,,,,,,,,,11.54,10.03
+1800981,"5050/8","25 Square t 2440 CTN Qty 10","Accessories",1,1,20.01,,,,,,18,20.01,,,"Accessories","Carton",,,36.02,,,,,,,,,,,,,15.39,13.38
+1800982,"5054/4","Set Of 4 Castors-Dbl Wheel CTN Qty 25","Accessories",1,1,26.76,,,,,,18,26.76,,,"Accessories","Carton",,,48.17,,,,,,,,,,,,,20.59,17.9
+1800983,"5054/6","Set Of 6 Castors-Dbl Wheel CTN Qty 25","Accessories",1,1,38.23,,,,,,18,38.23,,,"Accessories","Carton",,,68.81,,,,,,,,,,,,,29.41,25.58
+1800984,"7011/4","Flexfold-1220mm CTN Qty 25","Accessories",1,1,27.9,,,,,,18,27.9,,,"Accessories","Carton",,,50.22,,,,,,,,,,,,,21.45,18.65
+1800985,"7011/6","Flexfold-1830mm CTN Qty 25","Accessories",1,1,44,,,,,,18,44,,,"Accessories","Carton",,,79.2,,,,,,,,,,,,,33.9,29.45
+1800986,"7251-03","Plasdrill x1/8 CTN Qty 10","Accessories",1,1,3.9,,,,,,18,3.9,,,"Accessories","Carton",,,7.02,,,,,,,,,,,,,3.55,3.3
+1800987,"7251-04","Plasdrill x5/32 CTN Qty 10","Accessories",1,1,4.75,,,,,,18,4.75,,,"Accessories","Carton",,,8.55,,,,,,,,,,,,,4.3,4
+1800988,"7251-05","Plasdrill x3/16 CTN Qty 10","Accessories",1,1,5.25,,,,,,18,5.25,,,"Accessories","Carton",,,9.45,,,,,,,,,,,,,4.75,4.4
+1800989,"7251-06","Plasdrill x1/4 CTN Qty 5","Accessories",1,1,7.1,,,,,,18,7.1,,,"Accessories","Carton",,,12.78,,,,,,,,,,,,,6.51,6
+1800990,"7251-07","Plasdrill x9/32 CTN Qty 4","Accessories",1,1,19,,,,,,18,19,,,"Accessories","Carton",,,34.2,,,,,,,,,,,,,17.36,16
+1800991,"7251-08","Plasdrill x5/16 CTN Qty 4","Accessories",1,1,20.2,,,,,,18,20.2,,,"Accessories","Carton",,,36.36,,,,,,,,,,,,,18.3,16.9
+1800992,"7251-10","Plasdrill x3/8 CTN Qty 3","Accessories",1,1,26.2,,,,,,18,26.2,,,"Accessories","Carton",,,47.16,,,,,,,,,,,,,23.84,21.95
+1800993,"7251-11","Plasdrill x7/16 CTN Qty 1","Accessories",1,1,0,,,,,,18,0,,,"Accessories","Carton",,,0,,,,,,,,,,,,,27.2,25.2
+1800994,"7251-12","Plas Drill 1/2 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,35.9,33.2
+1800995,"7950/2","Mini-Fluroo W/O Diffuser -600Mm CTN Qty 4","Accessories",1,1,66.2,,,,,,18,66.2,,,"Accessories","Carton",,,119.16,,,,,,,,,,,,,57.5,52.3
+1800996,"7950/3","Mini-Fluroo W/O Diffuser -900Mm CTN Qty 4","Diffuser",1,1,74.65,,,,,,18,74.65,,,"Diffuser","Carton",,,134.37,,,,,,,,,,,,,64.9,59
+1800997,"7950/4","Mini-Fluroo W/O Diffuser -1200Mm CTN Qty 4","Diffuser",1,1,78,,,,,,18,78,,,"Diffuser","Carton",,,140.4,,,,,,,,,,,,,67.8,61.7
+1800998,"7950/5","Mini-Fluroo W/O Diffuser -1500Mm CTN Qty 4","Diffuser",1,1,82.5,,,,,,18,82.5,,,"Diffuser","Carton",,,148.5,,,,,,,,,,,,,71.7,65.2
+1800999,"7955/2","Mini-Fluroo With Diffuser -600Mm CTN Qty 4","Diffuser",1,1,69.2,,,,,,18,69.2,,,"Diffuser","Carton",,,124.56,,,,,,,,,,,,,60.2,54.7
+1801000,"7955/3","Mini-Fluroo With Diffuser -900Mm CTN Qty 4","Diffuser",1,1,75.7,,,,,,18,75.7,,,"Diffuser","Carton",,,136.26,,,,,,,,,,,,,65.8,59.9
+1801001,"7955/4","Mini-Fluroo With Diffuser -1200Mm CTN Qty 4","Diffuser",1,1,89.4,,,,,,18,89.4,,,"Diffuser","Carton",,,160.92,,,,,,,,,,,,,77.7,70.7
+1801002,"7955/5","Mini-Fluroo With Diffuser -1500Mm CTN Qty 4","Diffuser",1,1,97.6,,,,,,18,97.6,,,"Diffuser","Carton",,,175.68,,,,,,,,,,,,,84.9,77.2
+1801003,"0443/2H","Wall Mount Holder a5 With Holes CTN Qty 100","Holder",1,1,5.7,,,,,,18,5.7,,,"Holder","Carton",,,10.26,,,,,,,,,,,,,4.7,4.15
+1801004,"0443/DST","Wall Mount Holder a5 With Ds Tape CTN Qty 100","Holder",1,1,6.1,,,,,,18,6.1,,,"Holder","Carton",,,10.98,,,,,,,,,,,,,5,4.5
+1801005,"0443/PL","Wall Mount Holder a5 Plain CTN Qty 100","Holder",1,1,5.4,,,,,,18,5.4,,,"Holder","Carton",,,9.72,,,,,,,,,,,,,4.45,3.95
+1801006,"0444/2H","Wall Mount Holder a4 With Holes CTN Qty 50","Holder",1,1,8.2,,,,,,18,8.2,,,"Holder","Carton",,,14.76,,,,,,,,,,,,,6.7,5.95
+1801007,"0444/DST","Wall Mount Holder a4 With Ds Tape CTN Qty 50","Holder",1,1,8.7,,,,,,18,8.7,,,"Holder","Carton",,,15.66,,,,,,,,,,,,,7.2,6.4
+1801008,"0444/PL","Wall Mount Holder a4 Plain CTN Qty 50","Holder",1,1,7.55,,,,,,18,7.55,,,"Holder","Carton",,,13.59,,,,,,,,,,,,,6.2,5.5
+1801009,"0445/2H","Wall Mount Holder a3 With Holes CTN Qty 25","Holder",1,1,18.7,,,,,,18,18.7,,,"Holder","Carton",,,33.66,,,,,,,,,,,,,15.9,14.25
+1801010,"0445/DST","Wall Mount Holder a3 With Ds Tape CTN Qty 25","Holder",1,1,19.6,,,,,,18,19.6,,,"Holder","Carton",,,35.28,,,,,,,,,,,,,16.6,14.8
+1801011,"0445/PL","Wall Mount Holder a3 Plain CTN Qty 25","Holder",1,1,18.2,,,,,,18,18.2,,,"Holder","Carton",,,32.76,,,,,,,,,,,,,15.5,13.8
+1801012,"0446/2H","Wall Mount Holder a2 With Holes CTN Qty 10","Holder",1,1,33.8,,,,,,18,33.8,,,"Holder","Carton",,,60.84,,,,,,,,,,,,,28.7,25.5
+1801013,"0446/DST","Wall Mount Holder a2 With Ds Tape CTN Qty 10","Holder",1,1,35.5,,,,,,18,35.5,,,"Holder","Carton",,,63.9,,,,,,,,,,,,,30.15,26.8
+1801014,"0446/PL","Wall Mount Holder a2 Plain CTN Qty 10","Holder",1,1,32.8,,,,,,18,32.8,,,"Holder","Carton",,,59.04,,,,,,,,,,,,,27.8,24.75
+1801015,"0447/2H","Wall Mount Holder a1 With Holes CTN Qty 5","Holder",1,1,61.5,,,,,,18,61.5,,,"Holder","Carton",,,110.7,,,,,,,,,,,,,54.7,49.9
+1801016,"0447/DST","Wall Mount Holder a1 With Ds Tape CTN Qty 5","Holder",1,1,64.5,,,,,,18,64.5,,,"Holder","Carton",,,116.1,,,,,,,,,,,,,57.2,52
+1801017,"0447/PL","Wall Mount Holder a1 Plain CTN Qty 5","Holder",1,1,59.9,,,,,,18,59.9,,,"Holder","Carton",,,107.82,,,,,,,,,,,,,53.4,48.6
+1801018,"0448/PL","Wall Mount Holder a0 Plain CTN Qty 3","Holder",1,1,104.3,,,,,,18,104.3,,,"Holder","Carton",,,187.74,,,,,,,,,,,,,92.7,84.3
+1801019,"0507A","Ticket Channel 150l CTN Qty 100","Holder",1,1,1.47,,,,,,18,1.47,,,"Holder","Carton",,,2.65,,,,,,,,,,,,,1.15,0.85
+1801020,"0507A","Ticket Channel 150l CTN Qty 100","Holder",1,1,1.47,,,,,,18,1.47,,,"Holder","Carton",,,2.65,,,,,,,,,,,,,1.15,0.85
+1801021,"0510A","Sh t/Hold 25 CTN Qty 200","Holder",1,1,1.1,,,,,,18,1.1,,,"Holder","Carton",,,1.98,,,,,,,,,,,,,0.9,0.8
+1801022,"0510A","Sh t/Hold 25 CTN Qty 200","Holder",1,1,1.1,,,,,,18,1.1,,,"Holder","Carton",,,1.98,,,,,,,,,,,,,0.9,0.8
+1801023,"0512A","Shelf Front Ticket Clip CTN Qty 200","Clip",1,1,0.85,,,,,,18,0.85,,,"Clip","Carton",,,1.53,,,,,,,,,,,,,0.7,0.6
+1801024,"0512A","Shelf Front Ticket Clip CTN Qty 200","Clip",1,1,0.85,,,,,,18,0.85,,,"Clip","Carton",,,1.53,,,,,,,,,,,,,0.7,0.6
+1801025,"0518L","Acrylic Frame Signholder a5 Land CTN Qty 48","Frame",1,1,9.6,,,,,,18,9.6,,,"Frame","Caron",,,17.28,,,,,,,,,,,,,8.3,7.2
+1801026,"0518L","Acrylic Frame Signholder a5 Land CTN Qty 48","Frame",1,1,9.6,,,,,,18,9.6,,,"Frame","Caron",,,17.28,,,,,,,,,,,,,8.3,7.2
+1801027,"0519COMP","Acrylic Frame Signholder Channel CTN Qty 100","Frame",1,1,5.05,,,,,,18,5.05,,,"Frame","Caron",,,9.09,,,,,,,,,,,,,4.4,3.8
+1801028,"0519COMP","Acrylic Frame Signholder Channel CTN Qty 100","Frame",1,1,5.05,,,,,,18,5.05,,,"Frame","Caron",,,9.09,,,,,,,,,,,,,4.4,3.8
+1801029,"0519L","Acrylic Frame Signholder a4 Land CTN Qty 24","Frame",1,1,12.6,,,,,,18,12.6,,,"Frame","Caron",,,22.68,,,,,,,,,,,,,10.9,9.5
+1801030,"0519L","Acrylic Frame Signholder a4 Land CTN Qty 24","Frame",1,1,12.6,,,,,,18,12.6,,,"Frame","Caron",,,22.68,,,,,,,,,,,,,10.9,9.5
+1801031,"0524 (p86)","Universal Clamp CTN Qty 100","Base",1,1,3.35,,,,,,18,3.35,,,"Base","Carton",,,6.03,,,,,,,,,,,,,2.85,2.5
+1801032,"0524 (p86)","Universal Clamp CTN Qty 100","Clamp",1,1,3.35,,,,,,18,3.35,,,"Clamp","Carton",,,6.03,,,,,,,,,,,,,2.85,2.5
+1801033,"0524(p85)","Threaded Stem 300Mm CTN Qty 100","Stem",1,1,1.85,,,,,,18,1.85,,,"Stem","Carton",,,3.33,,,,,,,,,,,,,1.6,1.4
+1801034,"0524(p85)","Threaded Stem 300Mm CTN Qty 100","Stem",1,1,1.85,,,,,,18,1.85,,,"Stem","Carton",,,3.33,,,,,,,,,,,,,1.6,1.4
+1801035,"0525A","Magnetic Base 150Mm CTN Qty 100","Base",1,1,6.5,,,,,,18,6.5,,,"Base","Carton",,,11.7,,,,,,,,,,,,,5.65,4.9
+1801036,"0525A","Magnetic Base 150Mm CTN Qty 100","Base",1,1,6.5,,,,,,18,6.5,,,"Base","Carton",,,11.7,,,,,,,,,,,,,5.65,4.9
+1801037,"0527/26BL","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801038,"0527/26BL","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801039,"0527/26CL","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801040,"0527/26CL","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801041,"0527/26WH","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801042,"0527/26WH","Flat Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.4,,,,,,18,1.4,,,"Strip","Carton",,,2.52,,,,,,,,,,,,,0.9,0.79
+1801043,"0527/39BL","Flat Adh. Data Strip - 914 x 39mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.25,1.1
+1801044,"0527/39BL","Flat Adh. Data Strip - 914 x 39mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.25,1.1
+1801045,"0527/39CL","Flat Adh. Data Strip - 914 x 39mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.25,1.1
+1801046,"0527/39CL","Flat Adh. Data Strip - 914 x 39mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.25,1.1
+1801047,"0528/26BL","Flat Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,1.9,,,,,,18,1.9,,,"Strip","Carton",,,3.42,,,,,,,,,,,,,1.3,1.05
+1801048,"0528/26CL","Flat Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,1.9,,,,,,18,1.9,,,"Strip","Carton",,,3.42,,,,,,,,,,,,,1.3,1.05
+1801049,"0528/26WH","Flat Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,1.9,,,,,,18,1.9,,,"Strip","Carton",,,3.42,,,,,,,,,,,,,1.3,1.05
+1801050,"0528/39CL","Flat Adh. Data Strip - 1200 x 39mm CTN Qty 200","Strip",1,1,2.2,,,,,,18,2.2,,,"Strip","Carton",,,3.96,,,,,,,,,,,,,1.72,1.5
+1801051,"0528/52CL","Flat Adh. Data Strip - 1200 x 52mm CTN Qty 200","Strip",1,1,3.8,,,,,,18,3.8,,,"Strip","Carton",,,6.84,,,,,,,,,,,,,2.5,2.25
+1801052,"0528/76CL","Flat Adh. Data Strip - 1200 x 76mm CTN Qty 200","Strip",1,1,4.75,,,,,,18,4.75,,,"Strip","Carton",,,8.55,,,,,,,,,,,,,3.15,2.85
+1801053,"05560B","Castors-75mm w/Brake CTN Qty 50","Accessories",1,1,6.04,,,,,,18,6.04,,,"Accessories","Carton",,,10.87,,,,,,,,,,,,,4.65,4.04
+1801054,"0631A","Plastic Scan Hook 150Mm CTN Qty 100","Hook",1,1,1.25,,,,,,18,1.25,,,"Hook","Carton",,,2.25,,,,,,,,,,,,,1.08,0.94
+1801055,"0667POST","Clear Post - 6mm CTN Qty 1000","post",1,1,0.25,,,,,,18,0.25,,,"post","Carton",,,0.45,,,,,,,,,,,,,0.17,0.15
+1801056,"0667SCR","6mm Screw CTN Qty 1000","Screw",1,1,0.1,,,,,,18,0.1,,,"Screw","Carton",,,0.18,,,,,,,,,,,,,0.06,0.06
+1801057,"0668POST","Clear Post - 10mm CTN Qty 1000","post",1,1,0.3,,,,,,18,0.3,,,"post","Carton",,,0.54,,,,,,,,,,,,,0.21,0.19
+1801058,"0668SCR","10mm Screw CTN Qty 1000","Screw",1,1,0.1,,,,,,18,0.1,,,"Screw","Carton",,,0.18,,,,,,,,,,,,,0.06,0.06
+1801059,"0704/26BL","Angle Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.1,0.95
+1801060,"0704/26CL","Angle Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.1,0.95
+1801061,"0704/26WH","Angle Adh. Data Strip - 914 x 26mm CTN Qty 200","Strip",1,1,1.95,,,,,,18,1.95,,,"Strip","Carton",,,3.51,,,,,,,,,,,,,1.1,0.95
+1801062,"0705/26BL","Angle Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,2.6,,,,,,18,2.6,,,"Strip","Carton",,,4.68,,,,,,,,,,,,,1.45,1.25
+1801063,"0705/26CL","Angle Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,2.6,,,,,,18,2.6,,,"Strip","Carton",,,4.68,,,,,,,,,,,,,1.45,1.25
+1801064,"0705/26WH","Angle Adh. Data Strip - 1200 x 26mm CTN Qty 200","Strip",1,1,2.6,,,,,,18,2.6,,,"Strip","Carton",,,4.68,,,,,,,,,,,,,1.45,1.25
+1801065,"0770W","Plastic Pegboard Hook - Sing 50 CTN Qty 1000","Hook",1,1,0.18,,,,,,18,0.18,,,"Hook","Carton",,,0.32,,,,,,,,,,,,,0.15,0.13
+1801066,"0771B","Plastic Pegboard Hook - Sing 100 CTN Qty 1000","Hook",1,1,0.22,,,,,,18,0.22,,,"Hook","Carton",,,0.4,,,,,,,,,,,,,0.2,0.18
+1801067,"0771W","Plastic Pegboard Hook - Sing 100 CTN Qty 1000","Hook",1,1,0.21,,,,,,18,0.21,,,"Hook","Carton",,,0.38,,,,,,,,,,,,,0.17,0.15
+1801068,"0775B","Plastic Pegboard Hook - Doub 50 CTN Qty 1000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.28,0.25
+1801069,"0775W","Plastic Pegboard Hook - Doub 50 CTN Qty 1000","Hook",1,1,0.35,,,,,,18,0.35,,,"Hook","Carton",,,0.63,,,,,,,,,,,,,0.28,0.25
+1801070,"0776W","Plastic Pegboard Hook - Doub 100 CTN Qty 1000","Hook",1,1,0.4,,,,,,18,0.4,,,"Hook","Carton",,,0.72,,,,,,,,,,,,,0.33,0.3
+1801071,"0826A","Label Holder 80 X 39 CTN Qty 250","Holder",1,1,0.92,,,,,,18,0.92,,,"Holder","Carton",,,1.66,,,,,,,,,,,,,0.78,0.68
+1801072,"11300BL","a3 Plastic Frame CTN Qty 100","Frame",1,1,4.91,,,,,,18,4.91,,,"Frame","Carton",,,8.84,,,,,,,,,,,,,4.27,3.88
+1801073,"11300RD","a3 Plastic Frame CTN Qty 100","Frame",1,1,4.91,,,,,,18,4.91,,,"Frame","Carton",,,8.84,,,,,,,,,,,,,4.27,3.88
+1801074,"11300WH","a3 Plastic Frame CTN Qty 100","Frame",1,1,4.91,,,,,,18,4.91,,,"Frame","Carton",,,8.84,,,,,,,,,,,,,4.27,3.88
+1801075,"11400BL","a4 Plastic Frame CTN Qty 200","Frame",1,1,3.01,,,,,,18,3.01,,,"Frame","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1801076,"11400RD","a4 Plastic Frame CTN Qty 200","Frame",1,1,3.01,,,,,,18,3.01,,,"Frame","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1801077,"11400WH","a4 Plastic Frame CTN Qty 200","Frame",1,1,3.01,,,,,,18,3.01,,,"Frame","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1801078,"11500CL","a5 Plastic Frame CTN Qty 200","Frame",1,1,3.66,,,,,,18,3.66,,,"Frame","Carton",,,6.59,,,,,,,,,,,,,3.18,2.89
+1801079,"11500RD","a5 Plastic Frame CTN Qty 200","Frame",1,1,2.72,,,,,,18,2.72,,,"Frame","Carton",,,4.9,,,,,,,,,,,,,2.37,2.15
+1801080,"11500WH","a5 Plastic Frame CTN Qty 200","Frame",1,1,2.72,,,,,,18,2.72,,,"Frame","Carton",,,4.9,,,,,,,,,,,,,2.37,2.15
+1801081,"11600CL","a6 Plastic Frame CTN Qty 200","Frame",1,1,3.01,,,,,,18,3.01,,,"Frame","Carton",,,5.42,,,,,,,,,,,,,2.62,2.38
+1801082,"11600RD","a6 Plastic Frame CTN Qty 200","Frame",1,1,2.4,,,,,,18,2.4,,,"Frame","Carton",,,4.32,,,,,,,,,,,,,2.09,1.9
+1801083,"11600WH","a6 Plastic Frame CTN Qty 200","Frame",1,1,2.4,,,,,,18,2.4,,,"Frame","Carton",,,4.32,,,,,,,,,,,,,2.09,1.9
+1801084,"12100RD","a1 Plastic Frame CTN Qty 10","Frame",1,1,16.5,,,,,,18,16.5,,,"Frame","Carton",,,29.7,,,,,,,,,,,,,14.34,13.04
+1801085,"12100SIL","a1 Plastic Frame CTN Qty 10","Frame",1,1,36.37,,,,,,18,36.37,,,"Frame","Carton",,,65.47,,,,,,,,,,,,,31.63,28.75
+1801086,"12200CL","a2 Plastic Frame CTN Qty 20","Frame",1,1,13.16,,,,,,18,13.16,,,"Frame","Carton",,,23.69,,,,,,,,,,,,,11.44,10.4
+1801087,"12200RD","a2 Plastic Frame CTN Qty 20","Frame",1,1,9.61,,,,,,18,9.61,,,"Frame","Carton",,,17.3,,,,,,,,,,,,,8.36,7.6
+1801088,"1508A","w110 Taymar CTN Qty 150","Taynar",1,1,4.99,,,,,,18,4.99,,,"Taynar","Carton",,,8.98,,,,,,,,,,,,,4.16,3.78
+1801089,"1514A","3c160 Taymar CTN Qty 18","Taynar",1,1,19.03,,,,,,18,19.03,,,"Taynar","Carton",,,34.25,,,,,,,,,,,,,15.86,14.42
+1801090,"15402/10","Poster Rail Ii - 3000mm CTN Qty 10","Accessories",1,1,68.68,,,,,,18,68.68,,,"Accessories","Carton",,,123.62,,,,,,,,,,,,,59.72,54.29
+1801091,"1540CL","381.d.Collar CTN Qty 100","Collar",1,1,2.4,,,,,,18,2.4,,,"Collar","Carton",,,4.32,,,,,,,,,,,,,2,1.82
+1801092,"1545BP","Bottom Plate - Bp CTN Qty 10","plate",1,1,15.74,,,,,,18,15.74,,,"plate","Carton",,,28.33,,,,,,,,,,,,,13.12,11.93
+1801093,"1545TP","Top Plate - Tp CTN Qty 10","Plate",1,1,15.65,,,,,,18,15.65,,,"Plate","Carton",,,28.17,,,,,,,,,,,,,13.04,11.86
+1801094,"1550/4B","38mm s/Hold Bush CTN Qty 25","Holder",1,1,3.14,,,,,,18,3.14,,,"Holder","Carton",,,5.65,,,,,,,,,,,,,2.62,2.38
+1801095,"1550L","c/Sel a4 Land s/h CTN Qty 6","Holder",1,1,16.5,,,,,,18,16.5,,,"Holder","Carton",,,29.7,,,,,,,,,,,,,13.75,12.5
+1801096,"1550P","c/Sel a4 Port s/h CTN Qty 6","Holder",1,1,16.5,,,,,,18,16.5,,,"Holder","Carton",,,29.7,,,,,,,,,,,,,13.75,12.5
+1801097,"1554L","c/Sel a3 Land s/h CTN Qty 6","Holder",1,1,19.73,,,,,,18,19.73,,,"Holder","Carton",,,35.51,,,,,,,,,,,,,16.45,14.95
+1801098,"1554P","c/Sel a3 Port s/h CTN Qty 6","Holder",1,1,19.73,,,,,,18,19.73,,,"Holder","Carton",,,35.51,,,,,,,,,,,,,16.45,14.95
+1801099,"1555B","Star Base Cast-Br CTN Qty 25","Base",1,1,3.47,,,,,,18,3.47,,,"Base","Carton",,,6.25,,,,,,,,,,,,,2.9,2.63
+1801100,"1557BSH","Brochure Hlder Bush CTN Qty 50","Holder",1,1,5.94,,,,,,18,5.94,,,"Holder","Carton",,,10.69,,,,,,,,,,,,,4.95,4.5
+1801101,"1557TH","914mm Chr Pole-Thrd CTN Qty 20","Pole",1,1,12.87,,,,,,18,12.87,,,"Pole","Carton",,,23.17,,,,,,,,,,,,,10.73,9.75
+1801102,"15714BL","Alum. Riser - 320mm - Black CTN Qty 20","Accessories",1,1,11.27,,,,,,18,11.27,,,"Accessories","Carton",,,20.29,,,,,,,,,,,,,9.8,8.91
+1801103,"1705BL","Ziva - Blue CTN Qty 2","Ziva",1,1,420,,,,,,18,420,,,"Ziva","Carton",,,756,,,,,,,,,,,,,396.9,352.8
+1801104,"1705GR","Ziva - Graphite CTN Qty 2","Ziva",1,1,420,,,,,,18,420,,,"Ziva","Carton",,,756,,,,,,,,,,,,,396.9,352.8
+1801105,"1705RD","Ziva - Red CTN Qty 2","Ziva",1,1,420,,,,,,18,420,,,"Ziva","Carton",,,756,,,,,,,,,,,,,396.9,352.8
+1801106,"1705WH","Ziva - White CTN Qty 2","Ziva",1,1,420,,,,,,18,420,,,"Ziva","Carton",,,756,,,,,,,,,,,,,396.9,352.8
+1801107,"1705YL","Ziva - Yellow CTN Qty 2","Ziva",1,1,420,,,,,,18,420,,,"Ziva","Carton",,,756,,,,,,,,,,,,,396.9,352.8
+1801108,"1722TOP","Top Plate - Chrome CTN Qty 25","Top Plate",1,1,5.23,,,,,,18,5.23,,,"Top Plate","Carton",,,9.41,,,,,,,,,,,,,4.03,3.5
+1801109,"1730-A0","Ali-Info-Frm a0 CTN Qty 10","Holder",1,1,44.83,,,,,,18,44.83,,,"Holder","Carton",,,80.69,,,,,,,,,,,,,34.49,29.99
+1801110,"1730-A1","Ali-Info-Frm a1 CTN Qty 10","Holder",1,1,37.53,,,,,,18,37.53,,,"Holder","Carton",,,67.55,,,,,,,,,,,,,28.87,25.1
+1801111,"1730-A2","Ali-Info-Frm a2 CTN Qty 10","Holder",1,1,32.33,,,,,,18,32.33,,,"Holder","Carton",,,58.19,,,,,,,,,,,,,24.87,21.63
+1801112,"1730-A3","Ali-Info-Frm a3 CTN Qty 10","Holder",1,1,28.65,,,,,,18,28.65,,,"Holder","Carton",,,51.57,,,,,,,,,,,,,22.04,19.17
+1801113,"1730-A4","Ali-Info-Frm a4 CTN Qty 10","Holder",1,1,25.94,,,,,,18,25.94,,,"Holder","Carton",,,46.69,,,,,,,,,,,,,19.96,17.35
+1801114,"1731-A0","Clear Plastic Cover a0 CTN Qty 4","Cover",1,1,25.2,,,,,,18,25.2,,,"Cover","Carton",,,45.36,,,,,,,,,,,,,20.95,18.6
+1801115,"1731-A1","Clear Plastic Cover a1 CTN Qty 4","Cover",1,1,16.7,,,,,,18,16.7,,,"Cover","Carton",,,30.06,,,,,,,,,,,,,13.95,12.4
+1801116,"1731-A2","Clear Plastic Cover a2 CTN Qty 8","Cover",1,1,8.4,,,,,,18,8.4,,,"Cover","Carton",,,15.12,,,,,,,,,,,,,7,6.2
+1801117,"1731-A3","Clear Plastic Cover a3 CTN Qty 12","Cover",1,1,4.6,,,,,,18,4.6,,,"Cover","Carton",,,8.28,,,,,,,,,,,,,3.85,3.4
+1801118,"1731-A4","Clear Plastic Cover a4 CTN Qty 20","Cover",1,1,2.7,,,,,,18,2.7,,,"Cover","Carton",,,4.86,,,,,,,,,,,,,2.25,2
+1801119,"1739/A0","Ali-Click Back Panel CTN Qty 3","Panel",1,1,32.08,,,,,,18,32.08,,,"Panel","Carton",,,57.74,,,,,,,,,,,,,24.68,21.46
+1801120,"1739/A1","Ali-Click Back Panel CTN Qty 5","Panel",1,1,16.32,,,,,,18,16.32,,,"Panel","Carton",,,29.38,,,,,,,,,,,,,12.55,10.92
+1801121,"1739/A2","Ali-Click Back Panel CTN Qty 10","Panel",1,1,8.3,,,,,,18,8.3,,,"Panel","Carton",,,14.94,,,,,,,,,,,,,6.38,5.55
+1801122,"1739/A3","Ali-Click Back Panel CTN Qty 10","Panel",1,1,4.29,,,,,,18,4.29,,,"Panel","Carton",,,7.72,,,,,,,,,,,,,3.3,2.87
+1801123,"1739/A4","Ali-Click Back Panel CTN Qty 20","Panel",1,1,3.04,,,,,,18,3.04,,,"Panel","Carton",,,5.47,,,,,,,,,,,,,2.34,2.04
+1801124,"1740/A0","Ali-Click Wall Mount a0 CTN Qty 3","Wall Mount",1,1,114.6,,,,,,18,114.6,,,"Wall Mount","Carton",,,206.28,,,,,,,,,,,,,97.7,86.9
+1801125,"1740/A1","Ali-Click Wall Mount a1 CTN Qty 5","Wall Mount",1,1,99,,,,,,18,99,,,"Wall Mount","Carton",,,178.2,,,,,,,,,,,,,85.5,76
+1801126,"1740/A2","Ali-Click Wall Mount a2 CTN Qty 10","Wall Mount",1,1,81.9,,,,,,18,81.9,,,"Wall Mount","Carton",,,147.42,,,,,,,,,,,,,70,62.2
+1801127,"1740/A3","Ali-Click Wall Mount a3 CTN Qty 10","Wall Mount",1,1,67.5,,,,,,18,67.5,,,"Wall Mount","Carton",,,121.5,,,,,,,,,,,,,57.95,51.5
+1801128,"1740/A4","Ali-Click Wall Mount a4 CTN Qty 20","Wall Mount",1,1,61.8,,,,,,18,61.8,,,"Wall Mount","Carton",,,111.24,,,,,,,,,,,,,52.3,46.5
+1801129,"1741/A0","Ali-Click Window Mount a0 CTN Qty 3","Wall Mount",1,1,156,,,,,,18,156,,,"Wall Mount","Carton",,,280.8,,,,,,,,,,,,,133.4,118.6
+1801130,"1741/A1","Ali-Click Window Mount a1 CTN Qty 5","Wall Mount",1,1,115.5,,,,,,18,115.5,,,"Wall Mount","Carton",,,207.9,,,,,,,,,,,,,98,87.1
+1801131,"1741/A2","Ali-Click Window Mount a2 CTN Qty 10","Wall Mount",1,1,91,,,,,,18,91,,,"Wall Mount","Carton",,,163.8,,,,,,,,,,,,,77.2,68.6
+1801132,"1741/A3","Ali-Click Window Mount a3 CTN Qty 10","Wall Mount",1,1,73.2,,,,,,18,73.2,,,"Wall Mount","Carton",,,131.76,,,,,,,,,,,,,61.9,55
+1801133,"1741/A4","Ali-Click Window Mount a4 CTN Qty 20","Wall Mount",1,1,64.45,,,,,,18,64.45,,,"Wall Mount","Carton",,,116.01,,,,,,,,,,,,,55.35,49.2
+1801134,"1742/A0","Light Box Cover a0 CTN Qty 3","Cover",1,1,149.9,,,,,,18,149.9,,,"Cover","Carton",,,269.82,,,,,,,,,,,,,129.15,114.8
+1801135,"1742/A1","Light Box Cover a1 CTN Qty 5","Cover",1,1,111.5,,,,,,18,111.5,,,"Cover","Carton",,,200.7,,,,,,,,,,,,,94.6,84.1
+1801136,"1742/A2","Light Box Cover a2 CTN Qty 10","Cover",1,1,86.9,,,,,,18,86.9,,,"Cover","Carton",,,156.42,,,,,,,,,,,,,74.2,65.9
+1801137,"1742/A3","Light Box Cover a3 CTN Qty 10","Cover",1,1,69.8,,,,,,18,69.8,,,"Cover","Carton",,,125.64,,,,,,,,,,,,,59.85,53.2
+1801138,"1742/A4","Light Box Cover a4 CTN Qty 20","Cover",1,1,62.2,,,,,,18,62.2,,,"Cover","Carton",,,111.96,,,,,,,,,,,,,53.55,47.6
+1801139,"1767/4M","Panel Joiner 4000Mm Mf CTN Qty 12","Joiner",1,1,21.3,,,,,,18,21.3,,,"Joiner","Carton",,,38.34,,,,,,,,,,,,,16.38,14.25
+1801140,"1770/18","Reg Hook 450 CTN Qty 250","Hook",1,1,0.84,,,,,,18,0.84,,,"Hook","Carton",,,1.51,,,,,,,,,,,,,0.48,0.42
+1801141,"1770/24","Reg Hook 600 CTN Qty 250","Hook",1,1,1.05,,,,,,18,1.05,,,"Hook","Carton",,,1.89,,,,,,,,,,,,,0.6,0.52
+1801142,"1770/30","Reg Hook 750 CTN Qty 250","Hook",1,1,1.2,,,,,,18,1.2,,,"Hook","Carton",,,2.16,,,,,,,,,,,,,0.7,0.61
+1801143,"1770/36","Reg Hook 900 CTN Qty 250","Hook",1,1,1.5,,,,,,18,1.5,,,"Hook","Carton",,,2.7,,,,,,,,,,,,,0.85,0.74
+1801144,"1774A","Jet Wire 1.0kg To 1.5mtr CTN Qty 500","Wire",1,1,0.3,,,,,,18,0.3,,,"Wire","Carton",,,0.54,,,,,,,,,,,,,0.17,0.15
+1801145,"1774L","Jet Wire 1.0kg To 3.5mtr CTN Qty 500","Wire",1,1,0.75,,,,,,18,0.75,,,"Wire","Carton",,,1.35,,,,,,,,,,,,,0.43,0.37
+1801146,"1776/3BL","Plas-Slide-1000 CTN Qty 50","Slide",1,1,2.63,,,,,,18,2.63,,,"Slide","Carton",,,4.73,,,,,,,,,,,,,2.02,1.76
+1801147,"1776/3CL","Plas-Slide-1000 CTN Qty 50","Slide",1,1,2.63,,,,,,18,2.63,,,"Slide","Carton",,,4.73,,,,,,,,,,,,,2.02,1.76
+1801148,"1776/3WH","Plas-Slide-1000 CTN Qty 50","Slide",1,1,2.63,,,,,,18,2.63,,,"Slide","Carton",,,4.73,,,,,,,,,,,,,2.02,1.76
+1801149,"1776/4BL","Plas-Slide-1250 CTN Qty 50","Slide",1,1,3.18,,,,,,18,3.18,,,"Slide","Carton",,,5.72,,,,,,,,,,,,,2.45,2.13
+1801150,"1776/4CL","Plas-Slide-1250 CTN Qty 50","Slide",1,1,3.18,,,,,,18,3.18,,,"Slide","Carton",,,5.72,,,,,,,,,,,,,2.45,2.13
+1801151,"1776/4WH","Plas-Slide-1250 CTN Qty 50","Slide",1,1,3.18,,,,,,18,3.18,,,"Slide","Carton",,,5.72,,,,,,,,,,,,,2.45,2.13
+1801152,"1776/8BL","Plasti-Slide 2440 CTN Qty 24","Slide",1,1,6.4,,,,,,18,6.4,,,"Slide","Carton",,,11.52,,,,,,,,,,,,,4.9,4.25
+1801153,"1776/8CL","Plasti-Slide 2440 CTN Qty 24","Slide",1,1,6.4,,,,,,18,6.4,,,"Slide","Carton",,,11.52,,,,,,,,,,,,,4.9,4.25
+1801154,"1776/8WH","Plasti-Slide 2440 CTN Qty 24","Slide",1,1,6.4,,,,,,18,6.4,,,"Slide","Carton",,,11.52,,,,,,,,,,,,,4.9,4.25
+1801155,"1778SML","Low.Prof. Ali Inf CTN Qty 200",,1,1,0.41,,,,,,18,0.41,,,,"Carton",,,0.74,,,,,,,,,,,,,0.32,0.28
+1801156,"1780/10BL","Plasti-Grab-3050 - Black CTN Qty 50","Accessories",1,1,15,,,,,,18,15,,,"Accessories","Carton",,,27,,,,,,,,,,,,,8.63,7.5
+1801157,"1780/10CL","Plasti-Grab-3050 - Clear CTN Qty 50","Accessories",1,1,15,,,,,,18,15,,,"Accessories","Carton",,,27,,,,,,,,,,,,,8.63,7.5
+1801158,"1780/10WH","Plasti-Grab-3050 - White CTN Qty 50","Accessories",1,1,15,,,,,,18,15,,,"Accessories","Carton",,,27,,,,,,,,,,,,,8.63,7.5
+1801159,"1780/3BL","Plasti-Grab-1000 - Black CTN Qty 50","Accessories",1,1,7.2,,,,,,18,7.2,,,"Accessories","Carton",,,12.96,,,,,,,,,,,,,4.14,3.6
+1801160,"1780/3CL","Plasti-Grab-1000 - Clear CTN Qty 50","Accessories",1,1,7.2,,,,,,18,7.2,,,"Accessories","Carton",,,12.96,,,,,,,,,,,,,4.14,3.6
+1801161,"1780/3WH","Plasti-Grab-1000 - White CTN Qty 50","Accessories",1,1,7.2,,,,,,18,7.2,,,"Accessories","Carton",,,12.96,,,,,,,,,,,,,4.14,3.6
+1801162,"1780/4BL","Plasti-Grab-1250 - Black CTN Qty 50","Accessories",1,1,9,,,,,,18,9,,,"Accessories","Carton",,,16.2,,,,,,,,,,,,,5.18,4.5
+1801163,"1780/4CL","Plasti-Grab-1250- Clear CTN Qty 50","Accessories",1,1,9,,,,,,18,9,,,"Accessories","Carton",,,16.2,,,,,,,,,,,,,5.18,4.5
+1801164,"1780/4WH","Plasti-Grab-1250 - White CTN Qty 50","Accessories",1,1,9,,,,,,18,9,,,"Accessories","Carton",,,16.2,,,,,,,,,,,,,5.18,4.5
+1801165,"1780/8BL","Plasti-Grab-2450 - Black CTN Qty 50","Accessories",1,1,12.5,,,,,,18,12.5,,,"Accessories","Carton",,,22.5,,,,,,,,,,,,,7.19,6.25
+1801166,"1780/8CL","Plasti-Grab-2450 - White CTN Qty 50","Accessories",1,1,12.5,,,,,,18,12.5,,,"Accessories","Carton",,,22.5,,,,,,,,,,,,,7.19,6.25
+1801167,"1780/8WH","Plasti-Grab-2450- Clear CTN Qty 50","Accessories",1,1,12.5,,,,,,18,12.5,,,"Accessories","Carton",,,22.5,,,,,,,,,,,,,7.19,6.25
+1801168,"1787/3AN","Ali-Inf-1000 - Clear Anod. CTN Qty 50","Accessories",1,1,7.61,,,,,,18,7.61,,,"Accessories","Carton",,,13.7,,,,,,,,,,,,,5.85,5.09
+1801169,"1787/3PS","Ali-Inf-1000 - Polish Silver CTN Qty 50","Accessories",1,1,9.27,,,,,,18,9.27,,,"Accessories","Carton",,,16.69,,,,,,,,,,,,,7.13,6.2
+1801170,"1787/4AN","Ali-Inf-1250 - Clear Anod. CTN Qty 50","Accessories",1,1,9.13,,,,,,18,9.13,,,"Accessories","Carton",,,16.43,,,,,,,,,,,,,7.02,6.11
+1801171,"1787/4PS","Ali-Inf-1250 - Polish Silver CTN Qty 50","Accessories",1,1,11.2,,,,,,18,11.2,,,"Accessories","Carton",,,20.16,,,,,,,,,,,,,8.62,7.49
+1801172,"1787/5MAN","Ali-Inf-5m - Full - Clear Anod. CTN Qty 25","Accessories",1,1,33.55,,,,,,18,33.55,,,"Accessories","Carton",,,60.39,,,,,,,,,,,,,25.81,22.44
+1801173,"1787/5MPS","Ali-Inf-5m - Full - Polish Silver CTN Qty 25","Accessories",1,1,42.32,,,,,,18,42.32,,,"Accessories","Carton",,,76.18,,,,,,,,,,,,,32.55,28.31
+1801174,"1787/8AN","Ali-Inf-2500 - Clear Anod. CTN Qty 25","Accessories",1,1,17.98,,,,,,18,17.98,,,"Accessories","Carton",,,32.36,,,,,,,,,,,,,13.83,12.03
+1801175,"1787/8PS","Ali-Inf-2500 - Polish Silver CTN Qty 25","Accessories",1,1,22.13,,,,,,18,22.13,,,"Accessories","Carton",,,39.83,,,,,,,,,,,,,17.02,14.8
+1801176,"1787H/5MAN","Ali-Inf-5m - Half - Clear Anod. CTN Qty 25","Accessories",1,1,17.15,,,,,,18,17.15,,,"Accessories","Carton",,,30.87,,,,,,,,,,,,,13.19,11.47
+1801177,"1787H/5MPS","Ali-Inf-5m - Half - Polish Silver CTN Qty 25","Accessories",1,1,21.16,,,,,,18,21.16,,,"Accessories","Carton",,,38.09,,,,,,,,,,,,,16.28,14.15
+1801178,"1789/3AN","Ali-Inf+Plas Sld-1000 - Clear Anod. CTN Qty 50","Accessories",1,1,9.82,,,,,,18,9.82,,,"Accessories","Carton",,,17.68,,,,,,,,,,,,,7.55,6.57
+1801179,"1789/3PS","Ali-Inf+Plas Sld-1000 - Polish Silver CTN Qty 50","Accessories",1,1,11.89,,,,,,18,11.89,,,"Accessories","Carton",,,21.4,,,,,,,,,,,,,9.15,7.96
+1801180,"1789/4AN","Ali-Inf+Plas Sld-1250 - Clear Anod. CTN Qty 50","Accessories",1,1,12.31,,,,,,18,12.31,,,"Accessories","Carton",,,22.16,,,,,,,,,,,,,9.47,8.23
+1801181,"1789/4PS","Ali-Inf+Plas Sld-1250 - Polish Silver CTN Qty 50","Accessories",1,1,14.38,,,,,,18,14.38,,,"Accessories","Carton",,,25.88,,,,,,,,,,,,,11.06,9.62
+1801182,"1789/8AN","Ali-Inf+Plas Sld-2500 - Clear Anod. CTN Qty 50","Accessories",1,1,24.62,,,,,,18,24.62,,,"Accessories","Carton",,,44.32,,,,,,,,,,,,,18.93,16.47
+1801183,"1789/8PS","Ali-Inf+Plas Sld-2500 - Polish Silver CTN Qty 50","Accessories",1,1,28.76,,,,,,18,28.76,,,"Accessories","Carton",,,51.77,,,,,,,,,,,,,22.13,19.24
+1801184,"1792/3AN","Ali-Inf+Plas Grb-1000 - Clear Anod. CTN Qty 50","Accessories",1,1,11.06,,,,,,18,11.06,,,"Accessories","Carton",,,19.91,,,,,,,,,,,,,8.51,7.4
+1801185,"1792/3PS","Ali-Inf+Plas Grb-1000 - Polish Silver CTN Qty 50","Accessories",1,1,12.72,,,,,,18,12.72,,,"Accessories","Carton",,,22.9,,,,,,,,,,,,,9.79,8.51
+1801186,"1792/4AN","Ali-Inf+Plas Grb-1250 - Clear Anod. CTN Qty 50","Accessories",1,1,13.83,,,,,,18,13.83,,,"Accessories","Carton",,,24.89,,,,,,,,,,,,,10.64,9.25
+1801187,"1792/4PS","Ali-Inf+Plas Grb-1250 - Polish Silver CTN Qty 50","Accessories",1,1,15.9,,,,,,18,15.9,,,"Accessories","Carton",,,28.62,,,,,,,,,,,,,12.23,10.64
+1801188,"1792/8AN","Ali-Inf+Plas Grb-2500 - Clear Anod. CTN Qty 25","Accessories",1,1,26.27,,,,,,18,26.27,,,"Accessories","Carton",,,47.29,,,,,,,,,,,,,20.21,17.58
+1801189,"1792/8PS","Ali-Inf+Plas Grb-2500 - Polish Silver CTN Qty 25","Accessories",1,1,30.42,,,,,,18,30.42,,,"Accessories","Carton",,,54.76,,,,,,,,,,,,,23.4,20.35
+1801190,"1794A","Front Frame-An 5.0- Clear Anod. CTN Qty 10","Frame",1,1,32.82,,,,,,18,32.82,,,"Frame","Carton",,,59.08,,,,,,,,,,,,,25.24,21.95
+1801191,"1794M","Front Frame-Mf 5.0 - Mill CTN Qty 10","Frame",1,1,22.95,,,,,,18,22.95,,,"Frame","Carton",,,41.31,,,,,,,,,,,,,17.65,15.35
+1801192,"1795A","Back Frame-An 5.0- Clear Anod. CTN Qty 10","Frame",1,1,31.32,,,,,,18,31.32,,,"Frame","Carton",,,56.38,,,,,,,,,,,,,24.09,20.95
+1801193,"1795M","Back Frame-Mf 5.0- Mill CTN Qty 10","Frame",1,1,22.2,,,,,,18,22.2,,,"Frame","Carton",,,39.96,,,,,,,,,,,,,17.08,14.85
+1801194,"1796A","Back l/Box Fr-An-5.0- Clear Anod. CTN Qty 10","Accessories",1,1,30.35,,,,,,18,30.35,,,"Accessories","Carton",,,54.63,,,,,,,,,,,,,23.35,20.3
+1801195,"1797BL","Plas Corn - Grey CTN Qty 50","Accessories",1,1,4.71,,,,,,18,4.71,,,"Accessories","Carton",,,8.48,,,,,,,,,,,,,3.62,3.15
+1801196,"1797GR","Plas Corn - Black CTN Qty 50","Accessories",1,1,4.71,,,,,,18,4.71,,,"Accessories","Carton",,,8.48,,,,,,,,,,,,,3.62,3.15
+1801197,"1798C","Corncap - Plas - Chrome CTN Qty 50","Accessories",1,1,2.69,,,,,,18,2.69,,,"Accessories","Carton",,,4.84,,,,,,,,,,,,,2.07,1.8
+1801198,"1798S","Corn Cap - Plas - Satin CTN Qty 50","Accessories",1,1,2.69,,,,,,18,2.69,,,"Accessories","Carton",,,4.84,,,,,,,,,,,,,2.07,1.8
+1801199,"1800L","1.5 Cable Kit-5m CTN Qty 25","Kit",1,1,31,,,,,,18,31,,,"Kit","Carton",,,55.8,,,,,,,,,,,,,23.5,17.5
+1801200,"1803BTM","Hanging Kit Bottom CTN Qty 100","Kit",1,1,5.5,,,,,,18,5.5,,,"Kit","Carton",,,9.9,,,,,,,,,,,,,4.15,3.65
+1801201,"1807BTM","Hanging Kit Bottom CTN Qty 100","Kit",1,1,5.5,,,,,,18,5.5,,,"Kit","Carton",,,9.9,,,,,,,,,,,,,4.15,3.65
+1801202,"1809BTM","Hanging Kit Bottom CTN Qty 100","Kit",1,1,5.5,,,,,,18,5.5,,,"Kit","Carton",,,9.9,,,,,,,,,,,,,4.15,3.65
+1801203,"1840 (p36)","Rod Hanging Kit CTN Qty 20","Kit",1,1,33.6,,,,,,18,33.6,,,"Kit","Carton",,,60.48,,,,,,,,,,,,,28.6,24.9
+1801204,"1840 (p42)","Rod Hanging Kits CTN Qty 20","Kit",1,1,19.9,,,,,,18,19.9,,,"Kit","Carton",,,35.82,,,,,,,,,,,,,17,14.75
+1801205,"1881L","Single Pocket a4 Landscape CTN Qty 100","Pocket",1,1,8.5,,,,,,18,8.5,,,"Pocket","Carton",,,15.3,,,,,,,,,,,,,7.1,6.25
+1801206,"1881P","Single Pocket a4 Portrait CTN Qty 100","Pocket",1,1,7.8,,,,,,18,7.8,,,"Pocket","Carton",,,14.04,,,,,,,,,,,,,6.7,5.95
+1801207,"1882L","Double Pocket a4 Landscape CTN Qty 50","Pocket",1,1,21.8,,,,,,18,21.8,,,"Pocket","Carton",,,39.24,,,,,,,,,,,,,19.35,17.2
+1801208,"1882P","Double Pocket a4 Portrait CTN Qty 50","Pocket",1,1,17.4,,,,,,18,17.4,,,"Pocket","Carton",,,31.32,,,,,,,,,,,,,15.4,13.75
+1801209,"1883P","Triple Pocket a4 Portrait CTN Qty 50","Pocket",1,1,25.9,,,,,,18,25.9,,,"Pocket","Carton",,,46.62,,,,,,,,,,,,,23,20.5
+1801210,"1885L","Single Pocket a3 Landscape CTN Qty 50","Pocket",1,1,17.4,,,,,,18,17.4,,,"Pocket","Carton",,,31.32,,,,,,,,,,,,,15.4,13.75
+1801211,"1885P","Single Pocket a3  Portrait CTN Qty 25","Pocket",1,1,19.35,,,,,,18,19.35,,,"Pocket","Carton",,,34.83,,,,,,,,,,,,,17.2,15.3
+1801212,"1886P","Double a3 Portrait CTN Qty 25","Holder",1,1,37.8,,,,,,18,37.8,,,"Holder","Carton",,,68.04,,,,,,,,,,,,,33.6,29.9
+1801213,"1890L","Single Pocket a0 Landscape CTN Qty 10","Pocket",1,1,123.2,,,,,,18,123.2,,,"Pocket","Carton",,,221.76,,,,,,,,,,,,,109.5,97.3
+1801214,"1890P","Single Pocket a0  Portrait CTN Qty 10","Pocket",1,1,130.2,,,,,,18,130.2,,,"Pocket","Carton",,,234.36,,,,,,,,,,,,,115.8,103
+1801215,"1891L","Single Pocket a1 Landscape CTN Qty 10","Pocket",1,1,63.6,,,,,,18,63.6,,,"Pocket","Carton",,,114.48,,,,,,,,,,,,,56.5,50.2
+1801216,"1891P","Single Pocket a1  Portrait CTN Qty 10","Pocket",1,1,71.8,,,,,,18,71.8,,,"Pocket","Carton",,,129.24,,,,,,,,,,,,,63.8,56.7
+1801217,"1892L","Single Pocket a2 Landscape CTN Qty 25","Pocket",1,1,37.8,,,,,,18,37.8,,,"Pocket","Carton",,,68.04,,,,,,,,,,,,,33.6,29.9
+1801218,"1892P","Single Pocket a2  Portrait CTN Qty 25","Pocket",1,1,34.8,,,,,,18,34.8,,,"Pocket","Carton",,,62.64,,,,,,,,,,,,,30.9,27.5
+1801219,"20010BL","t-Piece - 60mm CTN Qty 200","Accessories",1,1,1.35,,,,,,18,1.35,,,"Accessories","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1801220,"20010CL","t-Piece - 60mm CTN Qty 200","Accessories",1,1,1.57,,,,,,18,1.57,,,"Accessories","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1801221,"20010RD","t-Piece - 60mm CTN Qty 200","Accessories",1,1,1.35,,,,,,18,1.35,,,"Accessories","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1801222,"20010WH","t-Piece - 60mm CTN Qty 200","Accessories",1,1,1.35,,,,,,18,1.35,,,"Accessories","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1801223,"20011CL","t-Piece -90mm CTN Qty 200","Accessories",1,1,1.57,,,,,,18,1.57,,,"Accessories","Carton",,,2.83,,,,,,,,,,,,,1.36,1.24
+1801224,"20011RD","t-Piece -90mm CTN Qty 200","Accessories",1,1,1.35,,,,,,18,1.35,,,"Accessories","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1801225,"20011WH","t-Piece -90mm CTN Qty 200","Accessories",1,1,1.35,,,,,,18,1.35,,,"Accessories","Carton",,,2.43,,,,,,,,,,,,,1.18,1.07
+1801226,"20022CL","t-Piece - 160mm CTN Qty 200","Accessories",1,1,3.76,,,,,,18,3.76,,,"Accessories","Carton",,,6.77,,,,,,,,,,,,,3.27,2.97
+1801227,"20340BK","Plastic Base - 160 dia. CTN Qty 20","Base",1,1,11.79,,,,,,18,11.79,,,"Base","Carton",,,21.22,,,,,,,,,,,,,10.25,9.32
+1801228,"20340RD","Plastic Base - 160 dia. CTN Qty 20","Base",1,1,11.79,,,,,,18,11.79,,,"Base","Carton",,,21.22,,,,,,,,,,,,,10.25,9.32
+1801229,"20340WH","Plastic Base - 160 dia. CTN Qty 20","Base",1,1,11.79,,,,,,18,11.79,,,"Base","Carton",,,21.22,,,,,,,,,,,,,10.25,9.32
+1801230,"20390RD","'Frame Base For ''t'' CTN Qty 20'","Frame",1,1,5.43,,,,,,18,5.43,,,"Frame","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1801231,"20390WH","'Frame Base For ''t'' CTN Qty 20'","Frame",1,1,5.43,,,,,,18,5.43,,,"Frame","Carton",,,9.77,,,,,,,,,,,,,4.72,4.29
+1801232,"2064/49","Metal Star Base & Pole CTN Qty 5","Base/Pole",1,1,77.4,,,,,,18,77.4,,,"Base/Pole","Carton",,,139.32,,,,,,,,,,,,,67.3,59.9
+1801233,"2201L","Orthagonal Joint Lhs CTN Qty 10","Accessories",1,1,4,,,,,,18,4,,,"Accessories","Carton",,,7.2,,,,,,,,,,,,,3.48,3.16
+1801234,"2201R","Orthagonal Joint Rhs CTN Qty 10","Accessories",1,1,4,,,,,,18,4,,,"Accessories","Carton",,,7.2,,,,,,,,,,,,,3.48,3.16
+1801235,"2231L","Cross Joints Lhs CTN Qty 10","Accessories",1,1,4.43,,,,,,18,4.43,,,"Accessories","Carton",,,7.97,,,,,,,,,,,,,3.85,3.5
+1801236,"2231R","Cross Joints Rhs CTN Qty 10","Accessories",1,1,4.43,,,,,,18,4.43,,,"Accessories","Carton",,,7.97,,,,,,,,,,,,,3.85,3.5
+1801237,"2236A","Panel Support Clear CTN Qty 25","Panel",1,1,1.14,,,,,,18,1.14,,,"Panel","Carton",,,2.05,,,,,,,,,,,,,0.99,0.9
+1801238,"2238A","Panel Support Clear CTN Qty 25","Panel",1,1,0.57,,,,,,18,0.57,,,"Panel","Carton",,,1.03,,,,,,,,,,,,,0.5,0.45
+1801239,"2251L","Angle Shelf Support Rhs CTN Qty 10","Shelf",1,1,10.73,,,,,,18,10.73,,,"Shelf","Carton",,,19.31,,,,,,,,,,,,,9.33,8.48
+1801240,"2251R","Angle Shelf Support Lhs CTN Qty 10","Clamp",1,1,10.73,,,,,,18,10.73,,,"Clamp","Carton",,,19.31,,,,,,,,,,,,,9.33,8.48
+1801241,"22570/7","Poster Rail Grip Strip - 2000mm CTN Qty 20","Strip",1,1,12.62,,,,,,18,12.62,,,"Strip","Carton",,,22.72,,,,,,,,,,,,,10.98,9.98
+1801242,"2301C","Primo 25x25 Crom. 3 Way Joint CTN Qty 10","Accessories",1,1,9.34,,,,,,18,9.34,,,"Accessories","Carton",,,16.81,25,25,,,,,,,,,,,8.12,7.38
+1801243,"2301SC","Primo 25x25 Satin. 3 Way Joint CTN Qty 10","Accessories",1,1,12.84,,,,,,18,12.84,,,"Accessories","Carton",,,23.11,25,25,,,,,,,,,,,11.17,10.15
+1801244,"2302C","Primo 25x25 Crom. 4 Way Joint CTN Qty 10","Accessories",1,1,11.2,,,,,,18,11.2,,,"Accessories","Carton",,,20.16,25,25,,,,,,,,,,,9.74,8.85
+1801245,"2302SC","Primo 25x25 Satin. 4 Way Joint CTN Qty 10","Accessories",1,1,13.78,,,,,,18,13.78,,,"Accessories","Carton",,,24.8,25,25,,,,,,,,,,,11.98,10.89
+1801246,"2303C","Primo 25x25 Crom. 5 Way Joint CTN Qty 10","Accessories",1,1,12.32,,,,,,18,12.32,,,"Accessories","Carton",,,22.18,25,25,,,,,,,,,,,10.71,9.74
+1801247,"2303SC","Primo 25x25 Satin. 5 Way Joint CTN Qty 10","Accessories",1,1,14.47,,,,,,18,14.47,,,"Accessories","Carton",,,26.05,25,25,,,,,,,,,,,12.58,11.44
+1801248,"2305C","'Primo 25x25 Crom. 3 Way Joint ''l'' CTN Qty 10'","Accessories",1,1,8.82,,,,,,18,8.82,,,"Accessories","Carton",,,15.88,25,25,,,,,,,,,,,7.67,6.97
+1801249,"2305SC","'Primo 25x25 Satin. 3 Way Joint ''l'' CTN Qty 10'","Accessories",1,1,13.19,,,,,,18,13.19,,,"Accessories","Carton",,,23.74,25,25,,,,,,,,,,,11.47,10.43
+1801250,"2306C","'Primo 25x25 Crom. 3 Way Joint ''t'' CTN Qty 10'","Accessories",1,1,10.47,,,,,,18,10.47,,,"Accessories","Carton",,,18.85,25,25,,,,,,,,,,,9.11,8.28
+1801251,"2306SC","'Primo 25x25 Satin. 3 Way Joint ''t'' CTN Qty 10'","Accessories",1,1,13.78,,,,,,18,13.78,,,"Accessories","Carton",,,24.8,25,25,,,,,,,,,,,11.98,10.89
+1801252,"2307C","Primo 25x25 Crom. 4 Way Joint Cross CTN Qty 10","Accessories",1,1,11.78,,,,,,18,11.78,,,"Accessories","Carton",,,21.2,25,25,,,,,,,,,,,10.24,9.31
+1801253,"2307SC","Primo 25x25 Satin. 4 Way Joint Cross CTN Qty 10","Accessories",1,1,14.24,,,,,,18,14.24,,,"Accessories","Carton",,,25.63,25,25,,,,,,,,,,,12.39,11.26
+1801254,"2308C","Primo 25x25 Crom. -3 Mtr CTN Qty 6","Accessories",1,1,26.65,,,,,,18,26.65,,,"Accessories","Carton",,,47.97,3000,25,,,,,,,,,,,23.18,21.07
+1801255,"2308SC","Primo 25x25 Satin. - 3mtr CTN Qty 6","Accessories",1,1,37.87,,,,,,18,37.87,,,"Accessories","Carton",,,68.17,3000,25,,,,,,,,,,,32.93,29.94
+1801256,"2309/5C","Primo l.1475 25x25 Crom. Slot 2 Side CTN Qty 6","Accessories",1,1,68.41,,,,,,18,68.41,,,"Accessories","Carton",,,123.14,25,25,,,,,,,,,,,59.49,54.08
+1801257,"2309/8SC","Primo l.2375 25x25 Crom. Slot 2 Side CTN Qty 6","Accessories",1,1,79.72,,,,,,18,79.72,,,"Accessories","Carton",,,143.5,25,25,,,,,,,,,,,69.32,63.02
+1801258,"2310/5C","Primo l.1475 25x25 Crom. Slot 4 Side CTN Qty 6","Accessories",1,1,84.6,,,,,,18,84.6,,,"Accessories","Carton",,,152.28,25,25,,,,,,,,,,,73.57,66.88
+1801259,"2310/8C","Primo l.2375 25x25 Crom. Slot 4 Side CTN Qty 6","Accessories",1,1,96.42,,,,,,18,96.42,,,"Accessories","Carton",,,173.56,25,25,,,,,,,,,,,83.84,76.22
+1801260,"2329/12C","Primo l.300 Shelf Brkt - Pr CTN Qty 10","Bracket",1,1,29.56,,,,,,18,29.56,,,"Bracket","Carton",,,53.21,,,,,,,,,,,,,25.71,23.37
+1801261,"2329/26C","Primo l.625 Shelf Brkt - Pr CTN Qty 10","Bracket",1,1,35.5,,,,,,18,35.5,,,"Bracket","Carton",,,63.9,,,,,,,,,,,,,30.87,28.06
+1801262,"2330C","Primo l.300 Shelf Brkt - Pr CTN Qty 10","Bracket",1,1,30.09,,,,,,18,30.09,,,"Bracket","Carton",,,54.16,,,,,,,,,,,,,26.17,23.79
+1801263,"2331C","Primo l.100 Wall Spacer CTN Qty 10","Accessories",1,1,18.25,,,,,,18,18.25,,,"Accessories","Carton",,,32.85,,,,,,,,,,,,,15.87,14.43
+1801264,"2371C","Primo System 25x25 Flange.Crom CTN Qty 10","Accessories",1,1,3.04,,,,,,18,3.04,,,"Accessories","Carton",,,5.47,,,,,,,,,,,,,2.64,2.4
+1801265,"2371SC","Primo System 25x25 Flange Satin. CTN Qty 10","Accessories",1,1,3.66,,,,,,18,3.66,,,"Accessories","Carton",,,6.59,,,,,,,,,,,,,3.18,2.89
+1801266,"2372C","Primo Panel Support - Crom. CTN Qty 10","Support",1,1,4.06,,,,,,18,4.06,,,"Support","Carton",,,7.31,,,,,,,,,,,,,3.53,3.21
+1801267,"2373SC","Primo Panel Support - Satin CTN Qty 10","Support",1,1,6.41,,,,,,18,6.41,,,"Support","Carton",,,11.54,,,,,,,,,,,,,5.58,5.07
+1801268,"2374C","Primo Glass Shelf Support - Crom. CTN Qty 10","Support",1,1,3.91,,,,,,18,3.91,,,"Support","Carton",,,7.04,,,,,,,,,,,,,3.4,3.09
+1801269,"2374SC","Primo Glass Shelf Support - Satin CTN Qty 10","Support",1,1,6.34,,,,,,18,6.34,,,"Support","Carton",,,11.41,,,,,,,,,,,,,5.51,5.01
+1801270,"2375C","Primo Mel. Shelf Support - Crom. CTN Qty 10","Support",1,1,2.82,,,,,,18,2.82,,,"Support","Carton",,,5.08,,,,,,,,,,,,,2.45,2.23
+1801271,"2375SC","Primo Mel. Shelf Support - Satin CTN Qty 10","Support",1,1,5.65,,,,,,18,5.65,,,"Support","Carton",,,10.17,,,,,,,,,,,,,4.92,4.47
+1801272,"2376C","Primo Mel. Shelf Supp - Dbl - Crom. CTN Qty 10","Support",1,1,2.82,,,,,,18,2.82,,,"Support","Carton",,,5.08,,,,,,,,,,,,,2.45,2.23
+1801273,"2376SC","Primo Mel. Shelf Supp - Dbl - Satin CTN Qty 10","Support",1,1,5.65,,,,,,18,5.65,,,"Support","Carton",,,10.17,,,,,,,,,,,,,4.92,4.47
+1801274,"2377C","Primo Panel Hook - Crom. CTN Qty 10","Hook",1,1,2.31,,,,,,18,2.31,,,"Hook","Carton",,,4.16,,,,,,,,,,,,,2.01,1.83
+1801275,"2377SC","Primo Panel Hook - Satin. CTN Qty 10","Hook",1,1,5.4,,,,,,18,5.4,,,"Hook","Carton",,,9.72,,,,,,,,,,,,,4.7,4.27
+1801276,"2378C","Primo Panel Hook -Dbl- Crom. CTN Qty 10","Hook",1,1,2.31,,,,,,18,2.31,,,"Hook","Carton",,,4.16,,,,,,,,,,,,,2.01,1.83
+1801277,"2378SC","Primo Panel Hook - Dbl - Satin. CTN Qty 10","Hook",1,1,5.4,,,,,,18,5.4,,,"Hook","Carton",,,9.72,,,,,,,,,,,,,4.7,4.27
+1801278,"23815 (p82)","Spring Clamp W/ Swivel Adaptor CTN Qty 100","Clamp",1,1,1.5,,,,,,18,1.5,,,"Clamp","Carton",,,2.7,,,,,,,,,,,,,1.2,0.95
+1801279,"23815(p81)","Klick Swivel Hinge CTN Qty 100","Hinge",1,1,0.63,,,,,,18,0.63,,,"Hinge","Carton",,,1.13,,,,,,,,,,,,,0.55,0.5
+1801280,"24105A","Folded Number Strips 6 Lge CTN Qty 100","Strip",1,1,4.1,,,,,,18,4.1,,,"Strip","Carton",,,7.38,,,,,,,,,,,,,3.35,2.9
+1801281,"24126A","Folded Number Strips 6 Lge CTN Qty 100","Strip",1,1,6.8,,,,,,18,6.8,,,"Strip","Carton",,,12.24,,,,,,,,,,,,,5.6,4.85
+1801282,"24128/48","Clear Pvc Sheet CTN Qty 200","Sheet",1,1,0.98,,,,,,18,0.98,,,"Sheet","Carton",,,1.76,,,,,,,,,,,,,0.8,0.68
+1801283,"2417/20","Uno System - 18-20mm Panel Sleeve CTN Qty 100","Panel",1,1,0.65,,,,,,18,0.65,,,"Panel","Carton",,,1.17,,,,,,,,,,,,,0.56,0.51
+1801284,"2501/110C","Tritix l. 1100 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,41.14,,,,,,18,41.14,,,"Tube","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801285,"2501/110P/C","Tritix l. 1100 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,36,,,,,,18,36,,,"Tube","Carton",,,64.8,,,,,,,,,,,,,31.31,28.46
+1801286,"2501/220C","Tritix l. 2200 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,74.57,,,,,,18,74.57,,,"Tube","Carton",,,134.23,,,,,,,,,,,,,64.85,58.95
+1801287,"2501/220P/C","Tritix l. 2200 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,69.44,,,,,,18,69.44,,,"Tube","Carton",,,124.99,,,,,,,,,,,,,60.38,54.89
+1801288,"2501/240C","Tritix l. 2400 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,87.44,,,,,,18,87.44,,,"Tube","Carton",,,157.39,,,,,,,,,,,,,76.03,69.12
+1801289,"2501/240P/C","Tritix l. 2400 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,79.72,,,,,,18,79.72,,,"Tube","Carton",,,143.5,,,,,,,,,,,,,69.32,63.02
+1801290,"2501/300C","Tritix l. 3000 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,102.86,,,,,,18,102.86,,,"Tube","Carton",,,185.15,,,,,,,,,,,,,89.44,81.31
+1801291,"2501/300P/C","Tritix l. 3000 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,92.57,,,,,,18,92.57,,,"Tube","Carton",,,166.63,,,,,,,,,,,,,80.5,73.18
+1801292,"2501/50C","Tritix l. 500 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,30.85,,,,,,18,30.85,,,"Tube","Carton",,,55.53,,,,,,,,,,,,,26.83,24.39
+1801293,"2501/50P/C","Tritix l. 500 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,25.72,,,,,,18,25.72,,,"Tube","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801294,"2501/80C","Tritix l. 800 Dbl. Tube - Chrome CTN Qty 6","Tube",1,1,36,,,,,,18,36,,,"Tube","Carton",,,64.8,,,,,,,,,,,,,31.31,28.46
+1801295,"2501/80P/C","Tritix l. 800 Dbl. Tube - p/Coat CTN Qty 6","Tube",1,1,30.85,,,,,,18,30.85,,,"Tube","Carton",,,55.53,,,,,,,,,,,,,26.83,24.39
+1801296,"2502/110C","Tritix l. 1100 Triangle Column - Chrome CTN Qty 6","Column",1,1,92.57,,,,,,18,92.57,,,"Column","Carton",,,166.63,,,,,,,,,,,,,80.5,73.18
+1801297,"2502/110P/C","Tritix l. 1100 Triangle Column - p/Coat CTN Qty 6","Column",1,1,87.44,,,,,,18,87.44,,,"Column","Carton",,,157.39,,,,,,,,,,,,,76.03,69.12
+1801298,"2502/220C","Tritix l. 2200 Triangle Column - Chrome CTN Qty 6","Column",1,1,154.29,,,,,,18,154.29,,,"Column","Carton",,,277.72,,,,,,,,,,,,,134.17,121.97
+1801299,"2502/220P/C","Tritix l. 2200 Triangle Column - p/Coat CTN Qty 6","Column",1,1,144.01,,,,,,18,144.01,,,"Column","Carton",,,259.22,,,,,,,,,,,,,125.22,113.84
+1801300,"2502/240C","Tritix l. 2400 Triangle Column - Chrome CTN Qty 6","Column",1,1,169.71,,,,,,18,169.71,,,"Column","Carton",,,305.48,,,,,,,,,,,,,147.58,134.16
+1801301,"2502/240P/C","Tritix l. 2400 Triangle Column - p/Coat CTN Qty 6","Column",1,1,159.43,,,,,,18,159.43,,,"Column","Carton",,,286.97,,,,,,,,,,,,,138.63,126.03
+1801302,"2502/300C","Tritix l. 3000 Triangle Column - Chrome CTN Qty 6","Column",1,1,200.58,,,,,,18,200.58,,,"Column","Carton",,,361.04,,,,,,,,,,,,,174.42,158.56
+1801303,"2502/300P/C","Tritix l. 3000 Triangle Column - p/Coat CTN Qty 6","Column",1,1,190.29,,,,,,18,190.29,,,"Column","Carton",,,342.52,,,,,,,,,,,,,165.47,150.43
+1801304,"2502/50C","Tritix l. 500 Triangle Column - Chrome CTN Qty 6","Column",1,1,43.72,,,,,,18,43.72,,,"Column","Carton",,,78.7,,,,,,,,,,,,,38.02,34.56
+1801305,"2502/50P/C","Tritix l. 500 Triangle Column - p/Coat CTN Qty 6","Column",1,1,38.57,,,,,,18,38.57,,,"Column","Carton",,,69.43,,,,,,,,,,,,,33.54,30.49
+1801306,"2502/80C","Tritix l. 800 Triangle Column - Chrome CTN Qty 6","Column",1,1,66.86,,,,,,18,66.86,,,"Column","Carton",,,120.35,,,,,,,,,,,,,58.14,52.85
+1801307,"2502/80P/C","Tritix l. 800 Triangle Column - p/Coat CTN Qty 6","Column",1,1,61.72,,,,,,18,61.72,,,"Column","Carton",,,111.1,,,,,,,,,,,,,53.67,48.79
+1801308,"2503/110C","Tritix l. 1100 Square Column - Chrome CTN Qty 6","Column",1,1,92.57,,,,,,18,92.57,,,"Column","Carton",,,166.63,,,,,,,,,,,,,80.5,73.18
+1801309,"2503/110P/C","Tritix l. 1100 Square Column - p/Coat CTN Qty 6","Column",1,1,87.44,,,,,,18,87.44,,,"Column","Carton",,,157.39,,,,,,,,,,,,,76.03,69.12
+1801310,"2503/220C","Tritix l. 2200 Square Column - Chrome CTN Qty 6","Column",1,1,144.01,,,,,,18,144.01,,,"Column","Carton",,,259.22,,,,,,,,,,,,,125.22,113.84
+1801311,"2503/220P/C","Tritix l. 2200 Square Column - p/Coat CTN Qty 6","Column",1,1,133.72,,,,,,18,133.72,,,"Column","Carton",,,240.7,,,,,,,,,,,,,116.28,105.71
+1801312,"2503/240C","Tritix l. 2400 Square Column - Chrome CTN Qty 6","Column",1,1,169.71,,,,,,18,169.71,,,"Column","Carton",,,305.48,,,,,,,,,,,,,147.58,134.16
+1801313,"2503/240P/C","Tritix l. 2400 Square Column - p/Coat CTN Qty 6","Column",1,1,154.29,,,,,,18,154.29,,,"Column","Carton",,,277.72,,,,,,,,,,,,,134.17,121.97
+1801314,"2503/300C","Tritix l. 3000 Square Column - Chrome CTN Qty 6","Column",1,1,210.86,,,,,,18,210.86,,,"Column","Carton",,,379.55,,,,,,,,,,,,,183.36,166.69
+1801315,"2503/300P/C","Tritix l. 3000 Square Column - p/Coat CTN Qty 6","Column",1,1,195.43,,,,,,18,195.43,,,"Column","Carton",,,351.77,,,,,,,,,,,,,169.94,154.49
+1801316,"2503/50C","Tritix l. 500 Square Column - Chrome CTN Qty 6","Column",1,1,51.43,,,,,,18,51.43,,,"Column","Carton",,,92.57,,,,,,,,,,,,,44.73,40.66
+1801317,"2503/50P/C","Tritix l. 500 Square Column - p/Coat CTN Qty 6","Column",1,1,46.29,,,,,,18,46.29,,,"Column","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801318,"2503/80C","Tritix l. 800 Square Column - Chrome CTN Qty 6","Column",1,1,69.44,,,,,,18,69.44,,,"Column","Carton",,,124.99,,,,,,,,,,,,,60.38,54.89
+1801319,"2503/80P/C","Tritix l. 800 Square Column - p/Coat CTN Qty 6","Column",1,1,61.72,,,,,,18,61.72,,,"Column","Carton",,,111.1,,,,,,,,,,,,,53.67,48.79
+1801320,"2504C","Tritix Sing. Vertical Bend - Chrome CTN Qty 6","Accessories",1,1,25.72,,,,,,18,25.72,,,"Accessories","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801321,"2504P/C","Tritix Sing. Vertical Bend - p/Coat CTN Qty 6","Accessories",1,1,24.41,,,,,,18,24.41,,,"Accessories","Carton",,,43.94,,,,,,,,,,,,,21.23,19.3
+1801322,"2505C","Tritix Sing. Horizontal Bend - Chrome CTN Qty 6","Accessories",1,1,30.85,,,,,,18,30.85,,,"Accessories","Carton",,,55.53,,,,,,,,,,,,,26.83,24.39
+1801323,"2505P/C","Tritix Sing. Horizontal Bend - p/Coat CTN Qty 6","Accessories",1,1,28.29,,,,,,18,28.29,,,"Accessories","Carton",,,50.92,,,,,,,,,,,,,24.6,22.36
+1801324,"2506C","Tritix Triangle Bend - Slanted - Chrome CTN Qty 6","Accessories",1,1,46.29,,,,,,18,46.29,,,"Accessories","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801325,"2506P/C","Tritix Triangle Bend - Slanted - p/Coat CTN Qty 6","Accessories",1,1,41.14,,,,,,18,41.14,,,"Accessories","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801326,"2507C","Tritix Triangle Bend - Strt. End - Chrome CTN Qty 6","Accessories",1,1,46.29,,,,,,18,46.29,,,"Accessories","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801327,"2507P/C","Tritix Triangle Bend - Strt. End - p/Coat CTN Qty 6","Accessories",1,1,41.14,,,,,,18,41.14,,,"Accessories","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801328,"2508C","Tritix Square Bend - Chrome CTN Qty 6","Accessories",1,1,72,,,,,,18,72,,,"Accessories","Carton",,,129.6,,,,,,,,,,,,,62.61,56.92
+1801329,"2508P/C","Tritix Square Bend - p/Coat CTN Qty 6","Accessories",1,1,61.72,,,,,,18,61.72,,,"Accessories","Carton",,,111.1,,,,,,,,,,,,,53.67,48.79
+1801330,"2509C","Tritix Dbl. Tube Gable Entry - Chrome CTN Qty 6","Tube",1,1,66.86,,,,,,18,66.86,,,"Tube","Carton",,,120.35,,,,,,,,,,,,,58.14,52.85
+1801331,"2509P/C","Tritix Dbl. Tube Gable Entry - p/Coat CTN Qty 6","Tube",1,1,56.57,,,,,,18,56.57,,,"Tube","Carton",,,101.83,,,,,,,,,,,,,49.19,44.72
+1801332,"2510C","Tritix Tri. Tube Gable Entry - Chrome CTN Qty 6","Tube",1,1,128.57,,,,,,18,128.57,,,"Tube","Carton",,,231.43,,,,,,,,,,,,,111.8,101.64
+1801333,"2510P/C","Tritix Tri. Tube Gable Entry - p/Coat CTN Qty 6","Tube",1,1,118.29,,,,,,18,118.29,,,"Tube","Carton",,,212.92,,,,,,,,,,,,,102.86,93.51
+1801334,"2514C","Tritix Dbl. Tube Wall Plate - Chrome CTN Qty 6","Tube",1,1,23.15,,,,,,18,23.15,,,"Tube","Carton",,,41.67,,,,,,,,,,,,,20.13,18.3
+1801335,"2514P/C","Tritix Dbl. Tube Wall Plate - p/Coat CTN Qty 6","Tube",1,1,20.57,,,,,,18,20.57,,,"Tube","Carton",,,37.03,,,,,,,,,,,,,17.89,16.26
+1801336,"2516C","Tritix Tri. Tube Wall Plate - Chrome CTN Qty 6","Tube",1,1,30.85,,,,,,18,30.85,,,"Tube","Carton",,,55.53,,,,,,,,,,,,,26.83,24.39
+1801337,"2516P/C","Tritix Tri. Tube Wall Plate - p/Coat CTN Qty 6","Tube",1,1,28.29,,,,,,18,28.29,,,"Tube","Carton",,,50.92,,,,,,,,,,,,,24.6,22.36
+1801338,"2517C","Tritix Square Tube Wall Plate - Chrome CTN Qty 6","Tube",1,1,46.29,,,,,,18,46.29,,,"Tube","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801339,"2517P/C","Tritix Square Tube Wall Plate - p/Coat CTN Qty 6","Tube",1,1,41.14,,,,,,18,41.14,,,"Tube","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801340,"2518C","Tritix Wall Mount Brkt - Chrome CTN Qty 6","Bracket",1,1,38.03,,,,,,18,38.03,,,"Bracket","Carton",,,68.45,,,,,,,,,,,,,33.07,30.06
+1801341,"2518P/C","Tritix Wall Mount Brkt - p/Coat CTN Qty 6","Bracket",1,1,25.34,,,,,,18,25.34,,,"Bracket","Carton",,,45.61,,,,,,,,,,,,,22.03,20.03
+1801342,"2519C","Tritix Hangrail - 915mm - Chrome CTN Qty 6","Accessories",1,1,31.66,,,,,,18,31.66,,,"Accessories","Carton",,,56.99,,,,,,,,,,,,,27.53,25.03
+1801343,"2519P/C","Tritix Hangrail - 915mm - p/Coat CTN Qty 6","Accessories",1,1,28.53,,,,,,18,28.53,,,"Accessories","Carton",,,51.35,,,,,,,,,,,,,24.81,22.55
+1801344,"2522C","Tritix Central Shlf. Brkt (Pr) - Chrome CTN Qty 6","Bracket",1,1,20.57,,,,,,18,20.57,,,"Bracket","Carton",,,37.03,,,,,,,,,,,,,17.89,16.26
+1801345,"2522P/C","Tritix Central Shlf. Brkt (Pr) - p/Coat CTN Qty 6","Bracket",1,1,20.57,,,,,,18,20.57,,,"Bracket","Carton",,,37.03,,,,,,,,,,,,,17.89,16.26
+1801346,"2523C","Tritix Offset Shlf. Brkt (Pr) - Chrome CTN Qty 6","Bracket",1,1,20.57,,,,,,18,20.57,,,"Bracket","Carton",,,37.03,,,,,,,,,,,,,17.89,16.26
+1801347,"2523P/C","Tritix Offset Shlf. Brkt (Pr) - p/Coat CTN Qty 6","Bracket",1,1,20.57,,,,,,18,20.57,,,"Bracket","Carton",,,37.03,,,,,,,,,,,,,17.89,16.26
+1801348,"2526C","Tritix Base/Desk Support - 400mm - Chrome CTN Qty 6","Base",1,1,36.43,,,,,,18,36.43,,,"Base","Carton",,,65.57,,,,,,,,,,,,,31.68,28.8
+1801349,"2526P/C","Tritix Base/Desk Support - 400mm - p/Coat CTN Qty 6","Base",1,1,34.88,,,,,,18,34.88,,,"Base","Carton",,,62.78,,,,,,,,,,,,,30.33,27.57
+1801350,"2527C","Tritix Base/Desk Support - 600mm - Chrome CTN Qty 6","Base",1,1,38.03,,,,,,18,38.03,,,"Base","Carton",,,68.45,,,,,,,,,,,,,33.07,30.06
+1801351,"2527P/C","Tritix Base/Desk Support - 600mm - p/Coat CTN Qty 6","Base",1,1,36.43,,,,,,18,36.43,,,"Base","Carton",,,65.57,,,,,,,,,,,,,31.68,28.8
+1801352,"2531P/C","Tritix Dbl. Tube Met. Base - p/Coat CTN Qty 6","Tube",1,1,82.35,,,,,,18,82.35,,,"Tube","Carton",,,148.23,,,,,,,,,,,,,71.61,65.1
+1801353,"2532P/C","Tritix Tri. Tube Met. Base - p/Coat CTN Qty 6","Tube",1,1,82.35,,,,,,18,82.35,,,"Tube","Carton",,,148.23,,,,,,,,,,,,,71.61,65.1
+1801354,"2533P/C","Tritix Square Tube Met. Base - p/Coat CTN Qty 6","Tube",1,1,82.35,,,,,,18,82.35,,,"Tube","Carton",,,148.23,,,,,,,,,,,,,71.61,65.1
+1801355,"2543C","Tritix Triangle Bend - Inner Tube - Chrome CTN Qty 6","Tube",1,1,46.29,,,,,,18,46.29,,,"Tube","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801356,"2543P/C","Tritix Triangle Bend - Inner Tube - p/Coat CTN Qty 6","Tube",1,1,41.14,,,,,,18,41.14,,,"Tube","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801357,"2544C","Tritix Triangle Cross Joint - Chrome CTN Qty 6","Accessories",1,1,82.29,,,,,,18,82.29,,,"Accessories","Carton",,,148.12,,,,,,,,,,,,,71.56,65.05
+1801358,"2544P/C","Tritix Triangle Cross Joint - p/Coat CTN Qty 6","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801359,"2545C","'Tritix Triangle ''t'' Joint - Chrome CTN Qty 6'","Accessories",1,1,82.29,,,,,,18,82.29,,,"Accessories","Carton",,,148.12,,,,,,,,,,,,,71.56,65.05
+1801360,"2545P/C","'Tritix Triangle ''t'' Joint - p/Coat CTN Qty 6'","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801361,"2546C","Tritix Triangle Pyramid - Chrome CTN Qty 6","Accessories",1,1,72,,,,,,18,72,,,"Accessories","Carton",,,129.6,,,,,,,,,,,,,62.61,56.92
+1801362,"2546P/C","Tritix Triangle Pyramid - p/Coat CTN Qty 6","Accessories",1,1,66.86,,,,,,18,66.86,,,"Accessories","Carton",,,120.35,,,,,,,,,,,,,58.14,52.85
+1801363,"2547C","Tritix Dbl. Tube Mitred Vert. Corn - Chrome CTN Qty 6","Tube",1,1,46.29,,,,,,18,46.29,,,"Tube","Carton",,,83.32,,,,,,,,,,,,,40.25,36.59
+1801364,"2547P/C","Tritix Dbl. Tube Mitred Vert. Corn - p/Coat CTN Qty 6","Tube",1,1,41.14,,,,,,18,41.14,,,"Tube","Carton",,,74.05,,,,,,,,,,,,,35.77,32.52
+1801365,"2548C","Tritix Dbl. Tube Mitred Horiz. Corn - Chrome CTN Qty 6","Tube",1,1,54,,,,,,18,54,,,"Tube","Carton",,,97.2,,,,,,,,,,,,,46.96,42.69
+1801366,"2548P/C","Tritix Dbl. Tube Mitred Horiz. Corn - p/Coat CTN Qty 6","Tube",1,1,48.85,,,,,,18,48.85,,,"Tube","Carton",,,87.93,,,,,,,,,,,,,42.48,38.62
+1801367,"2549C","Tritix Triangle Mitred Corn. - Chrome CTN Qty 6","Accessories",1,1,82.29,,,,,,18,82.29,,,"Accessories","Carton",,,148.12,,,,,,,,,,,,,71.56,65.05
+1801368,"2549P/C","Tritix Triangle Mitred Corn. - p/Coat CTN Qty 6","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801369,"2550C","Tritix Square Mitred Corn. - Chrome CTN Qty 6","Accessories",1,1,97.72,,,,,,18,97.72,,,"Accessories","Carton",,,175.9,,,,,,,,,,,,,84.98,77.25
+1801370,"2550P/C","Tritix Square Mitred Corn. - p/Coat CTN Qty 6","Accessories",1,1,92.57,,,,,,18,92.57,,,"Accessories","Carton",,,166.63,,,,,,,,,,,,,80.5,73.18
+1801371,"2551C","Tritix Triangle 120 Bend - Slanted - Chrome CTN Qty 6","Accessories",1,1,72,,,,,,18,72,,,"Accessories","Carton",,,129.6,,,,,,,,,,,,,62.61,56.92
+1801372,"2551P/C","Tritix Triangle 120 Bend - Slanted - p/Coat CTN Qty 6","Accessories",1,1,66.86,,,,,,18,66.86,,,"Accessories","Carton",,,120.35,,,,,,,,,,,,,58.14,52.85
+1801373,"2552/C","Tritix Sq. 120 Bend - Slanted - Chrome CTN Qty 6","Accessories",1,1,92.57,,,,,,18,92.57,,,"Accessories","Carton",,,166.63,,,,,,,,,,,,,80.5,73.18
+1801374,"2552P/C","Tritix Sq. 120 Bend - Slanted - p/Coat CTN Qty 6","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801375,"2553C","Tritix Sq. Cross Joint - Chrome CTN Qty 6","Accessories",1,1,87.44,,,,,,18,87.44,,,"Accessories","Carton",,,157.39,,,,,,,,,,,,,76.03,69.12
+1801376,"2553P/C","Tritix Sq. Cross Joint - p/Coat CTN Qty 6","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801377,"2554C","'Tritix Sq. ''t'' Joint - Chrome CTN Qty 6'","Accessories",1,1,87.44,,,,,,18,87.44,,,"Accessories","Carton",,,157.39,,,,,,,,,,,,,76.03,69.12
+1801378,"2554P/C","'Tritix Sq. ''t'' Joint - p/Coat CTN Qty 6'","Accessories",1,1,77.14,,,,,,18,77.14,,,"Accessories","Carton",,,138.85,,,,,,,,,,,,,67.08,60.98
+1801379,"2555C","Tritix Cent. Slop. Shlf. Brkt (Pr) - Chrome CTN Qty 6","Bracket",1,1,25.72,,,,,,18,25.72,,,"Bracket","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801380,"2555P/C","Tritix Cent. Slop. Shlf. Brkt (Pr) - p/Coat CTN Qty 6","Bracket",1,1,25.72,,,,,,18,25.72,,,"Bracket","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801381,"2556C","Tritix o/Set Slop. Shlf. Brkt (Pr) - Chrome CTN Qty 6","Bracket",1,1,25.72,,,,,,18,25.72,,,"Bracket","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801382,"2556P/C","Tritix o/Set Slop. Shlf. Brkt (Pr) - p/Coat CTN Qty 6","Bracket",1,1,25.72,,,,,,18,25.72,,,"Bracket","Carton",,,46.3,,,,,,,,,,,,,22.36,20.33
+1801383,"5033B","Spring Clip Lge CTN Qty 100","Clip",1,1,3.13,,,,,,18,3.13,,,"Clip","Carton",,,5.63,,,,,,,,,,,,,2.41,2.1
+1801384,"5033W","Spring Clip Lge CTN Qty 100","Clip",1,1,3.13,,,,,,18,3.13,,,"Clip","Carton",,,5.63,,,,,,,,,,,,,2.41,2.1
+1801385,"5039B","Springclip Sm CTN Qty 250","Accessories",1,1,0.22,,,,,,18,0.22,,,"Accessories","Carton",,,0.4,,,,,,,,,,,,,0.17,0.15
+1801386,"5039W","Springclip Sm CTN Qty 250","Accessories",1,1,0.22,,,,,,18,0.22,,,"Accessories","Carton",,,0.4,,,,,,,,,,,,,0.17,0.15
+1801387,"7000BLK","Acryl Hinge 2 CTN Qty 200","Hinge",1,1,1.05,,,,,,18,1.05,,,"Hinge","Carton",,,1.89,,,,,,,,,,,,,0.72,0.65
+1801388,"7000CLR","Acryl Hinge 2 CTN Qty 200","Hinge",1,1,1.05,,,,,,18,1.05,,,"Hinge","Carton",,,1.89,,,,,,,,,,,,,0.72,0.65
+1801389,"7000WHI","Acryl Hinge 2 CTN Qty 200","Hinge",1,1,1.05,,,,,,18,1.05,,,"Hinge","Carton",,,1.89,,,,,,,,,,,,,0.72,0.65
+1801390,"7251-14","Plas Drill 9/16 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,45.75,42.4
+1801391,"7251-16","Plas Drill 5/8 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,51,47
+1801392,"7251-17","Plas Drill 11/16 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,88.05,80.5
+1801393,"7251-19","Plas Drill 3/4 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,82.05,75.5
+1801394,"7251-21","Plas Drill 13/16 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,113.18,104
+1801395,"7251-22","Plas Drill 7/8 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,123.23,114
+1801396,"7251-24","Plas Drill 15/16 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,138.53,127
+1801397,"7251-25","Plas Drill 1 CTN Qty 1","Drill Bit",1,1,0,,,,,,18,0,,,"Drill Bit","Carton",,,0,,,,,,,,,,,,,150.3,138
+1801398,"7540/2720","16mm Rod - 2700mm CTN Qty 40","Rod",1,1,27.9,,,,,,18,27.9,,,"Rod","Carton",,,50.22,,,,,,,,,,,,,22.9,19.9
+1801399,"8852A","Mounting Track 4.0M Anodised CTN Qty 10","Track",1,1,29.5,,,,,,18,29.5,,,"Track","Carton",,,53.1,,,,,,,,,,,,,24.6,21.85
+1801400,"A1514","2c160 Taymar CTN Qty 24","Taynar",1,1,17.37,,,,,,18,17.37,,,"Taynar","Carton",,,31.27,,,,,,,,,,,,,14.48,13.16
